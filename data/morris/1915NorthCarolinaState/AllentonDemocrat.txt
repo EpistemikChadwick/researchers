@@ -1,0 +1,20 @@
+name
+last: Witmer
+first: Earl
+
+affiliation
+type: player
+date: 1915
+club: Muhlenberg College
+caliber: college
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+source: Allentown Democrat (AD) 1915-06-07, page 8
+
+---

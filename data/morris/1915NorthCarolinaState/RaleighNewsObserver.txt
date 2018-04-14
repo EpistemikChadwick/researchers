@@ -1,0 +1,322 @@
+name
+last: Tally
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+
+source: Raleigh News & Observer (RNO) 1915-07-27, page 3
+
+---
+
+name
+last: High
+first: Doc
+
+affiliation
+type: player
+date: 1915
+club: Bingham School
+place: US, NC, Mebane
+caliber: college
+position: P
+
+source: Raleigh News & Observer (RNO) 1915-03-26, page 3
+
+---
+
+name
+last: Jaynes
+first: Hero
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+club: North Carolina State University
+caliber: college
+
+source: Raleigh News & Observer (RNO) 1915-05-27, page 3
+
+---
+
+name
+last: Farmer
+first: Archie
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+
+affiliation
+type: player
+club: North Carolina State University
+caliber: college
+
+residence
+place: US, NC, Wilson
+date: 1915
+
+source: Raleigh News & Observer (RNO) 1915-03-24, page 3
+
+---
+
+name
+last: Litchfield
+first: Red
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+
+affiliation
+type: player
+club: University of North Carolina
+caliber: college
+
+affiliation
+type: player
+club: Duke University
+caliber: college
+
+source: Raleigh News & Observer (RNO) 1914-05-14, page 7
+
+---
+
+name
+last: Maddox
+first: H. A.
+
+affiliation
+type: player
+date: 1914
+club: Duke University
+caliber: college
+position: C
+
+note: captain of Duke team
+
+source: Raleigh News & Observer (RNO) 1914-03-16, page 3
+
+---
+
+name
+last: McCord
+first: H. I.
+
+affiliation
+type: player
+date: 1914
+club: Raleigh
+league: North Carolina State
+
+residence
+place: US, PA, Harrisburg
+date: 1914
+
+source: Raleigh News & Observer (RNO) 1914-04-03, page 3
+
+---
+
+name
+last: Moore
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Wake Forest University
+caliber: college
+position: P
+
+meta
+throws: Right
+
+source: Raleigh News & Observer (RNO) 1915-04-18, page 3
+
+---
+
+
+
+name
+last: Newman
+first: Dummy
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+club: Raleigh
+league: North Carolina State
+
+note: released - to play with Morganton amateurs - left for Elon College
+
+source: Raleigh News & Observer (RNO) 1915-05-19, page 3
+
+---
+
+name
+last: Newman
+first: Dummy
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+club: Raleigh
+league: North Carolina State
+
+affiliation
+type: player
+date: 1915
+club: Morganton
+caliber: amateur
+
+note: released - left for Elon College
+
+source: Raleigh News & Observer (RNO) 1915-05-19, page 3
+
+---
+
+name
+last: Poland
+first: Eugene
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: OF
+
+affiliation
+type: player
+league: Georgia State
+
+affiliation
+type: player
+league: Florida-Alabama-Georgia
+
+source: Raleigh News & Observer (RNO) 1915-07-29, page 3
+
+---
+
+name
+last: Poole
+first: W. L.
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+position: C
+
+source: Raleigh News & Observer (RNO) 1915-07-29, page 3
+
+---
+
+name
+last: Russell
+first: Oscar
+
+affiliation
+type: player
+club: North Carolina State University
+caliber: college
+
+source: Raleigh News & Observer (RNO) 1915-03-23, page 7
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

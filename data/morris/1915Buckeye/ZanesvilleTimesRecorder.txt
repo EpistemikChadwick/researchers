@@ -1,0 +1,59 @@
+name
+last: Baird
+first: Red
+
+affiliation
+type: player
+date: 1911
+club: Ohio State University
+caliber: college
+
+source: Zanesville Times Recorder (ZTR) 1911-05-15, page 2
+
+---
+
+name
+last: Barnhart
+first: John
+
+affiliation
+type: player
+date: 1913
+club: Zanesville
+league: Interstate
+position: P
+
+residence
+place: US, OH, Dennison
+date: 1915
+
+source: Zanesville Times Recorder 1913-05-03, page 6
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

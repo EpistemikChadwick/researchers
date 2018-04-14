@@ -1,0 +1,153 @@
+name
+last: Benjamin
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: IF
+
+affiliation
+type: player
+date: 1915
+club: 18th Infantry
+caliber: semi-pro
+
+source: Arizona Daily Star 1915-05-02, page 7
+
+---
+
+name
+last: Black
+first: Jim
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+source: Arizona Daily Star 1915-05-06, page 3
+
+---
+
+name
+last: Callan
+first: Buster
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: C
+
+note: picture
+
+source: Arizona Daily Star 1915-06-02, page 5
+
+---
+
+name
+last: Cox
+first: Chesty
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: 2B
+
+affiliation
+type: player
+date: 1912
+league: Western Canada
+
+affiliation
+type: player
+date: 1913
+league: Kentucky-Illinois-Tennessee
+
+note: picture
+
+source: Arizona Daily Star 1915-04-16, page 3
+
+---
+
+name
+last: Fulwider
+first: Red
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+source: Arizona Daily Star 1915-06-24, page 7
+
+---
+
+name
+last: Benjamin
+first: D.J.
+
+affiliation
+type: manager
+date: 1915
+club: 18th Infantry
+caliber: semi-pro
+
+source: Arizona Daily Star 1915-08-29, page 5
+
+---
+
+name
+last: Sullinger
+first: Wilfred
+
+affiliation
+type: manager
+date: 1915
+club: Brannen
+caliber: semi-pro
+
+source: Arizona Daily Star 1915-08-29, page 5
+
+---
+
+name
+last: Rogers
+first:Ed
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: PH
+
+affiliation
+type: player
+club: University of Arizona
+caliber: college
+
+source: Arizona Daily Star 1915-06-27, page 5
+
+---
+
+
+
+
+
+
+
+
+
+
+
+

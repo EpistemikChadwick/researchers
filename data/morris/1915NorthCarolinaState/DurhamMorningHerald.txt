@@ -1,0 +1,151 @@
+name
+last: Covington
+first: Bob
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+position: P
+
+source: Durham Morning Herald (DMH) 1915-04-23
+
+
+---
+
+name
+last: Irby
+first: Crawford
+
+affiliation
+type: player
+date: 1913
+club: Durham
+league: North Carolina State
+position: OF
+
+source: Durham Morning Herald (DMH) 1913-02-23, page 3
+
+---
+
+name
+last: Kuykendall
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Kentucky-Illinois-Tennessee
+position: P
+
+affiliation
+type: player
+date: 1913
+league: Kentucky-Illinois-Tennessee
+position: P
+
+affiliation
+type: player
+date: 1912
+league: Kentucky-Illinois-Tennessee
+position: P
+
+meta
+throws: Left
+
+source: Durham Morning Herald (DMH) 1915-04-24, page 10
+
+---
+
+name
+last: Maddox
+first: Frosty
+
+affiliation
+type: player
+date: 1915
+club: Duke University
+caliber: college
+position: C
+
+source: Durham Morning Herald (DMH) 1915-06-20, page 2
+
+---
+
+name
+last: Roberts
+first: Buck
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+
+residence
+place: US, NC, Durham
+date: 1915
+
+source: Durham Morning Herald (DMH) 1915-06-16, page 2
+
+---
+
+name
+last: Trenkle
+first: Tony
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+position: P
+
+residence
+place: US, PA, Wilkes-Barre 
+date: 1915
+
+source: Durham Morning Herald (DMH) 1915-03-16, page 2
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

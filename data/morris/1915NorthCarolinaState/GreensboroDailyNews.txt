@@ -1,0 +1,423 @@
+name
+last: Altman
+first: Robert
+given: Robert G.
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: P
+
+meta
+throws: Left
+weight: 155
+
+affiliation
+type: player
+date: 1914
+club: Chillicothe
+league: Ohio State 
+position: P
+
+
+source: Greensboro Daily News (GDN) 1915-03-02, page 6
+
+---
+
+name
+last: Sheehan
+first: Lew
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+
+source: Greensboro Daily News (GDN) 1915-03-30, page 6
+
+---
+
+name
+last: Atkinson
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+club: Elon University
+caliber: college
+
+note: played in minor leagues in 1914
+
+source: Greensboro Daily News (GDN) 1915-05-02, page 6
+
+---
+
+name
+last: Cotter
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: P
+
+meta
+throws: Left
+
+source: Greensboro Daily News (GDN) 1915-02-15, page 5
+
+---
+
+name
+last: High
+first: Doc
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1913
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1912
+club: Charlotte
+league: North Carolina State
+position: P
+
+source: Greensboro Daily News (GDN) 1914-05-23, page 6
+
+---
+
+name
+last: Davis
+first: Ralph
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: LF
+
+affiliation
+type: player
+club: Guilford College
+caliber: college
+
+source: Greensboro Daily News (GDN) 1915-08-24, page 6
+
+---
+
+name
+last: Ray
+first: Carl
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Philadelphia
+league: National
+position: P
+
+meta
+throws: Left
+
+source: Greensboro Daily News (GDN) 1915-09-20, page 6
+
+---
+
+name
+last: Carlisle
+first: Terry
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: 3B
+
+source: Greensboro Daily News (GDN) 1915-08-26, page 6
+
+---
+
+name
+last: Edwards
+first: Jimmy
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: OF
+
+affiliation
+type: player
+date: 1914
+league: Ohio State
+position: OF
+
+source: Greensboro Daily News (GDN) 1915-08-26, page 6
+
+---
+
+name
+last: Fenton
+first: George
+nick: Doc
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: OF
+
+affiliation
+type: player
+date: 1916
+club: Greensboro
+league: North Carolina State
+position: OF
+
+source: Greensboro Daily News (GDN) 1916-04-02, page 7
+
+---
+
+name
+last: Litchfield
+first: Red
+
+residence
+place: US, NC, Aurora
+date: 1915
+
+source: Greensboro Daily News (GDN) 1916-04-03, page 3
+
+---
+
+name
+last: McMillan
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: CF
+
+affiliation
+type: player
+date: 1915
+league: Georgia-Alabama
+
+source: Greensboro Daily News (GDN) 1916-07-28, page 6
+
+---
+
+name
+last: Moore
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: P
+
+meta
+throws: Left
+
+source: Greensboro Daily News (GDN) 1916-07-28, page 6
+
+---
+
+name
+last: Russell
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+
+affiliation
+type: player
+club: North Carolina State University
+caliber: college
+
+source: Greensboro Daily News (GDN) 1916-06-03, page 6
+
+---
+
+name
+last: Russell
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: P
+
+meta
+throws: Right
+
+source: Greensboro Daily News (GDN) 1916-06-03, page 6
+
+---
+
+name
+last: Scurlock
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+position: CF/C
+
+source: Greensboro Daily News (GDN) 1916-09-02, page 6
+
+---
+
+name
+last: Shamlin
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Richmond
+league: International
+position: P
+
+source: Greensboro Daily News (GDN) 1915-05-12, page 6
+
+---
+
+name
+last: Sisson
+first: Charlie
+
+affiliation
+type: umpire
+date: 1915
+league: North Carolina State
+
+source: Greensboro Daily News (GDN) 1915-05-07, page 6
+
+---
+
+name
+last: Watson
+first: Archie
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+
+source: Greensboro Daily News (GDN) 1915-06-12, page 6
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

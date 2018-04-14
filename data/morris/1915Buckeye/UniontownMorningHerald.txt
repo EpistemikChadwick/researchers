@@ -1,0 +1,53 @@
+name
+last: Roudebush
+first: Allen
+
+affiliation
+type: player
+date: 1911
+club: Wheeling
+league: Central
+
+affiliation
+type: player
+date: 1906
+club: Uniontown
+league: Pennsylvania-Ohio-Maryland
+
+affiliation
+type: player
+club: Denison University
+caliber: college
+
+source: Uniontown Morning Herald, 1911-07-11, page 3
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

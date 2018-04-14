@@ -1,0 +1,21 @@
+name
+last: Shamlin
+first: Roy
+
+affiliation
+type: player
+date: 1915
+club: Richmond
+league: International
+position: P
+
+residence
+place: US, WV, Huntington
+date: 1915
+
+meta
+throws: Left
+
+source: Jaynesville Daily Gazette (JDG) 1915-03-03, page 3
+
+---

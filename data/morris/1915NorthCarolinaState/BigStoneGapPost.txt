@@ -1,0 +1,15 @@
+name
+last: Carnes
+first: Allen
+
+affiliation
+position: 3B
+
+residence
+place: US, VA, Big Stone Gap
+date: 1914
+
+source: Big Stone Gap Post (BSGP) 1914-05-13, page 2
+
+
+---

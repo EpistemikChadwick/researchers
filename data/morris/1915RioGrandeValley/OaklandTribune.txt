@@ -1,0 +1,37 @@
+name
+last: Bennallack
+first: Heinie
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+club: Ambrose Tailor (Oakland, CA)
+caliber: semi-pro
+
+source: Oakland Tribune 1915-05-16, page 50
+
+---
+
+name
+last: Kraft
+first: Freddie
+
+affiliation
+type: player
+club: Douglas
+league: South Atlantic
+position: C
+
+affiliation
+type: player
+club: Ambrose Tailor (Oakland, CA)
+caliber: semi-pro
+
+source: Oakland Tribune 1915-05-16, page 50
+

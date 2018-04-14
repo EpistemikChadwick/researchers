@@ -1,0 +1,28 @@
+name
+last: Yockey
+first: Cliff
+
+affiliation
+type: player
+date: 1913
+club: Hamilton
+league: Ohio State
+
+residence
+place: US, OH, Cincinnati
+date: 1913
+
+source: Hamilton Evening Journal (HEJ) 1913-09-15, page 7
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,218 @@
+name
+last: Atkinson
+first: Hollis
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Columbia
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+club: Elon University
+caliber: college
+
+source: Asheville Gazette-News (AGN) 1915-04-29, page 10
+
+---
+
+name
+last: Egan
+first: Thomas
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: C
+
+affiliation
+type: player
+date: 1914
+club: Jersey City
+league: International
+position: C
+
+meta:
+weight: 175
+height: 70
+
+residence
+place: US, CT, Hartford
+date: 1915
+
+note: played 9 games with Jersey City in 1914; 20 years old
+
+source: Asheville Gazette-News (AGN) 1915-03-09, page 3
+
+---
+
+name
+last: Gooch
+first: Lee
+
+affiliation
+type: player
+date: 1914
+club: Raleigh
+league: North Carolina State
+position: OF
+
+source: Asheville Gazette-News (AGN) 1915-03-15, page 3
+
+---
+
+name
+last: Groome
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+
+source: Asheville Gazette-News (AGN) 1915-05-20, page 5
+
+---
+
+name
+last: Steinbach
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+league: New York State
+position: P
+
+meta
+throws: Right
+
+source: Asheville Gazette-News (AGN) 1915-03-09, page 3
+
+---
+
+name
+last: Fenton
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: CF
+
+source: Asheville Gazette-News (AGN) 1915-04-20, page 5
+
+---
+
+name
+last: Schuyler
+first: Bob
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+position: OF
+
+affiliation
+type: player
+date: 1914
+club: Asheville
+league: North Carolina State
+position: OF
+
+affiliation
+type: player
+date: 1914
+club: Brunswick
+league: Georgia State
+position: OF
+
+source: Asheville Gazette-News (AGN) 1915-01-22, page 11
+
+---
+
+name
+last: Kirke
+first: M. M.
+
+affiliation
+type: player
+date: 1914
+club: Traverse city
+league: Michigan State
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+
+source: Asheville Gazette-News (AGN) 1915-04-20, page 5
+
+---
+
+name
+last: Lynch
+first: Morris
+
+affiliation
+type: player
+date: 1915
+club: Weaver College
+place: US, NC, Weaverville
+caliber: college
+
+residence
+place: US, NC, Rutherfordton
+date: 1915
+
+source: Asheville Gazette-News (AGN) 1915-01-23, page 6
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

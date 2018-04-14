@@ -1,0 +1,54 @@
+name
+last: McGivern
+first: Raymond
+
+affiliation
+type: player
+date: 1911
+club: Crestline
+caliber: Semi pro
+
+affiliation
+type: player
+date: 1910
+club: Lancaster
+league: Ohio State
+
+source: Mansfield News-Journal (MNJ) 1911-01-09, page 10
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

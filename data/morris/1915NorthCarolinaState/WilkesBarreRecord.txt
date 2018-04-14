@@ -1,0 +1,23 @@
+name
+last: Nolan
+first: Joseph
+
+affiliation
+type: player
+date: 1915
+club: Wilkes-Barre
+league: New York State
+
+affiliation
+type: player
+date: 1914
+club: Asbury Park
+league: Atlantic 
+
+residence
+place: US, NJ, Hightstown
+date: 1915
+
+source: Wilkes-Barre Record (WBR) 1915-02-06, page 9
+
+---

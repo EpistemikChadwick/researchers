@@ -1,0 +1,23 @@
+name
+last: Andrada
+
+affiliation
+type: player
+date: 1911
+club: Greenwood
+league: Cotton States
+position: P
+
+affiliation
+type: player
+date: 1911
+club: Macon
+league: South Atlantic
+position: P
+
+source: Wilkes-Barre Times Leader 1911-06-07, page 12
+
+
+
+
+

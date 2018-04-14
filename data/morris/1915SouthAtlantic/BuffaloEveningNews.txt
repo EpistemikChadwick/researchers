@@ -1,0 +1,18 @@
+name
+last: Hitchcock
+first: Ed
+
+affiliation
+type: player
+date: 1915
+club: Cleveland
+league: American
+
+affiliation
+type: player
+club: University of Georgia
+caliber: college
+
+source: Buffalo Evening News 1915-03-20, page 14
+
+

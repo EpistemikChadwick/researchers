@@ -1,0 +1,218 @@
+name
+last: Bartell
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: P
+
+meta
+throws: Right
+
+source: Winston-Salem Journal (WSJ) 1915-04-28
+
+---
+
+name
+last: Gooch
+first: Lee
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+league: American Association
+
+note: banned from playing in NCSL because he played 24 games in AA in 1914
+
+source: Winston-Salem Journal (WSJ) 1915-05-21, page 6
+
+---
+
+name
+last: Hanes
+first: Monk
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: RF
+
+affiliation
+type: player
+date: 1915
+club: Yale University
+caliber: college
+
+source: Winston-Salem Journal (WSJ) 1915-08-06, page 6
+
+---
+
+name
+last: Hass
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: C
+
+affiliation
+type: player
+date: 1915
+club: Portsmouth
+league: Virginia
+position: C
+
+source: Winston-Salem Journal (WSJ) 1915-04-21, page 6
+
+---
+
+name
+last: Witner
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+
+note: released
+
+source: Winston-Salem Journal (WSJ) 1915-04-25, page 7
+
+---
+
+name
+last: Welch
+first: Ernie
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: 2B
+
+note: released
+
+source: Winston-Salem Journal (WSJ) 1915-05-21, page 6
+
+---
+
+name
+last: Kirke
+
+affiliation
+type: player
+date: 1914
+league: Michigan State
+
+affiliation
+type: player
+date: 1915
+club: Columbia
+league: South Atlantic
+position: 2B
+
+source: Winston-Salem Journal (WSJ) 1915-03-20, page 6
+
+---
+
+name
+last: Lynch
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: RF
+
+affiliation
+type: player
+club: Weaver College
+place: US, NC, Weaverville
+caliber: college
+
+source: Winston-Salem Journal (WSJ) 1915-05-12, page 6
+
+---
+
+name
+last: Osteen
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: P
+
+source: Winston-Salem Journal (WSJ) 1915-05-09, page 6
+
+---
+
+name
+last: Parkins
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+club: Houston
+league: Texas
+
+residence
+place: US, MO, St. Louis
+date: 1915
+
+note: played 8 games for Houston
+
+source: Winston-Salem Journal (WSJ) 1915-05-09, page 6
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

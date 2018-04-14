@@ -1,0 +1,21 @@
+name
+last: Hartsell
+first: Harry
+
+affiliation
+type: player
+club: Cleveland
+league: American Association
+
+affiliation
+type: player
+date: 1912
+club: Asheville
+league: Appalachian
+
+affiliation
+type: player
+club: North Carolina State University
+caliber: college
+
+source: Indianapolis Star 1915-03-17, page 10

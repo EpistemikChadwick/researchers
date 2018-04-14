@@ -1,0 +1,17 @@
+name
+last: Nolan
+first: Joe
+
+affiliation
+type: player
+date: 1915
+club: Wilkes-Barre
+league: New York State
+
+residence
+place: US, NJ, Hightstown
+date: 1915
+
+source: Trenton Evening Times (TET) 1915-04-27, page 8
+
+---

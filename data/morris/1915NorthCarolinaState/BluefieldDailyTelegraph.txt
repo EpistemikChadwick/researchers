@@ -1,0 +1,49 @@
+name
+last: Carnes
+first: Allen
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+
+affiliation
+type: player
+date: 1915
+club: Clinchfield
+
+residence
+place: US, WV, Gary
+date: 1915
+
+note: recently signed
+
+source: Bluefield Daily Telegraph (BDT) 1915-07-10, page 3
+
+---
+
+name
+last: Potter
+first: Dave
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+
+affiliation
+type: player
+date: 1915
+club: Clinchfield
+
+residence
+place: US, VA, Dante
+date: 1915
+
+note: recently signed
+
+source: Bluefield Daily Telegraph (BDT) 1915-07-10, page 3
+
+---

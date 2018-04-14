@@ -1,0 +1,52 @@
+name
+last: Salazar
+first: Ross
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: RF
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+source: Albuquerque Journal 1915-06-12, page 4
+
+---
+
+name
+last: Salazar
+first: Ross
+
+affiliation
+type: player
+club: Charleston
+league: South Atlantic
+position: 3B
+
+affiliation
+type: player
+club: Albuquerque Grays
+caliber: semi-pro
+
+source: Albuquerque Journal 1911-06-27, page 3
+
+---
+
+name
+last: Humphries
+first: Jimmy
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+
+source: Albuquerque Journal 1915-06-27, page 2
+

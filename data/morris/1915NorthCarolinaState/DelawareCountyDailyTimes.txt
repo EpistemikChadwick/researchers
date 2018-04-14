@@ -1,0 +1,28 @@
+name
+last: Darlington
+first: Allan
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Wilmington
+league: Tri-State
+position: P
+
+affiliation
+type: player
+date: 1913
+club: Wilmington
+league: Tri-State
+position: P
+
+source: Delaware County Daily Times (DCDT) 1914-08-21, page 2
+
+---

@@ -1,0 +1,26 @@
+name
+last: Brainard
+first: Carl
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+affiliation
+type: player
+date: 1915
+club: Carlsbad, NM
+caliber: semi-pro
+
+residence
+place: US, NM, Carlsbad
+date: 1915
+
+source: Carlsbad Current 1915-07-02, page 1
+
+
+
+
+

@@ -1,0 +1,53 @@
+name
+last: Moore
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Chillicothe
+league: Ohio State
+
+residence
+place: US, OH, Basil
+date: 1915
+
+note: left team
+
+source: Lancaster Eagle-Gazette (LEG) 1915-06-08, page 8
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

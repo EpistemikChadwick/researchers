@@ -1,0 +1,20 @@
+name
+last: Baumgartner
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Norfolk
+league: Virgnia
+position: P
+
+meta
+weight: 170
+height: 72
+
+note: served on battleship USS New Jersey
+
+source: Newport News Daily Press (NNDP) 1915-01-31, page 2
+
+---

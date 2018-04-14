@@ -1,0 +1,335 @@
+name
+last: Hendee
+first: Sam
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Fowler
+first: Junior
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Rogers
+first: Harry
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Fink
+first: Eddie
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Howell
+first: Arthur
+given: Arthur Allen
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Vinson
+first: Tex
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Fitzpatrick
+first: John
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Sutcliffe
+first: Willis
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Weeks
+first: Monte
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Forney
+first: Jim
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Brown
+first: Ed
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Corey
+first: W. F.
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Kool
+first: O.A.
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Mahoney
+first: Bernard
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Kocher
+first: George
+
+affiliation
+type: player
+date: 1916
+club: Mason City
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Kane
+first: Joseph
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Ranshausen
+first: Chris
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Blank
+first: Herman
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Brown
+first: Larry
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Cowell
+first: C.W.
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Lyck
+first: Peter
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Trauman
+first: Jack
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+---
+
+name
+last: Ireland
+first: Roy
+
+affiliation
+type: player
+date: 1916
+club: Marshalltown
+league: Central Association
+
+source: Daily Gate City (Koekuk, IA) 1916-01-12, page 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

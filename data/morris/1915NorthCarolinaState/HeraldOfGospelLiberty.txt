@@ -1,0 +1,21 @@
+name
+last: Newman
+first: J. U.
+suffix: Jr.
+nick: Dummy
+
+affiliation
+type: player
+date: 1915
+club: Elon University
+caliber: college
+
+residence
+place: US, VA, Hopewell
+date: 1915
+
+note: married to Thelma Stone
+
+source: The Herald of Gospel Liberty 1918-06-06, page 547
+
+---

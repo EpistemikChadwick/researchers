@@ -1,0 +1,53 @@
+name
+last: Hook
+first: Ernest
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Streator
+league: Illinois-Missouri
+position: P
+
+meta
+throws: Right
+
+source: Coshocton Morning Tribune (CMT) 1915-05-12, page 4
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,190 @@
+name
+last: Cunningham
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+club: Mobile
+league: Southern Association
+
+source: Augusta Chronicle 1915-06-09, page 5
+
+---
+
+name
+last: Stone
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Augusta
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Midville, GA
+caliber: semi-pro
+
+source: Augusta Chronicle 1915-06-09, page 5
+
+---
+
+name
+last: Hawkins
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: LF
+
+affiliation
+type: player
+date: 1914
+club: Columbus
+league: South Atlantic
+
+source: Augusta Chronicle 1915-06-09, page 5
+
+---
+
+name
+last: Woodruff
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Albany
+league: South Atlantic
+position: RF
+
+residence
+place: US, GA, Columbus
+date: 1915
+
+source: Augusta Chronicle 1915-07-20, page 8
+
+---
+
+name
+last: Watson
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Carolina 
+
+affiliation
+type: player
+date: 1913
+league: Carolina 
+
+residence
+place: US, MO, Maplewood
+date: 1915
+
+source: Augusta Chronicle 1915-03-10, page 3
+
+---
+
+name
+last: Pearson
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+club:  University of Mississippi
+caliber: college
+
+note: brother of Pearson who pitched for Jacksonville in 1914
+
+source: Augusta Chronicle 1915-03-10, page 3
+
+---
+
+name
+last: Harris
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: P
+
+meta
+throws: Left
+
+residence
+place: US, NM, 
+date: 1915
+
+source: Augusta Chronicle 1915-03-21, page 9
+
+---
+
+name
+last: Guess
+
+affiliation
+type: player
+date: 1915
+club: Augusta
+league: South Atlantic
+position: 1B
+
+meta
+throws: Left
+bats: Right
+
+source: Augusta Chronicle 1915-03-21, page 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2539 @@
+name
+last: Hurley
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+
+residence
+place: CA, ,
+date: 1915
+
+source: El Paso Herald 1915-03-13, page 24
+
+---
+
+name
+last: Reed
+first: George
+
+affiliation
+type: scout
+club: Cincinnati
+league: National
+
+affiliation
+type: scout
+club: St. Louis
+league: National
+
+affiliation
+type: manager
+club: Missoula
+league: Union Association
+
+source: El Paso Herald 1915-03-18, page 7
+
+---
+
+name
+last: Cavender
+first: Dred
+
+affiliation
+type: manager
+club: Dallas
+league: Texas
+
+affiliation
+type: manager
+club: Fort Worth
+league: Texas
+
+source: El Paso Herald 1915-03-18, page 7
+
+---
+
+name
+last: Mackey
+first: Ed
+
+affiliation
+type: umpire
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-03-18, page 7
+
+---
+
+name
+last: Ward
+first: Ed
+
+affiliation
+type: player
+date: 1915
+league: Rio Grande Association
+
+residence
+place: US, NM, Silver City
+date: 1915
+
+source: El Paso Herald 1915-03-18, page 7
+
+---
+
+name
+last: Mathes
+first: Joe
+
+affiliation
+type: player
+club: St. Louis
+league: Federal
+
+affiliation
+type: player
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-03-18, page 7
+
+---
+
+name
+last: Bliss
+first: Toots
+
+affiliation
+type: player
+date: 1915
+club: Oakland
+league: Pacific Coast
+position: C
+
+affiliation
+type: player
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-02, page 6
+
+---
+
+name
+last: Bliss
+first: Toots
+
+affiliation
+type: player
+club: Seattle
+league: Northwestern
+position: C
+
+affiliation
+type: player
+club: Medicine Hat
+league: Western Canada
+position: C
+
+affiliation
+type: player
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-02, page 6
+
+---
+
+name
+last: Smith
+first: Indian
+
+affiliation
+type: player
+date: 1914
+club: Regina
+league: Western Canada
+position: OF
+
+source: El Paso Herald 1915-04-02, page 6
+
+---
+
+name
+last: Daniels
+first: Bert
+
+affiliation
+type: player
+date: 1915
+club: Oakland
+league: Pacific Coast
+position: OF
+position: P
+
+source: El Paso Herald 1915-04-02, page 6
+
+---
+
+name
+last: McArdle
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: SS
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Dowling
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: 2B
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Toner
+first: Tom
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Pendleton
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: SS
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: McGlinn
+first: Stony
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Lewis
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Daniels
+first: Bert
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Beer
+first: Sam
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Bliss
+first: Toots
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: C
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Kallio
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Saskatoon
+league: Western Canada
+position: P
+
+source: El Paso Herald 1915-04-07, page 10
+
+---
+
+name
+last: Roche
+first: Tom
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: IF
+
+source: El Paso Herald 1915-04-12, page 7
+
+---
+
+name
+last: Hayes
+first: Johnny 
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: OF
+
+source: El Paso Herald 1915-04-12, page 7
+
+---
+
+name
+last: McArdle
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: SS
+
+affiliation
+type: player
+club: Venice
+league: Pacific Coast
+
+affiliation
+type: player
+club: San Francisco
+league: Pacific Coast
+
+source: El Paso Herald 1915-04-12, page 7
+
+---
+
+name
+last: Bliss
+first: Toots
+
+affiliation
+type: player
+date: 1915
+club: La Cruces
+league: Rio Grande Association
+position: C
+
+name
+last: Bliss
+first: Jack
+
+relationship
+name1: Toots
+name2: Jack
+relationship-type: brother
+
+source: El Paso Herald 1915-04-12, page 7
+
+---
+
+name
+last: Knight
+first: Kitty
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-13, page 8
+
+---
+
+name
+last: Seaton
+first: Joe
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+position: OF
+
+residence
+place: US, CA, San Francisco
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Guyn
+first: Howard
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: 2B
+
+residence
+place: US, KY, Leamington
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Smith
+first: Casey
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+residence
+place: US, CA, Healdsburg
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Wilde
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+residence
+place: US, OH, Toledo
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Beer
+first: Sam
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+residence
+place: US, OR, Eugene
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Russell
+first: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+residence
+place: US, CA, San Mateo
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Stanley
+first: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+league: Pacific Coast
+
+meta
+throws: Left
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Dowling
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+
+affiliation
+type: player
+date: 1914
+club: Indianapolis
+league: American Association
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Pittman
+first: Joe
+given: Joe Tobin
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+club: Mesa Jewels
+caliber: semi-pro
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Lynn
+first: Bert
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: C
+
+affiliation
+type: player
+date: 1915
+club: Salt Lake City
+league: Pacific Coast
+position: C
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Nutt
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: C
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Andrada
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Moose Jaw
+league: Western Canada
+position: P
+
+meta
+throws: Left
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Stevens
+first: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Nashville
+league: Southern Association
+position: P
+
+meta
+throws: Left
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: McGeehan
+first: Eddie
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: IF
+
+affiliation
+type: player
+date: 1914
+club: Butte
+league: Union Association
+
+affiliation
+type: player
+club: Silver City
+caliber: semi-pro
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Barton
+first: Speck
+given: Clarence
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: IF
+
+affiliation
+type: player
+date: 1915
+club: Indianapolis
+league: American Association
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Cox
+first: Chesty
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: 2B
+
+affiliation
+type: player
+date: 1914
+club: Chico
+league: California
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Felts
+first: Rabbit
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: CF
+
+affiliation
+type: player
+club: San Francisco
+league: Pacific Coast
+
+affiliation
+type: player
+club: Victoria
+league: Northwestern
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Fulwider
+first: C.
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Baker City
+league: Western Tri-State
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Galt
+first: Chief
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+residence
+place: US, CA, Los Angeles
+date: 1915
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Fuller
+first: Nick
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: C
+
+affiliation
+type: player
+date: 1914
+club: North Yakima
+league: Western Tri-State
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: Callan
+first: Buster
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: C
+
+source: El Paso Herald 1915-04-17, page 19
+
+---
+
+name
+last: McNeil
+first: Andy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: 3B
+
+affiliation
+type: player
+date: 1914
+league: Union Association
+
+residence
+place: US, ID, 
+date: 1915
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: McGilvray
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: IF
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: Duddy
+first: George
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: 3B
+
+note: 23 years old
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: McCloskey
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+
+name
+last: McCloskey
+first: John
+
+relationship
+name1: Jack
+name2: John
+relationship-type: son
+
+note: 24 years old
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Knight
+first: Kitty
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Pendleton
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: IF
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Schimpf
+first: Art
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: IF
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Lewis
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Hayes
+first: Johnny
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: OF
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Bauer
+first: Jake
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: OF
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Bliss
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: C
+
+affiliation
+type: player
+date: 1915
+club: Los Angeles
+league: Pacific Coast
+
+name
+last: Bliss
+first: Toots
+
+relationship
+name1: Jack
+name2: Toots
+relationship-type: brother
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Mahaffey
+first: Lou
+
+affiliation
+type: umpire
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Stirling
+
+affiliation
+type: umpire
+date: 1915
+league: Rio Grande Association
+
+residence
+place: US, CA, 
+date: 1915
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Kane
+first: Harry
+
+affiliation
+type: umpire
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-19, page 7
+
+---
+
+name
+last: Quigley
+first: Bill
+
+affiliation
+type: manager
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-20, page 7
+
+---
+
+name
+last: McAvoy
+first: James
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: IF
+
+affiliation
+type: player
+date: 1914
+club: Salt Lake City
+league: Union Association
+
+affiliation
+type: player
+date: 1914
+club: Modesto
+league: California State
+
+source: El Paso Herald 1915-04-21, page 7
+
+---
+
+name
+last: Lee
+first: Alfred
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+residence
+place: US, TX, Fort Worth 
+date: 1915
+
+note: 21 years old
+
+source: El Paso Herald 1915-04-21, page 7
+
+---
+
+name
+last: Seaton
+first: Joe
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-22, page 7
+
+---
+
+name
+last: Pendleton
+first: Johnny
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: SS
+
+source: El Paso Herald 1915-04-22, page 7
+
+---
+
+name
+last: French
+first: Charlie
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: 2B
+
+affiliation
+type: player
+date: 1914
+club: Salt Lake City
+league: Union Association
+
+source: El Paso Herald 1915-04-23, page 8
+
+---
+
+name
+last: Carmen
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: 1B
+
+affiliation
+type: player
+date: 1914
+club: Salt Lake City
+league: Union Association
+
+source: El Paso Herald 1915-04-23, page 8
+
+---
+
+name
+last: Zemlock [Zamloch]
+first: Carl
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1912
+club: Missoula
+league: Union Association
+
+source: El Paso Herald 1915-04-23, page 8
+
+---
+
+name
+last: McConnell
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+residence
+place: US, CA, 
+date: 1915
+
+source: El Paso Herald 1915-04-24, page 20
+
+---
+
+name
+last: Fannin
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: C
+
+residence
+place: US, CA, 
+date: 1915
+
+source: El Paso Herald 1915-04-24, page 20
+
+---
+
+name
+last: Sterling
+first: Ray
+
+affiliation
+type: umpire
+date: 1915
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-26, page 7
+
+---
+
+name
+last: Davis
+first: Billy
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1914
+club: Salt Lake City
+league: Union Association
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Murphy
+first: Howard
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1914
+club: Ogden
+league: Union Association
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Carman
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: 1B
+
+affiliation
+type: player
+date: 1914
+club: Salt Lake City
+league: Union Association
+
+affiliation
+type: player
+date: 1914
+club: Murray
+league: Union Association
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Flannery
+first: Ray
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: 2B
+
+residence
+place: US, TX,  Dallas
+date: 1915
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Irion
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: P
+
+residence
+place: US, TX,  Fort Worth
+date: 1915
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Jordan
+first: Walker
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+
+residence
+place: US, TX,  Fort Worth
+date: 1915
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Humphreys
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: IF
+
+residence
+place: US, TX,  Fort Worth
+date: 1915
+
+source: El Paso Herald 1915-04-26, page 8
+
+---
+
+name
+last: Kane
+first: Harry
+
+affiliation
+type: umpire
+date: 1915
+league: Rio Grande Association
+
+residence
+place: US, TX,  El Paso
+date: 1915
+
+source: El Paso Herald 1915-04-27, page 7
+
+---
+
+name
+last: Raedel
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: C
+
+affiliation
+type: player
+date: 1914
+club: Ogden
+league: Union Association
+
+source: El Paso Herald 1915-04-27, page 7
+
+---
+
+name
+last: Thompson
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: RF
+
+source: El Paso Herald 1915-04-27, page 7
+
+---
+
+name
+last: Goodwin
+first: Doc
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-27, page 7
+
+---
+
+name
+last: Shader
+first: Mickey
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-04-27, page 7
+
+---
+
+name
+last: Brown
+first: Jim
+
+affiliation
+type: manager
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+source: El Paso Herald 1915-04-27, page 7
+
+---
+
+name
+last: Stadelli
+first: Art
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+source: El Paso Herald 1915-05-01, page 11
+
+---
+
+name
+last: Meason
+first: Billy
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+
+residence
+place: US, TX,  El Paso
+date: 1915
+
+source: El Paso Herald 1915-05-03, page 7
+
+---
+
+name
+last: Lewis
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-03, page 7
+
+---
+
+name
+last: Thompson
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+
+affiliation
+type: player
+date: 1914
+league: Union Association
+
+affiliation
+type: player
+date: 1914
+league: Western Canada
+
+source: El Paso Herald 1915-05-03, page 7
+
+---
+
+name
+last: Black
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Union Association
+
+affiliation
+type: player
+club: Lexington
+league: Ohio State
+
+source: El Paso Herald 1915-05-06, page 5
+
+---
+
+name
+last: Gray
+first: Stanley
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: 1B
+
+source: El Paso Herald 1915-05-06, page 5
+
+---
+
+name
+last: Bennalach
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+residence
+place: US, CA, Oakland
+date: 1915
+
+source: El Paso Herald 1915-05-06, page 5
+
+---
+
+name
+last: McNeil
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: IF
+
+residence
+place: US, ID, Pocatello
+date: 1915
+
+source: El Paso Herald 1915-05-06, page 5
+
+---
+
+name
+last: Horstman
+first: Oscar
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Los Angeles
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: Galt
+first: John
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Los Angeles
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: McArdle
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: SS
+
+affiliation
+type: player
+date: 1915
+club: Venice
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: Bliss
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: C
+
+affiliation
+type: player
+date: 1915
+club: Venice
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: Coy
+first: Bert
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1915
+club: San Francisco
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: Daniels
+first: William
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1915
+club: Oakland
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: Lynn
+first: Byrd
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: C
+
+affiliation
+type: player
+date: 1915
+club: Salt Lake City
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-07, page 9
+
+---
+
+name
+last: McNeil
+first: Andy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: 3B
+
+affiliation
+type: player
+date: 1914
+league: Union Association
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: McGilvray
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: Benjamin
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+note: left team to go back to Army
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: Vivian
+first: Sam
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: Brashear
+first: Kitty
+
+affiliation
+type: manager
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: McCreary
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+residence
+place: US, OR, Portland
+date: 1915
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: Armstrong
+first: Billy
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+position: P
+
+residence
+place: US, TX, El Paso
+date: 1915
+
+source: El Paso Herald 1915-05-11, page 7
+
+---
+
+name
+last: Ross
+first: Cy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+meta
+throws: Left
+
+source: El Paso Herald 1915-05-12, page 7
+
+---
+
+name
+last: Raeder
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: IF
+
+affiliation
+type: player
+club: Los Angeles
+league: Pacific Coast
+
+source: El Paso Herald 1915-05-12, page 7
+
+---
+
+name
+last: Bennallack
+first: Heinie
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-14, page 9
+
+---
+
+name
+last: Goldie
+first: Sam
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: C
+position: OF
+
+source: El Paso Herald 1915-05-14, page 9
+
+---
+
+name
+last: Stewart
+first: Jim
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: OF
+
+source: El Paso Herald 1915-05-15, page 27
+
+---
+
+name
+last: Ross
+first: Cy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+meta
+throws: Left
+
+source: El Paso Herald 1915-05-17, page 7
+
+---
+
+name
+last: Thompson
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: El Paso
+league: Rio Grande Association
+
+source: El Paso Herald 1915-05-19, page 7
+
+---
+
+name
+last: McCreery
+first: Ed
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-20, page 7
+
+---
+
+name
+last: Hall
+first: Herb
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-22, page 18
+
+---
+
+name
+last: Earthman
+first: Cal
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: RF
+
+source: El Paso Herald 1915-05-22, page 18
+
+---
+
+name
+last: Graham
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1915
+club: 11th Infantry
+caliber: semi-pro
+
+source: El Paso Herald 1915-05-22, page 18
+
+---
+
+name
+last: Black
+first: Jim
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-24, page 7
+
+---
+
+name
+last: Stevens
+first: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-24, page 7
+
+---
+
+name
+last: Sullinger
+first: Wilfred
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+note: "former professional baseball player"
+
+source: El Paso Herald 1915-05-24, page 7
+
+---
+
+name
+last: Toner
+first: Red
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-27, page 7
+
+---
+
+
+name
+last: Seaton
+first: Joe
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+
+affiliation
+type: player
+league: Northwestern
+position: P
+
+source: El Paso Herald 1915-05-27, page 8
+
+---
+
+name
+last: McGilvray
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: 1B
+
+source: El Paso Herald 1915-05-27, page 8
+
+---
+
+name
+last: McNeil
+first: Andy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+position: SS
+
+source: El Paso Herald 1915-05-27, page 8
+
+---
+
+name
+last: Hall
+first: Bert
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-05-28, page 9
+
+---
+
+name
+last: Claflin
+first: Hal
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+club: Portland
+league: Pacific Coast
+
+affiliation
+type: player
+club: Spokane
+league: Northwestern
+
+source: El Paso Herald 1915-05-29, page 10
+
+---
+
+name
+last: McAvoy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+residence
+place: US, CA, Sacramento
+date: 1915
+
+source: El Paso Herald 1915-05-28, page 19
+
+---
+
+name
+last: Sonoqui
+first: Jose
+nick: Smoky Joe Smiley
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-06-01, page 7
+
+---
+
+name
+last: Nutt
+first: John
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+
+source: El Paso Herald 1915-06-01, page 7
+
+---
+
+name
+last: Lynn
+first: Byrd
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: C
+
+source: El Paso Herald 1915-06-01, page 7
+
+---
+
+name
+last: Hall
+first: Herb
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+source: El Paso Herald 1915-06-01, page 7
+
+---
+
+name
+last: Demaggio
+first: Nick
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+
+source: El Paso Herald 1915-06-04, page 9
+
+---
+
+name
+last: Mundorff
+first: Howard
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1915
+club: Oakland
+league: Pacific Coast
+
+source: El Paso Herald 1915-06-08, page 7
+
+---
+
+name
+last: Westerwick
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+affiliation
+type: player
+date: 1913
+club: New York
+league: National
+
+affiliation
+type: player
+date: 1915
+club: Globe, AZ
+caliber: semi-pro
+
+source: El Paso Herald 1915-06-08, page 7
+
+---
+
+name
+last: McAvoy
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+affiliation
+type: player
+date: 1915
+club: Tucson
+league: Rio Grande Association
+
+source: El Paso Herald 1915-06-09, page 7
+
+---
+
+name
+last: Salazar
+
+affiliation
+type: player
+date: 1915
+club: Douglas
+league: Rio Grande Association
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: RF
+
+note: "local semi-professional player"
+
+source: El Paso Herald 1915-06-12, page 24
+
+---
+
+name
+last: Brainerd
+
+affiliation
+type: player
+date: 1915
+club: Las Cruces
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1915
+club: Carlsbad, NM
+caliber: semi-pro
+
+residence
+place: US, NM, Las Cruces
+date: 1915
+
+source: El Paso Herald 1915-06-28, page 8
+
+---
+
+name
+last: Graham
+first: Claud
+
+affiliation
+type: player
+date: 1915
+club: St. Joseph
+league: Western
+position: P
+
+affiliation
+type: player
+club: 11th Infantry
+caliber: semi-pro
+
+affiliation
+type: player
+club: 20th Infantry
+caliber: semi-pro
+
+source: El Paso Herald 1915-12-03, page 9
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+

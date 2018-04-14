@@ -1,0 +1,239 @@
+name
+last: Brown
+first: Gee
+given: R. B.
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+
+affiliation
+type: player
+date: 1909
+club: Shreveport
+league: Texas
+
+affiliation
+type: player
+date: 1910
+club: Wellington
+league: Kansas State
+
+affiliation
+type: player
+date: 1911
+club: Wellington
+league: Kansas State
+
+affiliation
+type: player
+date: 1912
+club: Salina
+league: Central Kansas
+
+affiliation
+type: player
+date: 1913
+club: Colorado Springs
+caliber: semi-pro
+
+note: 1914 played for semi-pro clubs in Phoenix
+
+source: Arizona Republic 1915-04-25, page 8
+
+
+---
+
+name
+last: Hester
+first: Herb
+given: Herbert
+
+affiliation
+type: manager
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+
+meta
+bats: Right
+throws: Right
+
+affiliation
+type: player
+date: 1904
+club: University of Illinois
+caliber: college
+
+affiliation
+type: player
+date: 1905
+club: University of Illinois
+caliber: college
+
+source: Arizona Republic 1915-04-25, page 8
+
+---
+
+name
+last: Dowling
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: 2B
+
+affiliation
+type: player
+date: 1914
+club: Ogden
+league: Union Association
+
+affiliation
+type: player
+date: 1914
+club: Oakland
+league: Pacific Coast
+
+residence
+place: US, IN, Indianapolis
+date: 1915
+
+source: Arizona Republic 1915-04-25, page 8
+
+---
+
+name
+last: Scanlon
+first: Henry
+given: Henry M.
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: 3B
+
+affiliation
+type: player
+date: 1914
+club: Racine
+league: Wisconsin-Illinois
+
+meta
+bats: Right
+throws: Right
+
+source: Arizona Republic 1915-04-25, page 8
+
+---
+
+name
+last: McArdle
+first: Harry
+given: Harry J.
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: SS
+
+residence
+place: US, NY, New York
+date: 1915
+
+source: Arizona Republic 1915-04-25, page 8
+
+---
+
+name
+last: Demaggio
+first: Nick
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: Lf
+
+meta
+bats: Left
+throws: Left
+
+source: Arizona Republic 1915-04-25, page 8
+
+---
+
+name
+last: Hall
+first: Herb
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+position: P
+
+residence
+place: US, AZ, Phoenix
+date: 1915
+
+source: Arizona Republic 1915-04-25, page 8
+
+---
+
+name
+last: Young
+
+affiliation
+type: player
+date: 1915
+club: Phoenix
+league: Rio Grande Association
+
+affiliation
+type: player
+league: California State
+
+affiliation
+type: player
+league: Southern California
+
+affiliation
+type: player
+league: Humboldt
+caliber: semi-pro
+
+affiliation
+type: player
+club: San Joaquin
+league: Valley
+
+note: 24 years old
+
+source: Arizona Republic 1915-04-25, page 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

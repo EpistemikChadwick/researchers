@@ -1,0 +1,12 @@
+name
+last: Rickard
+first: Walter
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+
+source: Davie Record 1915-06-17, page 3
+

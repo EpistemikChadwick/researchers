@@ -1,0 +1,14 @@
+name
+last: Gutierrez
+first: Jose
+
+affiliation
+type: player
+date: 1915
+club: Binghamton
+league: New York State
+position: C
+
+source: Elmira Star-Gazette (ESG) 1915-03-15, page 8
+
+---

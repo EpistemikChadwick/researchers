@@ -1,0 +1,16 @@
+name
+last: Gutierrez
+
+affiliation
+type: player
+club: Havana Reds
+
+affiliation
+type: player
+date: 1915
+club: Binghamton
+league: New York State
+
+source: Binghamton Press & Sun-Bulletin (BPSB) 1915-03-13, page 11
+
+---

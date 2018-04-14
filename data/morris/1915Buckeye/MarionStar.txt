@@ -1,0 +1,95 @@
+name
+last: Thoma
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+
+affiliation
+type: player
+club: Mansfield
+league: Ohio State
+
+affiliation
+type: player
+date: 1914
+club: Huntington
+league: Ohio State
+
+source: Marion Star (MS) 1915-05-11, page 4
+
+---
+
+name
+last: Hoffman
+first: Lawrence
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Charleston
+league: Ohio State
+
+source: Marion Star (MS) 1915-05-05, page 2
+
+---
+
+name
+last: Price
+first: Glen
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+position: RF
+
+meta
+bats: Left
+
+residence
+place: US, OH, Marion
+date: 1915
+
+source: Marion Star (MS) 1915-05-22, page 10
+
+---
+
+name
+last: Leake
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+position: OF
+
+meta
+bats: Right
+
+source: Marion Star (MS) 1915-05-22, page 10
+
+---
+
+
+
+
+
+
+
+
+
+
+
+

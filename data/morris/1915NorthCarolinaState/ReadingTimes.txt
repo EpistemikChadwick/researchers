@@ -1,0 +1,16 @@
+name
+last: Osoba
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+position: P
+
+note: three-fingered pitcher
+
+source: Reading Times (RT) 1915-03-16, page 9
+
+---

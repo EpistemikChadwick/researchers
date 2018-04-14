@@ -1,0 +1,248 @@
+name
+last: Baird
+first: Red
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Akron
+caliber: semi-pro
+position: P
+
+source: Akron Beacon Journal (ABJ) 1915-05-29, page 9
+
+
+---
+
+name
+last: Miller
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: CF
+
+residence
+place: US, PA, Kane
+date: 1915
+
+source: Akron Beacon Journal (ABJ) 1915-05-29, page 9
+
+---
+
+name
+last: Myers
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+
+note: released by Newark; was in the armed forces before joing Newark
+
+source: Akron Beacon Journal (ABJ) 1915-05-29, page 9
+
+---
+
+name
+last: Franken
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+
+note: released by Newark
+
+source: Akron Beacon Journal (ABJ) 1915-05-29, page 9
+
+---
+
+name
+last: Price
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: SS
+
+affiliation
+type: player
+date: 1915
+club: Youngstown Steelmen
+league: unknown
+
+residence
+place: US, OH, Youngstown
+date: 1915
+
+source: Akron Beacon Journal (ABJ) 1915-05-29, page 9
+
+---
+
+
+name
+last: McKee
+first: Paul
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+meta
+throws: Left
+
+affiliation
+type: player
+date: 1914
+club: Crestline
+league: Trolley
+caliber: semi-pro
+position: P
+
+source: Akron Beacon Journal (ABJ) 1915-05-24, page 11
+
+---
+
+name
+last: Wilhelm
+first: Fred
+nick: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+
+meta
+throws: Left
+
+affiliation
+type: player
+league: Ohio & Pennsylvania
+
+source: Akron Beacon Journal (ABJ) 1919-02-12, page 13
+
+---
+
+name
+last: Barnhart
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+meta
+throws: Left
+
+source: Akron Beacon Journal (ABJ) 1915-05-20, page 13
+
+---
+
+name
+last: Costello
+
+affiliation
+type: player
+date: 1915
+club: Findlay
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+club: Traverse City
+league: Michigan State
+
+source: Akron Beacon Journal (ABJ) 1915-05-15, page 11
+
+---
+
+name
+last: Maguire
+
+affiliation
+type: player
+date: 1915
+club: Findlay
+league: Buckeye
+
+affiliation
+type: player
+date: 1915
+club: Toledo
+caliber: Semi pro
+
+residence
+place: US, OH, Toledo
+date: 1915
+
+source: Akron Beacon Journal (ABJ) 1915-05-15, page 11
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

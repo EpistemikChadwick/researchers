@@ -1,0 +1,14 @@
+name
+last: Yon
+first: Clarence
+
+affiliation
+type: player
+date: 1915
+club: Raleigh
+league: North Carolina State
+position: P
+
+source: Altoona Tribune (AT) 1915-11-10, page 10
+
+---

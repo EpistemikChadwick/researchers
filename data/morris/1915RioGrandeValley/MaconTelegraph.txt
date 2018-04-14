@@ -1,0 +1,26 @@
+name
+last: Andrada
+
+affiliation
+type: player
+date: 1911
+club: Macon
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1910
+club: Macon
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1910
+club: Roanoke
+league: Virginia
+position: P
+
+source: Macon Telegraph 1911-03-09, page 2
+

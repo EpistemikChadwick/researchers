@@ -1,0 +1,30 @@
+name
+last: Jaynes
+first: Lona
+
+residence
+place: US, NC, Morganton
+
+residence
+place: US, WA, Hay
+date: 1919
+
+note: picture - drafted into Army in July 1918 - played pro baseball
+
+source: Morganton News-Herald (MNH) 1919-01-02, page 3
+
+---
+
+name
+last: Jaynes
+first: Lona
+
+affiliation
+type: player
+club: North Carolina State University
+caliber: college
+date: 1913
+
+source: Morganton News-Herald (MNH) 1913-09-04, page 2
+
+---

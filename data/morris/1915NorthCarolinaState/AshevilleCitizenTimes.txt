@@ -1,0 +1,450 @@
+name
+last: Anderson
+
+meta
+throws: Left
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Georgia State
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Ferris
+
+meta
+throws: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Ostemeyer
+
+meta
+throws: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Finny
+
+meta
+throws: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Kelly
+
+meta
+throws: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Bell
+
+meta
+throws: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Carroll
+
+meta
+throws: Left
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+
+---
+
+name
+last: Bumb
+first: Al
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: 1B
+
+source: Asheville Citizen-Times (ACT) 1915-02-05, page 9
+
+---
+
+name
+last: Frye
+first: George
+given: George W.
+
+meta
+height: 69
+weight: 170
+throws: Right
+bats: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: C
+
+residence
+place: US, PA, Millersburg
+date: 1915
+
+source: Asheville Citizen-Times (ACT) 1915-02-07, page 16
+
+---
+
+name
+last: Jackson
+first: Ed
+
+meta
+throws: Right
+bats: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: C
+
+residence
+place: US, NC, Judson
+date: 1915
+
+source: Asheville Citizen-Times (ACT) 1915-02-07, page 16
+
+---
+
+name
+last: Ostemeyer
+first: Fred
+
+meta
+height: 71
+weight: 180
+throws: Right
+bats: Right
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-07, page 16
+
+---
+
+name
+last: Antley
+first: Joe
+
+meta
+throws: Left
+bats: Left
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Waycross
+league: Georgia State
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Waycross
+league: Georgia State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-09-01, page 8
+
+
+---
+
+name
+last: Betsill
+first: Russell
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+note: former player with Asheville "several years ago" 
+
+source: Asheville Citizen-Times (ACT) 1915-05-25, page 7
+
+---
+
+name
+last: Brittain
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+club: Asheville
+league: North Carolina State
+
+source: Asheville Citizen-Times (ACT) 1915-05-25, page 7
+
+---
+
+name
+last: Chambers
+first: Dick
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+
+residence
+place: US, NC, Asheville
+date: 1915
+
+source: Asheville Citizen-Times (ACT) 1915-07-19, page 8
+
+---
+
+name
+last: Chambers
+first: Dick
+
+affiliation
+type: player
+date: 1915
+club: Weaver College
+place: US, NC, Weaverville
+caliber: college
+
+source: Asheville Citizen-Times (ACT) 1915-03-09, page 8
+
+---
+
+name
+last: Egan
+first: Thomas
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+
+residence
+place: US, CT, New Britain
+date: 1915
+
+source: Asheville Citizen-Times (ACT) 1915-03-15, page 5
+
+---
+
+name
+last: Ferebee 
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+club: Mars Hill College
+caliber: college
+
+source: Asheville Citizen-Times (ACT) 1915-05-14, page 8
+
+---
+
+name
+last: Ingle
+first: Paul
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+source: Asheville Citizen-Times (ACT) 1915-02-03, page 5
+
+---
+
+name
+last: Rowe
+first: Buck
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+
+affiliation
+type: player
+date: 1915
+club: Greensboro
+league: North Carolina State
+
+source: Asheville Citizen-Times (ACT) 1915-09-09, page 8
+
+---
+
+name
+last: Trenkle
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+position: P
+
+meta
+throws: Left
+
+source: Asheville Citizen-Times (ACT) 1915-01-01, page 4
+
+---
+
+name
+last: Scull
+first: Carl
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: P
+
+meta
+throws: Right
+height: 72
+
+source: Asheville Citizen-Times (ACT) 1915-07-06, page 9
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

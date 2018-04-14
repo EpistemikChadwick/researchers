@@ -1,0 +1,26 @@
+name
+last: Waldschmidt
+first: W. H.
+
+affiliation
+type: player
+date: 1914
+club: Sacramento
+league: Pacific Coast
+
+affiliation
+type: player
+date: 1914
+club: Fresno
+league: California State
+
+source: San Francisco Chronicle 1914-08-18, page 10
+
+
+
+
+
+
+
+
+

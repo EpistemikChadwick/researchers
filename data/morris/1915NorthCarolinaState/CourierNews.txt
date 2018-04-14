@@ -1,0 +1,21 @@
+name
+last: Shankey
+first: Vic
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: 1B
+
+affiliation
+type: player
+date: 1915
+club: Richmond
+league: International
+position: 1B
+
+source: Courier-News (BCN) 1914-07-22, page 12
+
+---

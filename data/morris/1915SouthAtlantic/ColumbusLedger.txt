@@ -1,0 +1,40 @@
+name
+last: Hartsell
+first: Harry
+
+affiliation
+type: player
+club: Cleveland
+league: American Association
+
+affiliation
+type: player
+date: 1912
+club: Asheville
+league: Appalachian
+
+affiliation
+type: player
+date: 1915
+club: Fort Wayne
+league: Central
+
+source: Asheville Citizen-Times 1915-05-24, page 8
+
+---
+
+name
+last: Hartsell
+first: Harry
+
+affiliation
+type: player
+date: 1915
+league: Virginia
+
+source: Asheville Citizen-Times 1915-10-01, page 5
+
+
+
+
+

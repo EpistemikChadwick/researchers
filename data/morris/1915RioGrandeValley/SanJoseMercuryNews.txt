@@ -1,0 +1,23 @@
+name
+last: Andrada
+first: Frank
+
+affiliation
+type: player
+date: 1911
+club: Stockton
+league: California State
+position: P
+
+meta
+throws: Left
+
+source: San Jose Mercury News 1914-03-29, page 18
+
+
+
+
+
+
+
+

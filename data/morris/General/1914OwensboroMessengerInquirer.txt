@@ -1,0 +1,405 @@
+name
+last: Kennedy
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: rf
+
+affiliation
+type: player
+date: 1913
+club: Streator
+league: Illinois-Missouri
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Bradshaw
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: ss
+
+affiliation
+type: player
+date: 1913
+club: Harrisburg
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Pickering
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: cf
+
+affiliation
+type: player
+date: 1913
+club: Henderson
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: White
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: p
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Smith
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: 2b
+
+affiliation
+type: player
+date: 1913
+club: Hopkinsville
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Johnson
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: p
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Cramer
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: 3b
+
+affiliation
+type: player
+date: 1913
+club: Streator
+league: Illinois-Missouri
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Sears
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: lf
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Gossage
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: p
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Kuhn
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: 1b
+
+affiliation
+type: player
+date: 1913
+club: Columbus
+league: Cotton States
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Budke
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: 3b
+position: cf
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Ling
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: c
+position: 1b
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Webber
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: c
+
+affiliation
+type: player
+date: 1913
+club: Owensboro
+league: Kentucky-Illinois-Tennessee
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Seeback
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: 2b
+
+affiliation
+type: player
+date: 1913
+club: Bonham
+league: Texas-Oklahoma
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Roche
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: ss
+
+affiliation
+type: player
+date: 1913
+caliber: semi-pro
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Evans
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: c
+
+affiliation
+type: player
+date: 1913
+caliber: semi-pro
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Allison
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: ss
+
+affiliation
+type: player
+date: 1913
+caliber: semi-pro
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Fitzpatrick
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: p
+
+affiliation
+type: player
+date: 1913
+caliber: semi-pro
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+name
+last: Graves
+
+affiliation
+type: player
+date: 1914
+club: Ownesboro
+league: Kentucky-Illinois-Tennessee
+position: cf
+
+affiliation
+type: player
+date: 1913
+caliber: semi-pro
+
+source: Owensboro Messenger-Inquirer 1914-05-03, page 2
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

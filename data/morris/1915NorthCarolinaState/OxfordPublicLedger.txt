@@ -1,0 +1,17 @@
+name
+last: Gooch
+first: Lee
+
+affiliation
+type: player
+date: 1915
+club: Savannah
+league: South Atlantic
+
+residence
+place: US, NC, Oxford
+date: 1915
+
+source: Oxford (NC) Public Ledger (OPL) 1915-07-03, page 4
+
+---

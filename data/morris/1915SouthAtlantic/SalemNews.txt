@@ -1,0 +1,13 @@
+name
+last: Taylor
+first: Buck
+
+affiliation
+type: player
+date: 1914
+club: Charleston
+league: South Atlantic
+
+source: Salem (OH) News 1914-08-03, page 6
+
+

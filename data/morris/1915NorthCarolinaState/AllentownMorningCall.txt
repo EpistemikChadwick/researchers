@@ -1,0 +1,17 @@
+name
+last: Witmer
+first: Earl
+
+affiliation
+type: player
+date: 1915
+club: Muhlenberg College
+caliber: college
+position: P
+
+meta
+throws: Left
+
+source: The Morning Call (MC) 1915-03-02, page 10
+
+---

@@ -1,0 +1,14 @@
+name
+last: Gittings
+first: Sammy
+
+affiliation
+type: player
+date: 1916
+club: Richmond
+league: International
+position: P
+
+source: Richmond Times Dispatch (RTD) 1916-06-10, page 8
+
+---

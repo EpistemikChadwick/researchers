@@ -1,0 +1,13 @@
+name
+last: Cheek
+first: Hiram
+
+affiliation
+type: player
+club: Mars Hill University
+caliber: college
+date: 1913
+
+source: Mebane Leader (ML) 1913-09-11, page 1
+
+---

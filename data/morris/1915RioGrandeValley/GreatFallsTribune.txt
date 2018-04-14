@@ -1,0 +1,22 @@
+name
+last: Bliss
+first: Roy
+
+affiliation
+type: player
+date: 1917
+club: Great Falls
+league: Northwestern
+position: P
+
+affiliation
+type: player
+date: 1917
+club: Salt Lake City
+league: Pacific Coast
+
+source: Great Falls Tribune 1917-05-18, page 10
+
+
+
+

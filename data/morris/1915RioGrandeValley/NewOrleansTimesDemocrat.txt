@@ -1,0 +1,17 @@
+name
+last: Andrada
+
+affiliation
+type: player
+date: 1911
+club: Greenwood
+league: Cotton States
+position: P
+
+residence
+place: US, GA, Macon
+date: 1911
+
+source: New Orleans Times-Democrat 1911-05-28, page 22
+
+

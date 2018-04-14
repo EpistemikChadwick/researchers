@@ -1,0 +1,20 @@
+name
+last: Boyle
+first: Peter
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+affiliation
+type: player
+date: 1914
+club: Greensboro
+league: North Carolina State
+
+source: Greensboro Daily News 1915-03-14, page 6
+
+
+

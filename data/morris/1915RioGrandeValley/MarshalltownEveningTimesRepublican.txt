@@ -1,0 +1,26 @@
+name
+last: Fulwider
+first: Red
+
+affiliation
+type: player
+date: 1917
+club: Cedar Rapids
+league: Central Association
+position: P
+
+meta
+throws: Right
+
+residence
+place: US, OR, Pendleton
+date: 1917
+
+source: Marshalltown Evening Times-Republican 1917-04-07, page 3
+
+
+
+
+
+
+

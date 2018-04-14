@@ -1,0 +1,272 @@
+name
+last: Fickel
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: 1B
+
+residence
+place: US, OH, St. Marys
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-28, page 16
+
+
+---
+
+name
+last: Plummer
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: RF
+
+affiliation
+type: player
+league: Ohio State
+
+source: Akron Evening Times (AET) 1915-05-28, page 16
+
+---
+
+name
+last: Holler
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+caliber: Semi pro
+
+residence
+place: US, PA, Pittsburgh
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Clark
+first: Dug
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+league: Interstate
+
+residence
+place: US, PA, Philadelphia
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Byatt
+first: Bernie
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+
+
+affiliation
+type: player
+club: Akron
+league: Interstate
+
+affiliation
+type: player
+club: Columbus
+league: Interstate
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+
+name
+last: Linne
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Ohio State
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Hawk [Hook]
+first: Elmer
+
+affiliation
+type: player
+date: 1915
+club: akron
+league: Buckeye
+position: P
+
+meta
+thorws: Left
+
+residence
+place: US, OH, Cuyahoga Falls
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Glennon
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+club: Arlington A.C.
+caliber: Semi pro
+
+residence
+place: US, OH, Akron
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Fields
+first: Gabby
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+club: Marotta
+caliber: Semi pro
+
+residence
+place: US, OH, Cleveland
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Talbott
+first: Dick
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: C
+
+affiliation
+type: player
+date: 1914
+league: Illinois-Indiana-Iowa
+
+residence
+place: US, IL, Streator
+date: 1915
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+name
+last: Hook
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Ohio State
+
+source: Akron Evening Times (AET) 1915-05-12, page 11
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

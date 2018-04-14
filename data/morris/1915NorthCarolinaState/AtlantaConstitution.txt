@@ -1,0 +1,148 @@
+name
+last: Gutierrez
+first: Jose Maria
+
+affiliation
+type: player
+club: Havana Reds
+
+affiliation
+type: player
+date: 1916
+club: Atlanta
+league: Southern Association
+position: C
+
+source: Atlanta Constitution (AC) 1916-01-22, page 8
+
+---
+
+name
+last: Gutierrez
+first: Jose Maria
+
+affiliation
+type: player
+date: 1916
+club: Atlanta
+league: Southern Association
+position: C
+
+affiliation
+type: player
+date: 1916
+club: Newnan
+league: Georgia-Alabama
+position: C
+position: OF
+
+source: Atlanta Constitution (AC) 1916-04-21, page 12
+
+---
+
+name
+last: Lile
+first: Charlie
+
+affiliation
+type: player
+club: Washington & Lee University
+caliber: college
+date: 1914
+position: P
+
+note: captain of team
+
+source: Atlanta Constitution (AC) 1914-05-24, page 10
+
+---
+
+name
+last: Pratt
+
+affiliation
+type: player
+date: 1915
+club: University of Alabama
+caliber: college
+position: P
+
+note: pitched no-hitter
+
+source: Atlanta Constitution 1915-04-21, page 8
+
+---
+
+name
+last: Pratt
+first: Mel
+
+affiliation
+type: player
+date: 1915
+club: Americus
+league: Florida-Alabama-Georgia
+position: P
+
+affiliation
+type: player
+club: University of Alabama
+caliber: college
+position: P
+
+source: Atlanta Constitution 1915-04-21, page 8
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

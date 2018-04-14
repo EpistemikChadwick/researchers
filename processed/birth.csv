@@ -1,0 +1,144 @@
+city,country,day,month,person,source,state,year
+Mobile,US,5.0,8.0,Aaron_Tommie_Lee,data/mcconnell/McConnell,AL,1933.0
+Duncan,CA,4.0,8.0,Abbott_Morrison_Harold,data/mcconnell/McConnell,BC,1913.0
+Oakland,US,14.0,5.0,Abreu_Joseph_Lawrence,data/mcconnell/McConnell,CA,1913.0
+Mobile,US,10.0,2.0,Adair_Marion_Danne,data/mcconnell/McConnell,AL,1911.0
+Zerbe,US,26.0,8.0,Adams_Earl_John,data/mcconnell/McConnell,PA,1894.0
+Trinidad,US,24.0,6.0,Adams_Elvin_Clark,data/mcconnell/McConnell,CO,1915.0
+Tuolumne,US,14.0,12.0,Adams_Robert_Henry,data/mcconnell/McConnell,CA,1921.0
+Mount Olive,US,13.0,9.0,Aderholt_Morris_Woodrow,data/mcconnell/McConnell,NC,1915.0
+,,,,Adlam_James_A,data/mcconnell/McConnell,,
+Magnolia,US,9.0,8.0,Agee_Tommie_Lee,data/mcconnell/McConnell,AL,1942.0
+Lynn,US,20.0,4.0,Agganis_Harry,data/mcconnell/McConnell,MA,1929.0
+Villa Azueta,MX,21.0,3.0,Aguilar_Enrique,data/mcconnell/McConnell,Veracruz,1956.0
+,RU,4.0,2.0,Ainsmith_Edward_Wilbur,data/mcconnell/McConnell,,1890.0
+Santiago de Cuba,CU,3.0,8.0,Ala_Aurelio,data/mcconnell/McConnell,,1930.0
+St. Louis,US,19.0,2.0,Aleno_Charles,data/mcconnell/McConnell,MO,1917.0
+Greenville,US,26.0,4.0,Alexander_David_Dale,data/mcconnell/McConnell,TN,1903.0
+Cambridge,US,26.0,10.0,Allington_William_Baird,data/mcconnell/McConnell,MA,1903.0
+Huatabampo,MX,7.0,2.0,Almada_Baldomero_Melo,data/mcconnell/McConnell,Sonora,1913.0
+El Fuerte,MX,7.0,9.0,Almada_Louis_Joseph,data/mcconnell/McConnell,Sinaloa,1907.0
+St. Louis,US,6.0,5.0,Alotta_Phillip,data/mcconnell/McConnell,MO,1925.0
+Goldsboro,US,20.0,3.0,Altman_George_Lee,data/mcconnell/McConnell,NC,1933.0
+St. Joseph,US,29.0,1.0,Altman_Joseph,data/mcconnell/McConnell,MO,1883.0
+Jasper,US,2.0,2.0,Alvis_Roy_Maxwell,data/mcconnell/McConnell,TX,1938.0
+Tacoma,US,4.0,1.0,Ananias_Nicholas_Thomas,data/mcconnell/McConnell,WA,1928.0
+Dover,US,5.0,4.0,Anderson_Andrew_Albert,data/mcconnell/McConnell,NJ,1896.0
+,,,,Anderson_Cyrus,data/mcconnell/McConnell,,
+North East,US,10.0,9.0,Anderson_Harry_Walter,data/mcconnell/McConnell,MD,1931.0
+Donnellson,US,4.0,4.0,Anderson_John_Donald,data/mcconnell/McConnell,IA,1894.0
+Sarpsborg,NO,14.0,12.0,Anderson_John_Joseph,data/mcconnell/McConnell,,1873.0
+Eau Claire,US,20.0,8.0,Anderson_John_Maurice,data/mcconnell/McConnell,WI,1898.0
+Trion,US,3.0,11.0,Anderson_Starling_W,data/mcconnell/McConnell,GA,1896.0
+Baltimore,US,2.0,10.0,Angley_Thomas_Samuel,data/mcconnell/McConnell,MD,1904.0
+Saginaw,US,9.0,3.0,Ankoviak_William_E,data/mcconnell/McConnell,MI,1924.0
+Brookyln,US,19.0,5.0,Antonello_William_James,data/mcconnell/McConnell,NY,1927.0
+Oakland,US,31.0,3.0,Arlett_Alexander_Benjamin,data/mcconnell/McConnell,CA,1890.0
+Kincaid,US,17.0,4.0,Arlitt_Adolph,data/mcconnell/McConnell,IL,1912.0
+Superior,US,16.0,11.0,Arnovich_Morris,data/mcconnell/McConnell,WI,1910.0
+,,,,Askland_Frank,data/mcconnell/McConnell,,
+Los Angeles,US,30.0,3.0,Atkins_Ralph,data/mcconnell/McConnell,CA,1925.0
+Oakland,US,26.0,12.0,Attyd_Leonard_Francis,data/mcconnell/McConnell,CA,1926.0
+Washington,US,1.0,7.0,Atz_John_Jacob,data/mcconnell/McConnell,DC,1879.0
+Swansea,GB,8.0,12.0,Austin_James_Philip,data/mcconnell/McConnell,,1879.0
+Veracruz,MX,2.0,4.0,Avila_Roberto_Francisco,data/mcconnell/McConnell,,1924.0
+Pisgah,US,11.0,1.0,Babe_Loren_Rolland,data/mcconnell/McConnell,IA,1928.0
+Orillia,US,1.0,12.0,Badgro_Morris_Hiram,data/mcconnell/McConnell,WA,1902.0
+Strawberry Plains,US,15.0,4.0,Bailey_Lonas_Edgar,data/mcconnell/McConnell,TN,1931.0
+Long Beach,US,13.0,10.0,Bailey_Robert_Sherwood,data/mcconnell/McConnell,CA,1942.0
+Riverside,US,15.0,6.0,Baker_Johnnie_B,data/mcconnell/McConnell,CA,1949.0
+Toronto,CA,24.0,11.0,Balaz_John_Lawrence,data/mcconnell/McConnell,ON,1950.0
+San Pedro,US,1.0,8.0,Balcena_Robert_Rudolph,data/mcconnell/McConnell,CA,1925.0
+Pacolet Mills,US,24.0,9.0,Banks_George_Edward,data/mcconnell/McConnell,SC,1938.0
+Groveland,US,9.0,6.0,Bannon_George,data/mcconnell/McConnell,MA,1879.0
+Amesbury,US,20.0,12.0,Bannon_William,data/mcconnell/McConnell,MA,1875.0
+Lavinia,US,9.0,7.0,Barber_Tyrus_Turner,data/mcconnell/McConnell,TN,1893.0
+Los Angeles,US,22.0,12.0,Barisoff_William,data/mcconnell/McConnell,CA,1921.0
+Martinsburg,US,12.0,3.0,Barker_Raymond_Herrell,data/mcconnell/McConnell,WV,1936.0
+Suggsville,US,25.0,12.0,Barnes_Emile_Deering,data/mcconnell/McConnell,AL,1903.0
+Mount Morris,US,8.0,5.0,Barnes_Roscoe_Charles,data/mcconnell/McConnell,NY,1850.0
+Buck Valley,US,29.0,12.0,Barnhart_Clyde_Lee,data/mcconnell/McConnell,PA,1895.0
+Ciudad del Carmen,MX,17.0,10.0,Barrera_Nelson_Enrique,data/mcconnell/McConnell,Campeche,1957.0
+Greeneville,US,26.0,4.0,Balexander,data/minorstar/Volume1,TN,1903.0
+St. Louis,US,14.0,12.0,Barchdeacon,data/minorstar/Volume1,MO,1897.0
+New Orleans,US,18.0,11.0,Abadie_Bernard_E,data/nemec/Nemec,LA,1921.0
+Worcester,US,24.0,9.0,Abdella_James_Alfred,data/nemec/Nemec,MA,1939.0
+Pittsburgh,US,27.0,6.0,Abel_Edward_Ronald,data/nemec/Nemec,PA,1939.0
+Newton,US,21.0,5.0,Abernethy_Joe_Ray,data/nemec/Nemec,NC,1934.0
+Chicago,US,17.0,8.0,Accardo_Thomas_Joseph,data/nemec/Nemec,IL,1922.0
+Chicago,US,29.0,5.0,Ackermann_Richard_John,data/nemec/Nemec,IL,1929.0
+Gordo,US,19.0,8.0,Adair_John_Leon,data/nemec/Nemec,AL,1931.0
+Philadelphia,US,14.0,10.0,Adair_Richard_Charles,data/nemec/Nemec,PA,1929.0
+Reading,US,8.0,8.0,Adam_Richard_D,data/nemec/Nemec,PA,1935.0
+Paducah,US,12.0,6.0,Adams_Elton_Eugene,data/nemec/Nemec,KY,1928.0
+Hollywood,US,14.0,4.0,Adams_Herbert_Loren,data/nemec/Nemec,CA,1928.0
+Atlanta,US,31.0,12.0,Adams_James_Byron,data/nemec/Nemec,GA,1940.0
+Vallejo,US,5.0,4.0,Adams_Raymond_Nathaniel,data/nemec/Nemec,CA,1922.0
+Upland,US,21.0,1.0,Adams_Ricky_Lee,data/nemec/Nemec,CA,1959.0
+Chicago,US,23.0,9.0,Adams_Russell_L,data/nemec/Nemec,IL,1922.0
+Wilsonville,US,1.0,3.0,Aden_Dwight_B,data/nemec/Nemec,OR,1915.0
+Hagerstown,US,24.0,8.0,Adenhart_Nicholas_James,data/nemec/Nemec,PA,1986.0
+Burlington Junction,US,1.0,11.0,Adkins_Donald_W,data/nemec/Nemec,MO,1932.0
+Logan,US,15.0,10.0,Adkins_Teddy_Wayne,data/nemec/Nemec,WV,1958.0
+Greenville,US,19.0,2.0,Adkins_Theo,data/nemec/Nemec,MS,1928.0
+Van Nuys,US,10.0,4.0,Adkison_Larry_Wayne,data/nemec/Nemec,CA,1943.0
+Curtisville,US,20.0,8.0,Afanesko_Max,data/nemec/Nemec,PA,1928.0
+Courtland,US,12.0,2.0,Agee_Joseph_Ryan,data/nemec/Nemec,AL,1917.0
+St. James,US,16.0,8.0,Ahlness_Kenneth_Lee,data/nemec/Nemec,MN,1925.0
+Denver,US,12.0,6.0,Akerfelds_Darrel_Wayne,data/nemec/Nemec,CO,1962.0
+Buffalo,US,28.0,6.0,Albertson_Roy_Lawrence,data/nemec/Nemec,NY,1930.0
+Newport,US,10.0,9.0,Albright_James_Gray,data/nemec/Nemec,AR,1928.0
+Yorktown,US,19.0,12.0,Alex_Harvey_Wayne,data/nemec/Nemec,TX,1940.0
+Dallas,US,2.0,3.0,Alexander_Marvin_Edward,data/nemec/Nemec,TX,1925.0
+Rockford,US,18.0,9.0,Alford_Donald_Ray,data/nemec/Nemec,IL,1929.0
+Nashua,US,5.0,6.0,Allen_Steven_Charles,data/nemec/Nemec,NH,1946.0
+Ciudad Trujillo,DO,22.0,12.0,Alou_Mateo_Rojas,data/nemec/Nemec,,1938.0
+Lake Zurich,US,29.0,5.0,Altenburg_Willis_R,data/nemec/Nemec,IL,1915.0
+Santa Lucia,CU,18.0,4.0,Alvarez_Rogelio,data/nemec/Nemec,Pinar del Rio,1938.0
+Montclair,US,4.0,11.0,Alworth_Frederick_Joseph,data/nemec/Nemec,NJ,1941.0
+Vineland,US,14.0,8.0,Ambrose_Philip_D,data/nemec/Nemec,NJ,1927.0
+Tyler,US,25.0,11.0,Amoriello_Clarence,data/nemec/Nemec,PA,1924.0
+Springfield,US,14.0,6.0,Amhrein_Michael_Kevin,data/nemec/Nemec,IL,1975.0
+Philadelphia,US,16.0,6.0,Anderman_George_Nelson,data/nemec/Nemec,PA,1928.0
+Ludlow,US,29.0,4.0,Anderson_Clarence_Eldon,data/nemec/Nemec,PA,1923.0
+Chicago,US,22.0,10.0,Anderson_Donald_E,data/nemec/Nemec,IL,1918.0
+Bridgewater,US,22.0,2.0,Anderson_George_Lee,data/nemec/Nemec,SD,1934.0
+Everett,US,15.0,7.0,Anderson_Herbert_Joseph,data/nemec/Nemec,WA,1936.0
+Manetta,US,,,Anderson_James_Robert_1948,data/nemec/Nemec,OK,1930.0
+Jeffersonville,US,11.0,1.0,Andres_Ernest_Henry,data/nemec/Nemec,IN,1918.0
+Burbank,US,31.0,8.0,Andrews_Hubert_Carl,data/nemec/Nemec,OK,1922.0
+Malden,US,26.0,3.0,Angelo_Louis_Joseph,data/nemec/Nemec,MA,1924.0
+Bonne Terre,US,24.0,7.0,Angrove_Donald_Dean,data/nemec/Nemec,MO,1927.0
+St. Paul,US,2.0,12.0,Annenberg_Robert_Bernard,data/nemec/Nemec,MN,1930.0
+Le Roy,US,26.0,7.0,Anthony_Omer_Lee,data/nemec/Nemec,KS,1918.0
+,,,,Antonali_Raymond_A,data/nemec/Nemec,,1923.0
+Waco,US,23.0,9.0,Appell_John_Roland,data/nemec/Nemec,TX,1923.0
+Scott,US,6.0,6.0,Arceneaux_John_Stephen,data/nemec/Nemec,LA,1925.0
+Clinton,US,12.0,2.0,Archer_Waite_Henderson,data/nemec/Nemec,IN,1929.0
+Brooklyn,US,25.0,11.0,Archiopoli_Andrew_J,data/nemec/Nemec,NY,1918.0
+Waterbury,US,18.0,12.0,Arline_James_Arthur,data/nemec/Nemec,CT,1953.0
+Galion,US,4.0,10.0,Armstrong_Charles_E,data/nemec/Nemec,OH,1934.0
+San Francisco,US,10.0,5.0,Arnott_Ralph,data/nemec/Nemec,CA,1924.0
+Quincy,US,7.0,6.0,Arns_Melvin_Joseph,data/nemec/Nemec,IL,1924.0
+,MX,,,Arredondo_Luis,data/nemec/Nemec,,1934.0
+Cleveland,US,3.0,11.0,Arrigo_Jack_Charles,data/nemec/Nemec,OH,1935.0
+Chicago,US,29.0,4.0,Arrigoni_Roland,data/nemec/Nemec,IL,1934.0
+Baltimore,US,10.0,11.0,Arrildt_William_Dearella,data/nemec/Nemec,MD,1925.0
+Martinez,US,24.0,1.0,Arrington_David_Andrew,data/nemec/Nemec,CA,1948.0
+Tulalip,US,11.0,6.0,Ashman_Chester_Robert,data/nemec/Nemec,WA,1927.0
+Sausalito,US,16.0,8.0,Ashoff_Edward_A,data/nemec/Nemec,CA,1915.0
+East Alton,US,1.0,9.0,Astroth_Joseph_Henry,data/nemec/Nemec,IL,1922.0
+Battle Creek,US,8.0,8.0,Atchley_James_Richard,data/nemec/Nemec,MI,1923.0
+Muscatine,US,21.0,11.0,Atkins_Arnold_Truman,data/nemec/Nemec,IA,1923.0
+Progreso,MX,15.0,6.0,Auais_Zacarias,data/nemec/Nemec,Yucatan,1928.0
+Sainte-Thecle,CA,21.0,2.0,Aubin_Yves,data/nemec/Nemec,QC,1932.0
+Reading,US,18.0,5.0,Auchenbach_Warren_Robert,data/nemec/Nemec,PA,1920.0
+Glen Ridge,US,23.0,7.0,Aug_Frederick_Emil,data/nemec/Nemec,NJ,1931.0
+Lewiston,US,14.0,1.0,Auger_Thomas_Oscar,data/nemec/Nemec,ME,1928.0
+,US,21.0,7.0,August_Joseph_Samuel,data/nemec/Nemec,IL,1920.0
+Smyrna,US,6.0,1.0,Austin_Alvin_Chester,data/nemec/Nemec,GA,1928.0
+Fresno,US,11.0,10.0,Austin_Ervin_Lewis,data/nemec/Nemec,CA,1917.0
+,,28.0,11.0,Austry_Mark_Stanley,data/nemec/Nemec,,1977.0
+North Hollywood,US,21.0,12.0,Avila_Thomas_V,data/nemec/Nemec,CA,1921.0
+Chino,US,4.0,8.0,Ayala_Maurice_Pierre,data/nemec/Nemec,CA,1918.0
+Caracas,VE,21.0,12.0,Azocar_Oscar_Gregorio,data/nemec/Nemec,,1965.0

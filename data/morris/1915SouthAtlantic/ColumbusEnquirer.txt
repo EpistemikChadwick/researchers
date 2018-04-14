@@ -1,0 +1,184 @@
+name
+last: Boyle
+first: Pete
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+position: P
+
+source: Columbus Enquirer 1915-03-20, page 2
+
+---
+
+name
+last: Watson
+first: H.
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Asheville
+league: North Carolina State
+
+source: Columbus Enquirer 1915-04-22, page 3
+
+---
+
+
+name
+last: Hart
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+position: P
+position: OF
+
+affiliation
+type: player
+date: 1914
+club: Cairo
+league: Kentucky-Illinois-Tennessee
+
+residence
+place: US, KY, Paducah
+date: 1915
+
+source: Columbus Enquirer 1915-04-22, page 3
+
+---
+
+name
+last: Jackson
+first: Sheriff
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+position: P
+
+note: released
+
+source: Columbus Enquirer 1915-04-22, page 3
+
+---
+
+name
+last: Rickard
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+meta
+throws: Left
+
+source: Columbus Enquirer 1915-04-22, page 3
+
+---
+
+name
+last: Broughton
+first: Louis
+
+affiliation
+type: player
+date: 1915
+club: Albany
+league: South Atlantic
+
+residence
+place: US, GA, Columbus
+date: 1915
+
+source: Columbus Enquirer 1915-07-21, page 2
+
+---
+
+name
+last: Redding
+first: Phil
+
+affiliation
+type: player
+date: 1915
+club: Albany
+league: South Atlantic
+position: P
+
+source: Columbus Enquirer 1915-07-20, page 8
+
+---
+
+name
+last: Woodruff
+first: George 
+
+affiliation
+type: player
+date: 1915
+club: Albany
+league: South Atlantic
+position: RF
+
+source: Columbus Enquirer 1915-07-20, page 3
+
+---
+
+name
+last: McDuff
+first: Gordon
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+residence
+place: US, AL, Decatur
+date: 1915
+
+source: Columbus Enquirer 1915-07-30, page 2
+
+---
+
+name
+last: Powell
+first: Hubert
+
+affiliation
+type: player
+date: 1915
+club: Jacksonville
+league: South Atlantic
+position: IF
+
+residence
+place: US, GA, Buford
+date: 1915
+
+source: Columbus Enquirer 1915-04-11, page 14
+
+---
+
+
+
+
+

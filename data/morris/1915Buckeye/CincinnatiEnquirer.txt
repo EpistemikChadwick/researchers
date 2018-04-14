@@ -1,0 +1,68 @@
+name
+last: Yockey
+
+affiliation
+type: player
+date: 1915
+club: Findlay
+league: Buckeye
+
+residence
+place: US, OH, Cincinnati
+date: 1915
+
+source: Cincinnati Enquirer (CE) 1915-05-09, page 20
+
+---
+
+name
+last: Costello
+
+affiliation
+type: player
+date: 1915
+club: Findlay
+league: Buckeye
+
+residence
+place: US, OH, Cincinnati
+date: 1915
+
+source: Cincinnati Enquirer (CE) 1915-05-09, page 20
+
+---
+
+name
+last: Warner
+
+affiliation
+type: player
+date: 1915
+club: Findlay
+league: Buckeye
+
+residence
+place: US, OH, Cincinnati
+date: 1915
+
+source: Cincinnati Enquirer (CE) 1915-05-09, page 20
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

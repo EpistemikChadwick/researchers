@@ -1,0 +1,1153 @@
+name
+last: Prout
+first: William
+
+affiliation
+type: manager
+date: 1915
+club: Canton
+league: Buckeye
+
+residence
+place: US, KY, Newport
+date: 1915
+
+
+source: Canton Evening Repository (CER) 1915-05-03, page 6
+
+---
+
+name
+last: Miller
+first: Mully
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: C
+
+residence
+place: US, OH, Massillon
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-03, page 6
+
+---
+
+name
+last: Prout
+first: Billy
+
+affiliation
+type: manager
+date: 1915
+club: Canton
+league: Buckeye
+
+affiliation
+type: player
+date: 1906
+club: Mobile
+league: Southern
+
+affiliation
+type: player
+date: 1907
+club: Decatur
+league: Illinois-Indiana-Iowa
+
+affiliation
+type: player
+date: 1908
+club: Decatur
+league: Illinois-Indiana-Iowa
+
+residence
+place: US, KY, Newport
+date: 1915
+
+note: 33 years old
+
+source: Canton Evening Repository (CER) 1915-05-04, page 6
+
+---
+
+name
+last: Barnhart
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1912
+club: Zanesville
+league: Central
+position: P
+
+source: Canton Evening Repository (CER) 1915-05-06, page 6
+
+---
+
+name
+last: Armstrong
+first: Howard
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+note: "Teacher-hurler" - "with Connie Mack for a time"
+
+source: Canton Evening Repository (CER) 1915-05-06, page 6
+
+---
+
+name
+last: McLaughlin
+first: Earl
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+residence
+place: US, OH, Massillon
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-06, page 6
+
+---
+
+name
+last: Kull
+first: L. C.
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Paterson
+league: Atlantic
+
+source: Canton Evening Repository (CER) 1915-05-06, page 6
+
+---
+
+name
+last: Walters
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: IF
+
+residence
+place: US, OH, Cleveland
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-06, page 6
+
+---
+
+name
+last: Belinski
+first: Heinie
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: C
+
+note: "considerable experience in the professional game but has stayed away from it for two years"
+
+source: Canton Evening Repository (CER) 1915-05-07, page 15
+
+---
+
+name
+last: Ramey
+first: Lloyd
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1912
+club: Canton
+league: Central
+position: P
+
+source: Canton Evening Repository (CER) 1915-05-07, page 15
+
+---
+
+name
+last: Carle
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: 1B
+
+residence
+place: US, OH, Uniontown
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-07, page 15
+
+---
+
+name
+last: Belinski
+first: Heinie
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: C
+
+residence
+place: US, OH, Canton
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-09, page 16
+
+---
+
+name
+last: Barnhart
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+residence
+place: US, OH, 
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-09, page 16
+
+---
+
+name
+last: Kirby
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: C
+
+residence
+place: US, OH, Cincinnati
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-09, page 16
+
+---
+
+name
+last: Lush
+first: Ernie
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: 1B
+
+residence
+place: US, OH, Cleveland
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-09, page 16
+
+---
+
+name
+last: Nesser
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: 1B
+
+note: professional football star with Akron Indians and Columbus Panhandles
+
+source: Canton Evening Repository (CER) 1915-05-09, page 16
+
+---
+
+name
+last: McGee
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+meta
+throws: Left
+
+source: Canton Evening Repository (CER) 1915-05-10, page 6
+
+---
+
+name
+last: Hawk
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+meta
+throws: Left
+
+source: Canton Evening Repository (CER) 1915-05-10, page 6
+
+---
+
+
+name
+last: Barnhart
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+affiliation
+type: player
+club: Zanesville
+position: P
+
+source: Canton Evening Repository (CER) 1915-05-10, page 6
+
+---
+
+name
+last: Day
+first: Oscar
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: 1B
+
+residence
+place: US, OH, Yellow Springs
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-10, page 6
+
+---
+
+name
+last: Johnson
+first: Vic
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: 3B
+
+affiliation
+type: player
+date: 1915
+club: Portsmouth
+league: Ohio State
+position: 3B
+
+affiliation
+type: player
+date: 1914
+club: Bartletts
+league: Canton City
+caliber: semi-pro
+position: 3B
+
+residence
+place: US, OH, Canton
+date: 1915
+
+
+source: Canton Evening Repository (CER) 1915-05-11, page 6
+
+---
+
+name
+last: Johnson
+first: Vic
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: 3B
+
+residence
+place: US, OH, Cleveland
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-11, page 6
+
+---
+
+name
+last: Lawson
+first: Al
+
+affiliation
+type: owner
+date: 1915
+club: Akron
+league: Buckeye
+
+note: picture - also president of Buckeye League
+
+source: Canton Evening Repository (CER) 1915-05-12, page 6
+
+---
+
+name
+last: Myers
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: 3B
+
+residence
+place: US, NY, Buffalo
+date: 1915
+
+note: "soldier boy"
+
+source: Canton Evening Repository (CER) 1915-05-20, page 12
+
+---
+
+name
+last: Allison
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: Of
+
+affiliation
+type: player
+club: Salineville
+caliber: semi-pro
+
+source: Canton Evening Repository (CER) 1915-05-20, page 12
+
+---
+
+name
+last: Pastorius
+first: Harve
+
+affiliation
+type: umpire
+date: 1915
+league: Buckeye
+
+affiliation
+type: player
+date: 1896
+club: Tacoma
+
+affiliation
+type: player
+date: 1899
+club: Wheeling
+league: Central
+
+affiliation
+type: player
+date: 1899
+club: Dayton
+league: Central
+
+note: began umpiring in 1903
+
+source: Canton Evening Repository (CER) 1915-05-20, page 13
+
+---
+
+name
+last: Linne
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+residence
+place: US, OH, Cincinnati
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-22, page 3
+
+---
+
+name
+last: Samuels
+
+meta
+throws: Left
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+residence
+place: US, OH, Cleveland
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-23, page 18
+
+---
+
+name
+last: Schisler
+first: Pete
+
+affiliation
+type: player
+date: 1915
+club: Portsmouth
+league: Ohio State
+position: SS
+
+affiliation
+type: player
+date: 1915
+club: Bakos
+caliber: semi-pro
+
+source: Canton Evening Repository (CER) 1915-05-23, page 18
+
+---
+
+name
+last: Thoma
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+
+meta
+bats: Right
+
+note: veteran minor league player
+
+source: Canton Evening Repository (CER) 1915-05-24, page 6
+
+---
+
+name
+last: Bonnin
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+
+meta
+bats: Left
+
+note: veteran minor league player
+
+source: Canton Evening Repository (CER) 1915-05-24, page 6
+
+---
+
+name
+last: Neer
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+
+meta
+bats: Left
+
+note: veteran minor league player
+
+source: Canton Evening Repository (CER) 1915-05-24, page 6
+
+---
+
+name
+last: Price
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+
+meta
+bats: Left
+
+note: veteran minor league player
+
+source: Canton Evening Repository (CER) 1915-05-24, page 6
+
+---
+
+name
+last: Leak
+first: Al
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+position: P
+
+note: spitballer
+
+source: Canton Evening Repository (CER) 1915-05-24, page 6
+
+---
+
+name
+last: Murray
+first: Sandy
+
+affiliation
+type: manager
+date: 1915
+club: Lima
+league: Buckeye
+
+source: Canton Evening Repository (CER) 1915-05-25, page 15
+
+---
+
+name
+last: Malloy
+first: Dick
+
+affiliation
+type: player
+date: 1915
+club: Lima
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+club: Milwaukee
+league: American Association
+
+affiliation
+type: player
+club: Ohio Northern University
+caliber: college
+
+source: Canton Evening Repository (CER) 1915-05-25, page 15
+
+---
+
+name
+last: Schweizter
+first: Al
+
+affiliation
+type: player
+date: 1915
+club: Lima
+league: Buckeye
+position: OF
+
+affiliation
+type: player
+club: St. Louis
+league: American 
+
+source: Canton Evening Repository (CER) 1915-05-25, page 15
+
+---
+
+name
+last: Wilhelm
+first: Fred
+nick: Pug
+nick: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Knight Tires
+league: Canton Shop
+position: P
+caliber: semi-pro
+
+source: Canton Evening Repository (CER) 1915-05-25, page 14
+
+---
+
+name
+last: Bonnin
+first: Luther
+
+affiliation
+type: player
+date: 1915
+club: Marion
+league: Buckeye
+
+source: Canton Evening Repository (CER) 1915-05-26, page 6
+
+---
+
+name
+last: Wetzel
+first: Buzz
+
+affiliation
+type: manager
+date: 1915
+club: Marion
+league: Buckeye
+
+source: Canton Evening Repository (CER) 1915-05-27, page 6
+
+---
+
+name
+last: Cattcott
+first: Ed
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+source: Canton Evening Repository (CER) 1915-05-27, page 6
+
+---
+
+name
+last: Spahr
+first:Harry
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Northern
+position: P
+
+residence
+place: US, OH, New Philadelphia
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-29, page 3
+
+---
+
+
+name
+last: Bellinski
+first: Henry
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: C
+
+affiliation
+type: player
+league: Central
+position: C
+
+affiliation
+type: player
+league: Texas
+position: C
+
+residence
+place: US, OH, Canton
+date: 1915
+
+source: Canton Daily News (CDN) 1915-05-30, page 8
+
+---
+
+name
+last: Long
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: OF
+
+source: Canton Daily News (CDN) 1915-05-30, page 8
+
+---
+
+name
+last: Humphreys
+first: Harley
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: 2B
+
+source: Canton Daily News (CDN) 1915-05-30, page 8
+
+---
+
+name
+last: Pierce
+first: Bunny
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: C
+
+source: Canton Daily News (CDN) 1915-05-30, page 8
+
+---
+
+name
+last: Malloy
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: 1B
+
+
+residence
+place: US, OH, New Straitsville
+date: 1915
+
+source: Canton Daily News (CDN) 1915-05-30, page 8
+
+---
+
+name
+last: Lamb
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: 1B
+
+
+residence
+place: US, OH, 
+date: 1915
+
+source: Canton Daily News (CDN) 1915-05-30, page 8
+
+---
+
+name
+last: Wratten
+first: Erve
+
+affiliation
+type: manager
+date: 1915
+club: Newark
+league: Buckeye
+
+source: Canton Evening Repository (CER) 1915-05-31, page 6
+
+---
+
+name
+last: Drake
+first: Tad
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: P
+
+residence
+place: US, OH, McConnellsville
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-05-31, page 6
+
+---
+
+name
+last: Blanchard
+first: Brickhouse
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: C
+
+source: Canton Evening Repository (CER) 1915-05-31, page 6
+
+---
+
+name
+last: Connors
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+meta
+throws: Left
+
+source: Canton Evening Repository (CER) 1915-06-01, page 8
+
+---
+
+name
+last: Clark
+first: Dad
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: 2B
+
+source: Canton Evening Repository (CER) 1915-06-01, page 8
+
+---
+
+name
+last: McKee
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: P
+
+meta
+throws: Left
+
+source: Canton Evening Repository (CER) 1915-06-01, page 8
+
+---
+
+name
+last: Barnhart
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+
+residence
+place: US, OH, Denison
+date: 1915
+
+source: Canton Evening Repository (CER) 1915-06-04
+
+---
+
+name
+last: Bostick
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+
+affiliation
+type: player
+date: 1914
+league: Canton City
+caliber: semi-pro
+
+source: Canton Evening Repository (CER) 1915-06-05, page 5
+
+---
+
+name
+last: Price
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+position: IF
+
+affiliation
+type: player
+date: 1915
+club: Newark
+league: Buckeye
+position: IF
+
+source: Canton Evening Repository (CER) 1915-06-07, page 10
+
+---
+
+name
+last: Patton
+first: Buck
+
+affiliation
+type: player
+date: 1915
+club: Akron
+league: Buckeye
+position: 3B
+
+affiliation
+type: player
+date: 1915
+club: Canton
+league: Buckeye
+
+source: Canton Evening Repository (CER) 1915-06-08, page 6
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

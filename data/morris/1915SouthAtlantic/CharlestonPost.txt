@@ -1,0 +1,243 @@
+name
+last: Hill
+first: Hugh
+
+affiliation
+type: player
+date: 1915
+club: Jacksonville
+league: South Atlantic
+position: 1B
+
+affiliation
+type: player
+date: 1914
+club: Americus
+league: Georgia State
+
+source: Charleston Post 1915-03-06, page 3
+
+---
+
+name
+last: Cox
+
+affiliation
+type: player
+date: 1915
+club: Charleston
+league: South Atlantic
+position: P
+
+residence
+place: US, AL, Gate City
+date: 1915
+
+meta
+throws: Right
+
+source: Charleston Post 1915-04-10, page 3
+
+---
+
+name
+last: Vitter
+first: Jack
+
+affiliation
+type: umpire
+date: 1915
+league: South Atlantic
+
+source: Charleston Post 1915-07-10, page 3
+
+---
+
+name
+last: Cox
+first: E. T.
+suffix: Jr.
+
+affiliation
+type: player
+date: 1915
+club: Charleston
+league: South Atlantic
+position: P
+
+residence
+place: US, AL, Gate City
+date: 1915
+
+source: Charleston Post 1915-07-12, page 5
+
+---
+
+name
+last: Pratt
+
+affiliation
+type: player
+date: 1915
+club: Jacksonville
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Americus
+league: Georgia State
+
+source: Charleston Post 1915-03-03, page 3
+
+---
+
+name
+last: Ginn
+first: Rucker
+
+affiliation
+type: player
+date: 1915
+club: Charleston
+league: South Atlantic
+position: RF
+
+affiliation
+type: player
+date: 1914
+club: Waterbury
+league: Eastern Association
+
+source: Charleston Post 1915-05-20, page 2
+
+---
+
+name
+last: Shirley
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Charleston
+league: South Atlantic
+
+source: Charleston Post 1915-05-20, page 2
+
+---
+
+name
+last: Taylor
+first: Buck
+
+affiliation
+type: player
+date: 1915
+club: Charleston
+league: South Atlantic
+
+source: Charleston Post 1915-05-20, page 2
+
+---
+
+name
+last: Pender
+first: Bob
+
+affiliation
+type: umpire
+date: 1914
+league: South Atlantic
+
+source: Charleston Post 1915-04-12, page 3
+
+---
+
+name
+last: Norcum
+first: Frank
+
+affiliation
+type: umpire
+date: 1915
+league: South Atlantic
+
+affiliation
+type: umpire
+date: 1915
+league: Virginia
+
+source: Charleston Post 1915-04-12, page 3
+
+---
+
+name
+last: McDermott
+first: Roderic
+
+affiliation
+type: player
+date: 1915
+club: Charleston
+league: South Atlantic
+
+affiliation
+type: player
+club: Jackson, TN
+caliber: semi-pro
+
+residence
+place: US, MS, Holly Springs
+date: 1915
+
+note: not related to Red McDermott
+
+source: Charleston Post 1915-04-12, page 3
+
+---
+
+name
+last: Moses
+first: Pat
+given: Patrick
+
+affiliation
+type: player
+date: 1915
+club: Albany
+league: South Atlantic
+position: P
+
+source: Charleston Post 1915-06-04, page 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

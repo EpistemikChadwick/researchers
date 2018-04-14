@@ -1,0 +1,21 @@
+name
+last: Waldschmidt
+first: Wallie
+
+affiliation
+type: player
+date: 1914
+club: Fresno
+league: California State
+
+source: San Bernardino News and The Free Press 1914-05-01, page 6
+
+
+
+
+
+
+
+
+
+

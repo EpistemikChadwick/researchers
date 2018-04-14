@@ -1,0 +1,14 @@
+name
+last: Baekey
+first: Lou
+
+affiliation
+type: player
+club: Charlotte
+league: North Carolina State
+
+note: picture
+
+source: Philadelphia Inquirer (PI) 1955-09-11, page 68
+
+---

@@ -1,0 +1,180 @@
+name
+last: Dickerson
+
+affiliation
+type: player
+date: 1915
+club: Macon
+league: South Atlantic
+position: P
+
+meta
+throws: Right
+
+source: Macon Telegraph 1915-04-28, page 6
+
+---
+
+name
+last: Mathieu
+first: Arthur
+
+affiliation
+type: player
+date: 1915
+club: Macon
+league: South Atlantic
+position: P
+
+meta
+throws: Left
+
+residence
+place: US, OH, Lansing
+date: 1915
+
+source: Macon Telegraph 1915-04-28, page 6
+
+---
+
+name
+last: Mack
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Macon
+league: South Atlantic
+position: 2B
+
+residence
+place: US, OH, North Baltimore
+date: 1915
+
+source: Macon Telegraph 1915-04-28, page 6
+
+---
+
+name
+last: Meehan
+first: Frank
+given: Frank C.
+
+affiliation
+type: player
+date: 1915
+club: Macon
+league: South Atlantic
+position: C
+
+residence
+place: US, Ma, Waburn
+date: 1915
+
+source: Macon Telegraph 1915-04-28, page 6
+
+---
+
+name
+last: Ostenderf
+first: F.
+
+affiliation
+type: player
+date: 1915
+club: Macon
+league: South Atlantic
+position: P
+
+residence
+place: US, MD, Baltimore
+date: 1915
+
+source: Macon Telegraph 1915-04-28, page 6
+
+---
+
+name
+last: Lowery
+first: Dick
+
+affiliation
+type: player
+date: 1915
+club: Macon
+league: South Atlantic
+position: P
+
+source: Macon Telegraph 1915-04-28, page 6
+
+---
+
+name
+last: Price
+first: Tubby
+
+affiliation
+type: player
+date: 1915
+club: Jacksonville
+league: South Atlantic
+position: P
+
+source: Macon Telegraph 1915-04-15, page 9
+
+---
+
+name
+last: Powers
+
+affiliation
+type: player
+date: 1915
+club: Jacksonville
+league: South Atlantic
+position: SS
+
+affiliation
+type: player
+date: 1915
+club: Americus
+league: Florida-Alabama-Georgia
+
+note: played under name of Powell in one game with Jacksonville
+
+source: Macon Telegraph 1915-04-15, page 9
+
+---
+
+name
+last: Taylor
+first: Buck
+given: George
+
+affiliation
+type: player
+date: 1910
+club: Albany
+league: South Atlantic
+position: P
+
+residence
+place: US, NC, Trenton
+date: 1915
+
+source: Macon Telegraph 1911-02-26, page 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+

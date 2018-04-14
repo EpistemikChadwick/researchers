@@ -1,0 +1,47 @@
+name
+last: Moore
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Columbia
+league: South Atlantic
+position: P
+
+source: Columbia State (CS) 1915-05-02, page 10
+
+---
+
+name
+last: Moore
+first: Bob
+
+affiliation
+type: player
+date: 1915
+club: Columbia
+league: South Atlantic
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Michigan State
+position: P
+
+affiliation
+type: player
+club: Washington & Lee University
+caliber: college
+position: P
+
+source: Columbia State (CS) 1915-03-14, page 10
+
+---

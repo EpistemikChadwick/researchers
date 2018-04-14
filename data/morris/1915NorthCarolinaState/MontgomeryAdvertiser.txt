@@ -1,0 +1,16 @@
+name
+last: Wells
+first: Pep
+
+affiliation
+type: player
+date: 1915
+club: University of Alabama
+caliber: college
+position: C
+
+note: captain of team
+
+source: Montgomery Advertiser (MA) 1915-03-26, page 11
+
+---

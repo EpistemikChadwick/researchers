@@ -1,0 +1,14 @@
+name
+last: Hartsell
+first: Harry
+
+affiliation
+type: player
+club: Hutchinson
+league: Western
+
+residence
+place: US, VA, Norfolk
+
+source: Wichita Daily Eagle 1917-07-31, page 7
+

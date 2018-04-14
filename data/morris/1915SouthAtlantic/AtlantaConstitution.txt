@@ -1,0 +1,96 @@
+name
+last: Bowden
+first: Timeon
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+affiliation
+type: player
+date: 1915
+club: Atlanta
+league: Southern Association
+
+source: Atlanta Constitution 1915-07-20, page 9
+
+---
+
+name
+last: Bowden
+first: Timon
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+affiliation
+type: player
+date: 1915
+club: Atlanta
+league: Southern Association
+
+source: Atlanta Constitution 1915-07-29, page 8
+
+---
+
+
+name
+last: Potts
+first: Claude
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+affiliation
+type: player
+date: 1915
+club: Atlanta
+league: Southern Association
+
+source: Atlanta Constitution 1915-07-29, page 8
+
+
+---
+
+name
+last: Davenport
+first: Mitchell
+
+affiliation
+type: player
+date: 1915
+club: Thomasville
+league: Georgia State
+position: 1B
+
+affiliation
+type: player
+club: Auburn University
+caliber: college
+
+source: Atlanta Constitution 1913-06-08, page 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

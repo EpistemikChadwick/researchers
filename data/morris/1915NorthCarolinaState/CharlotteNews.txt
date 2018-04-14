@@ -1,0 +1,484 @@
+name
+last: Bixby
+
+affiliation
+type: player
+date: 1915
+club: Winston-Salem
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Michigan State
+position: P
+
+source: Charlotte News (CN) 1915-05-09
+
+---
+
+name
+last: Gooch
+first: Lee
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: RF
+
+source: Charlotte News (CN) 1915-05-16, page 12
+
+---
+
+name
+last: Groome
+first: Irving
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+club: Davidson College
+caliber: college
+
+source: Charlotte News (CN) 1915-05-18, page 10
+
+---
+
+name
+last: Christenbury
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: 2B
+
+affiliation
+type: player
+date: 1915
+club: Davidson College
+caliber: college
+
+affiliation
+type: player
+date: 1914
+club: Davidson College
+caliber: college
+
+affiliation
+type: player
+date: 1913
+club: Davidson College
+caliber: college
+
+
+affiliation
+type: player
+date: 1912
+club: Davidson College
+caliber: college
+
+source: Charlotte News (CN) 1915-04-29, page 10
+
+---
+
+name
+last: Hoberg
+first: William
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: C
+
+residence
+place: US, PA, Shamokin
+date: 1915
+
+source: Charlotte News (CN) 1915-02-09, page 6
+
+---
+
+name
+last: Jiminez
+first: Manuel
+
+affiliation
+type: player
+date: 1915
+club: Asheville
+league: North Carolina State
+position: C
+
+
+affiliation
+type: player
+date: 1914
+club: Long Branch Cubans
+league: Atlantic
+position: C
+
+note: teammate of Francisco Munoz
+
+source: Charlotte News (CN) 1915-04-21, page 11
+
+---
+
+
+
+name
+last: Ingle
+first: I. P.
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+club: Elon College
+caliber: college
+
+source: Charlotte News (CN) 1915-02-03, page 6
+
+---
+
+name
+last: Smith
+first: Harry
+
+affiliation
+type: player
+date: 1913
+club: Winston-Salem
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+club: Savannah
+league: South Atlantic
+
+affiliation
+type: player
+date: 1915
+club: New York
+league: National
+
+source: Charlotte News (CN) 1915-02-03, page 6
+
+---
+
+name
+last: Joplin
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: SS
+
+affiliation
+type: player
+club: University of Alabama
+caliber: college
+
+source: Charlotte News (CN) 1915-05-28, page 6
+
+---
+
+name
+last: O'Byrne
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Kansas State
+position: P
+
+residence
+place: US, KS, Topeka
+date: 1915
+
+source: Charlotte News (CN) 1915-05-19, page 10
+
+---
+
+name
+last: O'Byrne
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Durham
+league: North Carolina State
+position: P
+
+note: picked up by Durham same day as released by Charlotte
+
+source: Charlotte News (CN) 1915-06-13, page 12
+
+---
+
+name
+last: Pratt
+first: Mel
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+source: Charlotte News (CN) 1915-06-01, page 10
+
+---
+
+name
+last: Robinson
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+residence
+place: US, SC, Piedmont
+date: 1915
+
+source: Charlotte News (CN) 1915-02-03, page 6
+
+---
+
+name
+last: Robinson
+first: J. R.
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Anderson
+league: Piedmont
+position: P
+caliber: semi-pro
+
+residence
+place: US, SC, Piedmont
+date: 1915
+
+meta
+throws: Left
+
+source: Charlotte News (CN) 1915-02-04, page 6
+
+---
+
+name
+last: Wells
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: C
+
+affiliation
+type: player
+date: 1914
+league: Georgia State
+
+affiliation
+type: player
+club: University of Alabama
+caliber: college
+position: C
+
+source: Charlotte News (CN) 1915-05-28, page 6
+
+---
+
+name
+last: Shankey
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: OF/1B
+
+affiliation
+type: player
+date: 1914
+league: Atlantic
+
+source: Charlotte News (CN) 1915-05-05, page 10
+
+---
+
+name
+last: Sindler
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Atlantic
+position: P
+
+meta
+throws: Right
+
+source: Charlotte News (CN) 1915-05-18, page 10
+
+---
+
+name
+last: Sisson
+first: Charlie
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: OF
+
+affiliation
+type: manager
+date: 1915
+club: Charlotte
+league: North Carolina State
+
+source: Charlotte News (CN) 1915-05-18, page 10
+
+---
+
+name
+last: Sykes
+
+affiliation
+type: player
+date: 1915
+club: Charlotte
+league: North Carolina State
+position: P
+
+residence
+place: US, GA, 
+date: 1915
+
+source: Charlotte News (CN) 1915-09-15, page 10
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

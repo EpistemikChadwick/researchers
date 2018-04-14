@@ -1,0 +1,13 @@
+name
+last: Gutierrez
+first: Jose
+
+affiliation
+type: player
+club: Habana Reds
+
+note: picture of Gutierrez 
+
+source: Tampa Tribune (TT) 1915-03-08, page 4
+
+---

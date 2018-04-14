@@ -1,0 +1,20 @@
+name
+last: Fisher
+first: Dunham
+
+affiliation
+type: player
+date: 1915
+club: Rocky Mount
+league: Virginia
+
+meta:
+throws: Left
+
+residence
+place: US, OH, Cincinnati
+date: 1915
+
+source: Wilmington Morning Star (WMS) 1915-03-27, page 2
+
+---

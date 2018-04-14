@@ -1,0 +1,21 @@
+name
+last: McCord
+first: Ike
+
+affiliation
+type: player
+date: 1914
+club: Raleigh
+league: North Carolina State
+
+affiliation
+type: player
+date: 1914
+club: Philadelphia
+league: American
+
+note: farmed out to son, Earl Mack
+
+source: Harrisburg Daily Independent (HDI) 1914-05-02, page 8
+
+---

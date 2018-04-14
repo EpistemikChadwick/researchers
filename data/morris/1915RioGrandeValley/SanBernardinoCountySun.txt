@@ -1,0 +1,56 @@
+name
+last: Waldschmidt
+first: Heinie
+
+affiliation
+type: player
+date: 1913
+club: San Bernadino
+league: Southern California
+
+affiliation
+type: player
+date: 1914
+club: Sacramento
+league: Pacific Coast
+
+affiliation
+type: player
+club: San Antonio
+league: Texas
+
+source: San Bernardino County Sun 1915-03-23, page 10
+
+---
+
+name
+last: Waldschmidt
+
+affiliation
+type: player
+date: 1915
+club: Albuquerque
+league: Rio Grande Association
+position: OF
+
+affiliation
+type: player
+date: 1913
+club: San Bernadino
+league: Southern California
+
+affiliation
+type: player
+date: 1914
+club: Los Angeles
+league: Pacific Coast
+
+affiliation
+type: player
+date: 1915
+club: San Antonio
+league: Texas
+
+source: San Bernardino County Sun 1915-03-23, page 10
+
+

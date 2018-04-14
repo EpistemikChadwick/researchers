@@ -1,0 +1,18 @@
+name
+last: Seaton
+first: Joe
+
+affiliation
+type: player
+date: 1914
+league: Western Canada
+
+source: Petaluma Daily Morning Courier 1915-03-12, page 8
+
+
+
+
+
+
+
+
