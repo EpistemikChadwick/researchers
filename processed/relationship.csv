@@ -1,7 +1,7 @@
 name1,name2,person,"relationship,type",source
-Ed,Dan,_subject,brother,data/morris/1915NorthCarolinaState/CharlotteObserver/36
-Toots,Jack,_subject,brother,data/morris/1915RioGrandeValley/ElPasoHerald/24
-Jack,John,_subject,son,data/morris/1915RioGrandeValley/ElPasoHerald/50
-Jack,Toots,_subject,brother,data/morris/1915RioGrandeValley/ElPasoHerald/57
-Wade,Ham,_subject,brother,data/morris/1915SouthAtlantic/ColumbiaRecord/24
-Sid,Harry,_subject,brother,data/morris/1915SouthAtlantic/ColumbiaState/165
+Ed,Dan,_subject,brother,morris/1915NorthCarolinaState/CharlotteObserver/36
+Toots,Jack,_subject,brother,morris/1915RioGrandeValley/ElPasoHerald/24
+Jack,John,_subject,son,morris/1915RioGrandeValley/ElPasoHerald/50
+Jack,Toots,_subject,brother,morris/1915RioGrandeValley/ElPasoHerald/57
+Wade,Ham,_subject,brother,morris/1915SouthAtlantic/ColumbiaRecord/24
+Sid,Harry,_subject,brother,morris/1915SouthAtlantic/ColumbiaState/165

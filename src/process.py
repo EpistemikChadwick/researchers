@@ -7,7 +7,7 @@ import pandas as pd
 def parse_text_file(fn):
     record_type = None
     record_count = 1
-    source = fn.rstrip(".txt")
+    source = fn.rstrip(".txt").replace("data/", "")
     
     with open(fn) as f:
         it = iter(f)
@@ -46,7 +46,7 @@ def parse_text_file(fn):
                 record = None
 
 def parse_excel_file_blau(fn):
-    source = fn.split(".")[0]
+    source = fn.split(".")[0].replace("data/", "")
     dflist = []
     df = pd.read_excel(fn)
     df.rename(inplace=True,
@@ -91,7 +91,7 @@ def parse_excel_file_blau(fn):
 
                 
 def parse_excel_file(fn):
-    source = fn.split(".")[0]
+    source = fn.split(".")[0].replace("data/", "")
     dflist = []
     try:
         df = pd.read_excel(fn, sheet_name="Subjects")
