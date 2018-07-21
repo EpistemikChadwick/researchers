@@ -1,0 +1,118 @@
+name
+last: Blancke
+first: Clay
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Toronto
+league: International
+
+source: Duluth News-Tribune 1915-05-31, page 9
+
+---
+
+name
+last: Chavenaugh [Cavanaugh]
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+position: SS
+
+affiliation
+type: player
+date: 1914
+club: Oshkosh
+league: Wisconsin-Illinois
+
+source: Duluth News-Tribune 1915-06-24, page 5
+
+---
+
+name
+last: Brammell
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: C
+
+affiliation
+type: player
+date: 1913
+club: Virginia
+league: Northern
+
+source: Duluth News-Tribune 1915-03-17, page 8
+
+---
+
+name
+last: Brammell
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: C
+
+note: picture
+
+source: Duluth News-Tribune 1915-04-21, page 8
+
+---
+
+name
+last: Bryant
+first: Sticks
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+league: Wisconsin-Illinois
+
+note: picture
+
+source: Duluth News-Tribune 1915-04-21, page 8
+
+---
+
+
+name
+last: Bruce
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+
+residence
+place: US, IN, Terre Haute
+date: 1915
+
+source: Duluth News-Tribune 1915-05-24, page 8
+
+

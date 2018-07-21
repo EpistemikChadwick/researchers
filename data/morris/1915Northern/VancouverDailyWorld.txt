@@ -1,0 +1,19 @@
+name
+last: Bemis
+first: Del
+
+affiliation
+type: player
+date: 1917
+club: Rockford
+league: Illinois-Indiana-Iowa
+
+affiliation
+type: player
+date: 1918
+club: Vancouver
+league: Pacific Coast International
+
+source: Vancouver Daily World 1918-04-19, page 12
+
+

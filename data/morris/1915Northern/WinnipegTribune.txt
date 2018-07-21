@@ -1,0 +1,1417 @@
+name
+last: Hewitt
+first: Bob
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Edmonton
+league: Western Canada
+position: P
+
+meta
+throws: Left
+
+residence
+place: US, WA, Spokane
+date: 1915
+
+source: Winnipeg Tribune 1915-04-10, page 20
+
+---
+
+name
+last: Fortier
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Edmonton
+league: Western Canada
+position: P
+
+source: Winnipeg Tribune 1915-04-10, page 20
+
+---
+
+name
+last: Dean
+first: Lloyd
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: IF
+
+affiliation
+type: player
+date: 1914
+club: Minneapolis
+league: American Association
+
+note: picture
+
+source: Winnipeg Tribune 1915-04-13, page 10
+
+---
+
+name
+last: Moll
+first: Charley
+
+affiliation
+type: manager
+date: 1915
+club: St. Boniface
+league: Northern
+
+source: Winnipeg Tribune 1915-04-13, page 10
+
+---
+
+name
+last: Wertzi
+first: Dwight
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: 2b
+
+affiliation
+type: player
+date: 1914
+club: Buffalo
+league: Federal
+
+source: Winnipeg Tribune 1915-04-16, page 12
+
+---
+
+name
+last: Hawkins
+first: Lefty
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+
+affiliation
+type: player
+date: 1914
+club: Fort William-Port Arthur
+league: Northern
+
+source: Winnipeg Tribune 1915-04-16, page 12
+
+---
+
+name
+last: Butler
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: C
+
+residence
+place: US, NE, Leigh
+date: 1915
+
+source: Winnipeg Tribune 1915-04-16, page 12
+
+---
+
+name
+last: Doyle
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: Fargo-Moorhead
+league: Northern
+
+affiliation
+type: player
+date: 1914
+club: Fargo-Moorhead
+league: Northern
+
+source: Winnipeg Tribune 1915-04-16, page 12
+
+---
+
+name
+last: Noble
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Kansas City
+league: American Association
+
+affiliation
+type: player
+date: 1914
+league: Michigan State
+
+meta
+throws: Right
+
+source: Winnipeg Tribune 1915-04-20, page 10
+
+---
+
+name
+last: Daney [Dancy]
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: 1B
+
+affiliation
+type: player
+date: 1914
+league: Michigan State
+
+source: Winnipeg Tribune 1915-04-20, page 10
+
+---
+
+name
+last: Collins
+first: Bowery
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: 2B
+
+affiliation
+type: player
+date: 1914
+club: Fort William-Port Arthur
+league: Northern
+
+source: Winnipeg Tribune 1915-04-20, page 10
+
+---
+
+name
+last: Hawkins
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Fort William-Port Arthur
+league: Northern
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-04-21, page 10
+
+---
+
+name
+last: Snyder
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Nashville
+league: Southern Association
+
+source: Winnipeg Tribune 1915-04-21, page 10
+
+---
+
+name
+last: Cline
+first: Claude
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: SS
+
+residence
+place: US, MN, Minneapolis
+date: 1915
+
+source: Winnipeg Tribune 1915-04-26, page 10
+
+---
+
+name
+last: Foster
+first: Ed
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+residence
+place: US, MN, Minneapolis
+date: 1915
+
+source: Winnipeg Tribune 1915-04-26, page 10
+
+---
+
+name
+last: O'Donnell
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: C
+
+affiliation
+type: player
+date: 1914
+club: St. Paul
+league: American Association
+
+source: Winnipeg Tribune 1915-04-26, page 10
+
+---
+
+name
+last: Hennessey
+first: James
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: 1B
+
+affiliation
+type: player
+date: 1914
+club: St. Paul
+league: American Association
+
+source: Winnipeg Tribune 1915-04-26, page 10
+
+---
+
+name
+last: Dean
+first: Choppy
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: SS
+
+source: Winnipeg Tribune 1915-04-27, page 11
+
+---
+
+name
+last: Cline
+first: Claude
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: 3B
+
+source: Winnipeg Tribune 1915-04-27, page 11
+
+---
+
+name
+last: Cline
+first: Claude
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: 3B
+
+source: Winnipeg Tribune 1915-04-27, page 11
+
+----
+
+name
+last: Hennessey
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: 1B
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-04-27, page 11
+
+---
+
+name
+last: Shirley
+first: Ted
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+note: picture
+
+source: Winnipeg Tribune 1915-04-29, page 10
+
+---
+
+name
+last: Kurke
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+position: C
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Swalm
+first: Al
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+position: OF
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Ferris
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Hession
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Penfold
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+meta
+throws: Right
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Clements
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+meta
+throws: Right
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Lipscombe
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+meta
+throws: Right
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Bailey
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+position: P
+
+meta
+throws: Right
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Shannon
+first: Jimmy
+
+affiliation
+type: player
+date: 1915
+club: St. Boniface
+league: Northern
+position: P
+
+source: Winnipeg Tribune 1915-05-01, page 27
+
+---
+
+name
+last: Collins
+first: Jimmie
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+
+source: Winnipeg Tribune 1915-05-03, page 11
+
+---
+
+name
+last: Baker
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: 2B
+
+affiliation
+type: player
+date: 1914
+club: Winnipeg
+league: Northern
+
+source: Winnipeg Tribune 1915-05-05, page 10
+
+---
+
+name
+last: Murphy
+
+affiliation
+type: player
+date: 1915
+club: St. Boniface
+league: Northern
+position: 3B
+
+affiliation
+type: player
+date: 1914
+league: Wisconsin-Illinois
+
+source: Winnipeg Tribune 1915-05-05, page 10
+
+---
+
+name
+last: Glass
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+position: OF
+
+source: Winnipeg Tribune 1915-05-05, page 10
+
+---
+
+name
+last: Patterson
+first: Roy
+
+affiliation
+type: manager
+date: 1915
+club: Winnipeg
+league: Northern
+position: OF
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Baker
+first: Roy
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: 2B
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Dean
+first: Choppy
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+positon: SS
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Moll
+first: Charlie
+
+affiliation
+type: manager
+date: 1915
+club: St. Boniface
+league: Northern
+position: OF
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Glass
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Kurke
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+
+affiliation
+type: player
+date: 1914
+club: Winnipeg
+league: Northern
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Curtis
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+
+affiliation
+type: player
+date: 1914
+club: Winnipeg
+league: Northern
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Swalm
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+
+affiliation
+type: player
+date: 1914
+club: Winnipeg
+league: Northern
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: O'Brien
+first: Darby
+
+affiliation
+type: manager
+date: 1915
+club: Duluth
+league: Northern
+position: 2B
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Ford
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: OF
+
+affiliation
+type: player
+date: 1914
+club: Duluth
+league: Northern
+position: OF
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Leahy
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Duluth
+league: Northern
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Jones
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Winnipeg
+league: Northern
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Shirley
+first: Ted
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Boley
+first: Ira
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: P
+
+note: picture
+
+source: Winnipeg Tribune 1915-05-08, page 19
+
+---
+
+name
+last: Shannon
+first: Jimmy
+
+affiliation
+type: player
+date: 1915
+club: St. Boniface
+league: Northern
+
+residence
+place: CA, MB, Winnipeg
+date: 1915
+
+source: Winnipeg Tribune 1915-05-11, page 10
+
+---
+
+name
+last: Brannon
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+position: P
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-12, page 10
+
+
+---
+
+name
+last: Snyder
+first: Slim
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+source: Winnipeg Tribune 1915-05-12, page 10
+
+---
+
+name
+last: McLellan [McLennan]
+first: Dan
+
+affiliation
+type: player
+date: 1915
+club: St. Boniface
+league: Northern
+
+residence
+place: CA, MB, Winnipeg
+date: 1915
+
+source: Winnipeg Tribune 1915-05-13, page 10
+
+---
+
+name
+last: Horton 
+first: Ralph
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+affiliation
+type: player
+club: Minneapolis
+league: American Association
+
+source: Winnipeg Tribune 1915-05-13, page 10
+
+---
+
+name
+last: Mitchell
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: SS
+
+affiliation
+type: player
+club: Minneapolis
+league: American Association
+
+source: Winnipeg Tribune 1915-05-14, page 15
+
+---
+
+name
+last: McLennan
+first: Dan
+
+affiliation
+type: player
+date: 1915
+club: St. Boniface
+league: Northern
+
+residence
+place: CA, MB, Winnipeg
+date: 1915
+
+source: Winnipeg Tribune 1915-05-14, page 15
+
+---
+
+name
+last: Sundheim
+first: Johnny
+
+affiliation
+type: player
+date: 1915
+club: Virginia
+league: Northern
+
+source: Winnipeg Tribune 1915-05-15, page 18
+
+---
+
+name
+last: Henry
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+affiliation
+type: player
+club: Minneapolis
+league: American Association
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-15, page 18
+
+---
+
+name
+last: Kline
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+source: Winnipeg Tribune 1915-05-17, page 10
+
+---
+
+name
+last: Lorenzen
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-20, page 12
+
+---
+
+name
+last: Baker
+first: Roy
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+source: Winnipeg Tribune 1915-05-21, page 14
+
+---
+
+name
+last: Hewitt
+
+affiliation
+type: player
+date: 1915
+club: Fort William-Port Arthur
+league: Northern
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-21, page 14
+
+---
+
+name
+last: Tissman [Tisman]
+first: Louis
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+residence
+place: CA, MB, Winnipeg
+date: 1915
+
+source: Winnipeg Tribune 1915-05-24, page 14
+
+---
+
+name
+last: McAulay [McCauley]
+first: Red
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+residence
+place: CA, MB, Winnipeg
+date: 1915
+
+source: Winnipeg Tribune 1915-05-24, page 14
+
+---
+
+name
+last: Gervais
+first: Louie
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-25, page 15
+
+---
+
+name
+last: Bell
+
+affiliation
+type: player
+date: 1915
+club: Fargo-Moorhead
+league: Northern
+position: P
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-05-25, page 15
+
+---
+
+name
+last: Wilson
+first: Tom
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: C
+
+source: Winnipeg Tribune 1915-05-26, page 10
+
+---
+
+name
+last: Wilson
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: C
+
+affiliation
+type: player
+club: Minneapolis
+league: American Association
+
+source: Winnipeg Tribune 1915-05-27, page 10
+
+---
+
+name
+last: Thomas
+first: Frosty
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+source: Winnipeg Tribune 1915-05-29, page 17
+
+---
+
+name
+last: Doyle
+first: Jack
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+
+affiliation
+type: player
+date: 1915
+club: Fargo-Moorhead
+league: Northern
+
+source: Winnipeg Tribune 1915-06-05, page 17
+
+---
+
+name
+last: Glass
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Superior
+league: Northern
+
+note: released
+
+source: Winnipeg Tribune 1915-06-05, page 17
+
+---
+
+name
+last: Boardman
+
+affiliation
+type: player
+date: 1915
+club: St. Boniface
+league: Northern
+position: P
+
+meta
+throws: Left
+
+source: Winnipeg Tribune 1915-06-09, page 10
+
+---
+
+name
+last: Pfeffer
+first: Rabbit
+
+affiliation
+type: player
+date: 1915
+club: St. Bonfiace
+league: Northern
+position: SS
+
+source: Winnipeg Tribune 1915-06-09, page 10
+
+---
+
+name
+last: Hogue
+first: Ira
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1913
+club: Minneapolis
+league: American Association
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Minneapolis
+league: American Association
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Minneapolis
+league: American Association
+position: P
+
+affiliation
+type: player
+date: 1913
+club: Chicago
+league: Federal
+position: P
+
+source: Winnipeg Tribune 1915-06-11, page 10
+
+---
+
+name
+last: Lawler
+first: B.
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: SS
+
+affiliation
+type: player
+date: 1915
+club: University of Minnesota
+caliber: college
+
+source: Winnipeg Tribune 1915-06-11, page 10
+
+---
+
+name
+last: Schor
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Chicago
+league: National
+
+source: Winnipeg Tribune 1915-07-27, page 10
+
+---
+
+name
+last: Berger
+first: Heinie
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+affiliation
+type: player
+date: 1915
+club: St. Paul
+league: American Association
+
+source: Winnipeg Tribune 1915-09-02, page 10
+

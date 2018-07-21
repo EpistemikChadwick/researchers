@@ -1,0 +1,19 @@
+name
+last: Ursella
+first: Rube
+
+affiliation
+type: player
+date: 1915
+club: Grand Forks
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1912
+club: Superior
+league: Central International
+
+source: Virginia (MN) Enterprise 1915-05-14, page 1
+

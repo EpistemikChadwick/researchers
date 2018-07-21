@@ -1,0 +1,22 @@
+name
+last: Dean
+first: Lloyd
+nick: Choppy
+
+affiliation
+type: player
+date: 1915
+club: Winnipeg
+league: Northern
+
+affiliation
+type: player
+date: 1914
+club: Willmar
+caliber: semi-pro
+
+residence
+place: US, MN, Minneapolis
+date: 1915
+
+source: Willmar (MN) Tribune 1915-03-31, page 5

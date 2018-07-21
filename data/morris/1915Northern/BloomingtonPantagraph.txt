@@ -1,0 +1,18 @@
+name
+last: Bassey
+
+affiliation
+type: player
+date: 1914
+club: Peoria
+league: Illinois-Indiana-Iowa
+
+affiliation
+type: player
+date: 1914
+club: Danville
+league: Illinois-Indiana-Iowa
+
+source: Bloomington Pantagraph 1914-05-15, page 5
+
+

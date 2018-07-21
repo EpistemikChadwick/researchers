@@ -1,0 +1,36 @@
+name
+last: Bryant
+first: Sticks
+
+affiliation
+type: player
+date: 1915
+club: Duluth
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1915
+club: Virginia
+league: Northern
+position: P
+
+affiliation
+type: player
+date: 1913
+club: Green Bay
+league: Wisconsin-Illinois
+
+affiliation
+type: player
+date: 1914
+club: Green Bay
+league: Wisconsin-Illinois
+
+residence
+place: US, IL, Chicago
+date: 1915
+
+source: Green Bay Press-Gazette 1915-07-09, page 21
+

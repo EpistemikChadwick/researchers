@@ -1,0 +1,14 @@
+name
+last: Hooper
+first: Eddie
+
+affiliation
+type: manager
+date: 1915
+club: Johns Hopkins University
+caliber: college
+
+note: fourth season as coach 
+
+source: Baltimore Sun 1915-02-02, page 11
+

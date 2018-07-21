@@ -1,0 +1,20 @@
+name
+last: Bassey
+first: John
+
+affiliation
+type: player
+date: 1914
+club: Peoria
+league: Illinois-Indiana-Iowa
+
+affiliation
+type: player
+club: Portland
+league: Pacific Coast
+
+source: Oregon Daily Journal 1914-03-11, page 5
+
+
+
+

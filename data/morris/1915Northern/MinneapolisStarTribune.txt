@@ -1,0 +1,48 @@
+name
+last: Bemis
+first: Del
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+position: OF
+
+meta
+throws: Left
+
+residence
+place: US, MN, Minneapolis
+date: 1915
+
+note: picture
+
+source: Minneapolis Star Tribune 1912-03-03, page 44
+
+---
+
+name
+last: Bemis
+first: Del
+
+affiliation
+type: player
+date: 1915
+club: Columbus
+league: South Atlantic
+
+affiliation
+type: player
+date: 1915
+club: Eau Claire
+league: Minnesota-Wisconsin
+
+affiliation
+type: player
+date: 1915
+club: Toledo
+league: American Association
+
+source: Minneapolis Star Tribune 1912-07-21, page 41
+
