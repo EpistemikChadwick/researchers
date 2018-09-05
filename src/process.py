@@ -212,9 +212,9 @@ def main():
     for fn in glob.glob("data/morris/*/*.txt"):
         print(fn)
         dflist.append(pd.DataFrame(parse_text_file(fn)))
-    for fn in glob.glob("data/mcgill/*/*.txt"):
-        print(fn)
-        dflist.append(pd.DataFrame(parse_text_file(fn)))
+    #for fn in glob.glob("data/mcgill/*/*.txt"):
+    #    print(fn)
+    #    dflist.append(pd.DataFrame(parse_text_file(fn)))
     for fn in glob.glob("data/*/*.xls"):
         print(fn)
         dflist.append(parse_excel_file(fn))
