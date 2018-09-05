@@ -1,0 +1,130 @@
+name
+last: Poole
+first: J.P.
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+residence
+place: US, NC, Madison
+
+note: With team before season, cut before start
+
+source: The Winston-Salem Journal 1911-04-01, page 2
+
+--
+
+name
+last: Mullen
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+date: 1910
+club: Fayetteville
+league: Eastern Carolina
+
+source: The Winston-Salem Journal 1911-04-19, page 2
+
+--
+
+name
+last: Mullins
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+residence
+place: US, MA, Boston
+date: 1911
+
+source: The Winston-Salem Journal 1911-04-20, page 2
+
+--
+
+name
+last: Clancy
+first: Jack
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+position: SS
+
+residence
+place: US, MA, Boston
+date: 1911
+
+source: The Winston-Salem Journal 1911-04-20, page 2
+
+--
+
+name
+last: Stevenson
+first:
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: University of Pennsylvania
+caliber: college
+
+source: The Winston-Salem Journal 1911-06-04, page 2
+--
+
+name
+last: Hartfrandt
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+meta
+throws: Left
+
+source: The Winston-Salem Journal 1911-07-02, page 2
+
+--
+
+name
+last: Edwards
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Richmond
+league: Virginia
+
+source: The Winston-Salem Journal 1911-07-19, page 2
+

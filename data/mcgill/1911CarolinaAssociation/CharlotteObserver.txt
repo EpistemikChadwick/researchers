@@ -1,0 +1,1440 @@
+name
+last: Clancy
+first: Charles
+
+affiliation
+type: manager
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-10, page 7
+
+---
+
+name
+last: Williams
+first: Elliot
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+---
+
+name
+last: Smith
+first:
+
+affiliation
+type: player
+date: 1909
+club: Goldsboro
+league: Eastern Carolina League
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+position: P
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+--
+
+name
+last: Nippert
+first:
+
+affiliation
+type: player
+date: 1910
+club: Huntington
+league: Virginia Valley League
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: C
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Stewart
+first:
+
+affiliation
+type: player
+date: 1910
+club: Guilford College
+caliber: college
+
+affiliation
+type: player
+date: 1910
+club: Asheville
+league: Southeastern
+position: C
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: C
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Ware
+first:
+
+affiliation
+type: player
+date: 1910
+club: Chillicothe
+league: Ohio State League
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: C
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Wallace
+first:
+
+affiliation
+type: player
+date: 1910
+club: Greensboro
+league: Carolina Association
+position: P
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: P
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Eldridge
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Morrisey
+first:
+
+affiliation
+type: player
+date: 1910
+club: Richmond
+league: Virginia League
+position: P
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: P
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Fuller
+first:
+
+affiliation
+type: player
+date: 1910
+club: Greensboro
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Doak
+first:
+
+affiliation
+type: player
+date: 1910
+club: Greensboro
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Doyle
+first:
+
+affiliation:
+type: player
+date: 1910
+club: Wilson
+league: Eastern Carolina League
+
+affiliation
+type: manager
+date: 1911
+club: Greensboro
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Corwin
+first:
+
+affiliation:
+type: player
+date: 1910
+club: Wilson
+league: Eastern Carolina League
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Carroll
+first:
+
+affiliation:
+type: player
+date: 1910
+club: Wilson
+league: Eastern Carolina League
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Clapp
+first:
+
+affiliation
+type: player
+date: 1910
+club: Greensboro
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: OF
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Rickard
+first:
+
+affiliation
+type: player
+date: 1910
+club: Greensboro
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: OF
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Bentley
+first:
+
+affiliation
+type: player
+date: 1910
+club: Greensboro
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+position: OF
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: McDuff
+first: Gordon
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+source: The Charlotte Observer 1911-04-27, page 3
+
+--
+
+name
+last: Galvin
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+position: C
+
+affiliation
+type: player
+date: 1910
+club: Fayetteville
+league: Eastern Carolina League
+
+note: native of Dorchester, MA
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+--
+
+name
+last: Cahill
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+note: native of Springfield, MA
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+--
+
+name
+last: Hill
+first:
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+position: P
+
+meta
+height: 6' 2"
+weight: 190 lbs
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+--
+
+name
+last: Mullins
+first: 
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+note: from Philadelphia
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+--
+
+name
+last: Hargrave
+name: Hiram
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+source: The Charlotte Observer 1911-05-05, page 3
+
+--
+
+name
+last: Roth
+first: Andy
+
+affiliation
+type: manager
+date: 1911
+club: Jacksonville
+league: South Atlantic League
+
+source: The Charlotte Observer 1911-05-19, page 3
+
+--
+
+name
+last: Wideman
+first: Jim
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: University of South Carolina
+caliber: college
+
+source: The Charlotte Observer 1911-06-04, page 9
+
+--
+
+name
+last: Watson
+first: Archie
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Erskine College
+caliber: college
+
+source: The Charlotte Observer 1911-06-09, page 7
+
+--
+
+name
+last: Redfern
+first: Jimmie
+
+affiliation
+type: player
+date: 1911
+club: Greenville
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-09, page 7
+
+--
+
+name
+last: McMillan
+first: Tommie
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+note: joined club on June 16
+
+source: The Charlotte Observer 1911-06-09, page 7
+
+--
+
+name
+last: Hayes
+first: Jimmie
+
+affiliation
+type: player
+date: 1911
+club: Asheville
+league: Appalachian
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-10, page 3
+
+--
+
+name
+last: Lowman
+first:
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Greensboro
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-13, page 3
+
+--
+
+name
+last: Redfern
+first: Jimmie
+
+affiliation
+type: player
+date: 1911
+club: Augusta
+league: South Atlantic
+
+affiliation
+type: player
+date: 1911
+club: Greenville
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-25, page 3
+
+--
+
+name
+last: Scanlon
+first:
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Brooklyn
+league: National League
+
+affiliation
+type: player
+date: 1911
+club: Atlanta
+league: Southern League
+
+affiliation
+type: player
+date: 1911
+club: Macon
+league: South Atlantic
+
+meta
+throws: left
+
+note: This is Frank Scanlan (1df9b03c)
+
+source: The Charlotte Observer 1911-06-28, page 3
+
+--
+
+name
+last: Landgraff
+first:
+
+affiliation
+type: player
+date: 1911
+club: Greenville
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Asheville
+league: Appalachian League
+
+source; The Charlotte Observer 1911-07-23, page 3
+
+--
+
+name
+last: Ferrell
+first: John
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+source: The Charlotte Observer 1911-08-03, page 3
+
+--
+
+name
+last: Watson
+first: Archie
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+source: The Charlotte Observer 1911-08-08, page 8
+
+--
+
+name
+last: Garber
+first:
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, VA, Dayton
+date: 1911
+
+source: The Charlotte Observer 1911-03-26, page 8
+
+--
+
+name
+last: Cummings
+first: N.A.
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, NJ, Blackwood
+date: 1911
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: Canny
+first: Joseph
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, NY, Binghamton
+date: 1911
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: Garber
+first: D.V.
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: Henry
+first: C.
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, PA, Reading
+date: 1911
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: Roth
+first: W.B.
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, PA, Allentown
+date: 1911
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: Walters
+first: Fred
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: Woodson
+first: E.
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, WV, Gary
+date: 1911
+
+source: The Charlotte Observer 1911-03-27, page 2
+
+--
+
+name
+last: McMillan
+first: John
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+name
+last: McMillan
+first: Thomas
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+relationship
+name1: John
+name2: Thomas
+relationship-type: twins
+
+source: The Charlotte Observer 1911-03-29, page 3
+
+--
+
+name
+last: Hartley
+first: O.W.
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, IN, Kokomo
+date: 1911
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Hayes
+first: H.L.
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, IN, New Castle
+date: 1911
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Finn
+first: Patrick
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, PA, Wilkes-Barre
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Salzinger
+first: Frank
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, PA, Wilkes-Barre
+date: 1911
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Brannon
+first: Frank
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, PA, Plains
+date: 1911
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: McEnroe
+first: Edward
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, PA, Drifton
+date: 1911
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Kelly
+first: William
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, NJ, Newark
+date: 1911
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Farmer
+first: C. Bing
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, SC, Allendale
+date: 1911
+
+note: Charles Farmer (ce50f1ea)
+
+source: The Charlotte Observer 1911-04-02, page 16
+
+--
+
+name
+last: Wahl
+first: Harry
+
+affiliation
+type: player
+date: 1909
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Norfolk
+league: Tidewater League
+
+source: The Charlotte Observer 1911-04-25, page 3
+
+--
+
+name
+last: Parks
+first: Walter
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, PA, Scranton
+date: 1911
+
+source: The Charlotte Observer 1911-04-27, page 9
+
+--
+
+name
+last: Ray
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Whitsett Institute
+caliber: Boarding School
+
+source: The Charlotte Observer 1911-05-06, page 3
+
+--
+
+name
+last: Roth
+first:
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, PA, Allentown
+date: 1911
+
+source: The Charlotte Observer 1911-05-16, page 3
+
+--
+
+name
+last: Cummings
+first:
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, PA, Philadelphia
+date: 1911
+
+source: The Charlotte Observer 1911-05-16, page 3
+
+--
+
+name
+last: McCown
+first:
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Presbyterian College
+caliber: college
+
+source: The Charlotte Observer 1911-05-18, page 3
+
+--
+
+name
+last: Van Pelt
+first: 
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, NC, Hoskins
+date: 1911
+
+source: The Charlotte Observer 1911-05-18, page 3
+
+--
+
+name
+last: Smith
+first: Howell
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+position: P
+
+source: The Charlotte Observer 1911-05-25, page 3
+
+--
+
+name
+last: Wood
+first:
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+position: P
+
+meta
+throws: Left
+
+source: The Charlotte Observer 1911-06-02, page 3
+
+--
+
+name
+last: McMillan
+first:
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: University of South Carolina
+caliber: college
+
+source: The Charlotte Observer 1911-06-02, page 3
+
+--
+
+name
+last: Agnew
+first:
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+residence
+place: US, PA, Lancaster
+date: 1911
+
+--
+
+name
+last: Stephenson
+first:
+
+affiliation
+type: player
+date: 1911
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+club: Erskine College
+caliber: college
+
+affiliation
+type: player
+club: University of Pennsylvania
+caliber: college
+
+source: The Charlotte Observer 1911-06-06, page 3
+
+--
+
+name
+last: McCoy
+first:
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Albany
+league: South Atlantic
+
+source: The Charlotte Observer 1911-06-22, page 3
+
+--
+
+name
+last: Blackstone
+first: 
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+meta
+bats: Left
+
+source: The Charlotte Observer 1911-06-23, page 3
+
+--
+
+name
+last: Jenkins
+first:
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+meta
+bats: Left
+
+source: The Charlotte Observer 1911-06-23, page 3
+
+--
+
+name
+last: Williams
+first:
+nickname: Boots
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-24, page 3
+
+--
+
+name
+last: Flowers
+first: Buck
+
+affiliation
+type: player
+date: 1911
+club: Greenville
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-24, page 3
+
+--
+
+name
+last: McCoy
+first:
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+source: The Charlotte Observer 1911-06-28, page 3
+
+--
+
+name
+last: Howard
+first:
+nickname: Rube
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+source: The Charlotte Observer 1911-07-02, page 3
+
+--
+
+name
+last: Graham
+first: 
+
+affiliation
+type: player
+date: 1911
+club: Anderson
+league: Carolina Association
+
+residence
+place: US, SC, Ware Shoals
+date: 1911
+
+source: The Charlotte Observer 1911-07-06, page 3
+
+--
+
+name
+last: Mabry
+first: George
+
+affiliation
+type: player
+date: 1911
+club: Greenville
+league: Carolina Association
+
+source: The Charlotte Observer 1911-07-24, page 3
+
+--
+
+name 
+last: Jenkins
+first: Polie
+
+affiliation
+type: player
+date: 1911
+club: Greenville
+league: Carolina Association
+
+source: The Charlotte Observer 1911-07-24, page 3
+
+--
+
+name 
+last: McClary
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+meta
+bats: Right
+
+source: The Charlotte Observer 1911-08-01, page 3
+
+--
+
+name
+last: Stewart
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+meta
+bats: Left
+
+source: The Charlotte Observer 1911-08-01, page 3
+
+--
+
+name
+last: Kunkle
+first:
+
+affiliation
+type: player
+date: 1911
+club: Spartanburg
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+club: Columbia
+league: South Atlantic
+
+source: The Charlotte Observer 1911-08-08, page 8
+
+--
+
+name
+last: Schmidt
+first:
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+date: 1911
+league: Tidewater
+
+source: The Charlotte Observer 1911-08-08, page 8
+
+--

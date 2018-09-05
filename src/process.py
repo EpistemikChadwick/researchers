@@ -1,4 +1,5 @@
 from __future__ import print_function
+import sys
 import glob
 import hashlib
 
@@ -37,7 +38,12 @@ def parse_text_file(fn):
                     line = it.next().strip()
                     if line == "": break
                     line = "%s-%s" % (record_type, line)
-                    record[",".join(line.split(":")[0].split("-")[1:])] = line.split(":")[1].strip()
+                    try:
+                        record[",".join(line.split(":")[0].split("-")[1:])] = line.split(":")[1].strip()
+                    except IndexError:
+                        print("Bad split in line")
+                        print(line)
+                        sys.exit(1)
                 yield record
                 record = None
         except StopIteration:
@@ -169,6 +175,9 @@ def generate_hash(s):
                 
 def generate_clubs():
     names = pd.read_csv("processed/name.csv", dtype=str)
+    for col in ['date', 'league', 'club']:
+        if col in names:
+            del names[col]
     affiliations = pd.read_csv("processed/affiliation.csv", dtype=str)
 
     clubs = pd.merge(affiliations, names, how='left',
@@ -201,6 +210,9 @@ def main():
     dflist = []
 
     for fn in glob.glob("data/morris/*/*.txt"):
+        print(fn)
+        dflist.append(pd.DataFrame(parse_text_file(fn)))
+    for fn in glob.glob("data/mcgill/*/*.txt"):
         print(fn)
         dflist.append(pd.DataFrame(parse_text_file(fn)))
     for fn in glob.glob("data/*/*.xls"):

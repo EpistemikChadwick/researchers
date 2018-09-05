@@ -1,0 +1,14 @@
+name
+last: Stewart
+first: B.C.
+
+affiliation
+type: player
+date: 1913
+club: Worcester
+league: New England League
+position: C
+note: Bill Stewart and B.C. Stewart are the same player
+
+source: The Daily Tar Heel 1913-03-06, page 2
+
