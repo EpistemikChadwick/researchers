@@ -1,0 +1,34 @@
+name
+last: Hartfrandt
+
+affiliation
+type: player
+date: 1913
+club: Winston-Salem
+league: Carolina Association
+position: P
+
+meta
+throws: Left
+
+residence
+place: US, PA
+date: 1913
+source: Winston-Salem Journal 1913-04-01, page 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

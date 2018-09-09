@@ -1,0 +1,42 @@
+name
+last: Yount
+
+affiliation
+type: player
+date: 1913
+club: New Bedford
+league: New England
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Baltimore
+league: Federal
+position: P
+
+source: Baltimore Sun 1914-03-08, page 13
+
+---
+
+name
+last: Yount
+first: Herbert
+
+affiliation
+type: player
+date: 1913
+club: New Bedford
+league: New England
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Baltimore
+league: Federal
+position: P
+
+source: Baltimore Sun 1915-03-08, page 1
+
+---

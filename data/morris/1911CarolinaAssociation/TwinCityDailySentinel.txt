@@ -1,0 +1,71 @@
+name
+last: Brown
+first: Bob
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+position: OF
+
+source: Twin-City Daily Sentinel 1911-08-04, page 6
+
+---
+
+name
+last: Yount
+first: Herbert
+
+affiliation
+type: player
+date: 1912
+club: Anderson
+league: Carolina Association
+
+source: Twin-City Daily Sentinel 1912-07-29, page 6
+
+---
+
+name
+last: Aaronson
+first: Archie
+
+affiliation
+type: player
+date: 1911
+club: Winston-Salem
+league: Carolina Association
+
+residence
+place: US, PA, Philadelphia
+date: 1911
+
+source: Twin-City Daily Sentinel 1911-07-08, page 1
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
