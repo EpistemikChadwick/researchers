@@ -1,0 +1,388 @@
+name
+last: Finney
+first: Fred
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1905
+club: Parsons
+league: Missouri Valley League
+
+meta
+height: 5' 7 1/2"
+weight: 155 lbs
+birth date: 1882
+birth place: Springfield, IL
+bats: Both
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Koepping
+first: Otto
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1908
+club: Duluth
+league: Northern
+
+meta
+height: 5' 5"
+weight: 135 lbs
+birth date: 1887
+birth place: Elgin, IL
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Ohland
+first: Harry
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1906
+club: Jackson
+league: Southern Michigan
+
+meta
+height: 5' 6"
+weight: 157 lbs
+birth date: 1883
+birth place: Saginaw, MI
+bats: Left
+throws: Left
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Bromwich
+first: Al
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1910
+club: Madison
+league: Wisconsin-Illinois
+
+meta
+height: 6' 0"
+weight: 170 lbs
+birth date: 1886
+birth place: St. Louis, MO
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Crangle
+first: James
+nickname: Happy
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1902
+club: Bloomington
+league: Three I
+
+meta
+height: 5' 9 1/2"
+weight: 170 lbs
+birth date: 1883
+birth place: Gilman, IL
+bats: Left
+throws: Left
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Kelly
+first: Joe
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1910
+team: Red Wing
+league: Minnesota-Wisconsin
+
+meta
+height: 5' 10"
+weight: 155 lbs
+birth date: 1889
+birth place: Chicago, IL
+bats: Left
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Finke
+first: William
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1910
+club: Saginaw
+league: Southern Michigan
+
+meta
+height: 5' 8"
+weight: 158 lbs
+birth date: 1884
+birth place: Germany
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Dick
+first: Frank
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1906
+club: Marshalltown
+league: Iowa
+
+meta
+height: 6' 1 1/2"
+weight: 175 lbs
+birth date: 1885
+birth place: Cleve, OH
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Nelson
+first: Clarence
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1904
+club: Nashville
+league: Southern Association
+
+meta
+height: 5' 9 1/2"
+weight: 145 lbs
+birth date: 1882
+birth place: Murfreesboro, TN
+bats: Left
+throws: Left
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Smith
+first: Max
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+date: 1908
+club: Brandon
+league: Northern
+
+meta
+height: 5' 10"
+weight: 175 lbs
+birth date: 1885
+birth place: Germany
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Flowers
+first: Buck
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1908
+club: Darlingtopn
+
+
+meta
+height: 5' 8"
+weight: 185 lbs
+birth date: 1887
+birth place: Doversville, SC
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Walsh
+nickname: Red
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1907
+club: Quincy
+league: Three I
+
+meta
+height: 5' 8"
+weight: 155 lbs
+birth date: 1885
+birth place: Chicago, IL
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: O'Leary
+first: Dan
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: manager
+year: 1911
+club: Davenport
+league: Three I
+
+affiliation
+type: player
+year: 1901
+club: Rock Island
+league: Three I
+
+meta
+height: 5' 8"
+weight: 182 lbs
+birth date: 1880
+birth place: Orion, IL
+bats: Right
+throws: Right
+
+source: The Davenport Daily Times 1911-05-24, page 8
+
+--
+
+name
+last: Lund
+first: Lester
+
+affiliation
+type: player
+year: 1911
+club: Davenport
+league: Three I
+
+meta
+height: 5' 9 3/4"
+weight: 160 lbs
+birth date: 1887
+birth place: Calamus, IA
+bats: Left
+throws: Left

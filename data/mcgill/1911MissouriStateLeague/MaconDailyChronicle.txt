@@ -1,0 +1,334 @@
+name
+last: Threlkeld
+first: Roy
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: CF
+
+meta
+height: 5' 9"
+weight: 140 lbs
+birth date: 1886-08-06
+birth place: Shelbina, MO
+bats: Left
+throws: Left
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Bates
+first: Earl
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: RF
+
+meta
+height: 5' 11"
+weight: 140 lbs
+birth date: 1890-08-23
+birth place: Shelbina, MO
+bats: Left
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: St. John
+first: Bert
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: LF
+
+meta
+height: 5' 6"
+weight: 135 lbs
+birth date: 1891-12-27
+birth place: Forbe, MO
+bats: Right
+throws: Left
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Sullivan
+first: Richard
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: SS
+
+affiliation
+type: player
+year: 1910
+club: Enid
+league: Western Association
+
+affiliation
+type: player
+year: 1910
+club: Marysville
+league: Eastern Kansas
+
+meta
+height: 5' 11"
+weight: 150 lbs
+birth date: 1891-04-05
+birth place: Salem, IL
+bats: Right
+throws: Both
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Gordon
+first: Brook
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: C
+
+affiliation
+type: player
+year: 1903
+club: Galveston
+league: South Texas
+
+meta
+height: 6' 1"
+weight: 190 lbs
+birth date: 1884-03-21
+birth place: Callao, MO
+bats: Right
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Herman
+first: Jonathan T.
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: C
+
+meta
+height: 5' 11"
+weight: 179 lbs
+birth date: 1888-08-30
+birth place: Farmington, MO
+bats: Right
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Folks
+first: Ray
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: 3B
+
+meta
+height: 5' 9"
+weight: 155 lbs
+birth date: 1891-02-16
+birth place: St. Joseph, MO
+bats: Right
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Mikel
+first: Glen
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: 2B
+
+affiliation
+type: player
+year: 1909
+club: La Junta, CO
+caliber: semi-pro
+
+meta
+height: 5' 8"
+weight: 160 lbs
+birth date: 1888-03-27
+birth place: Pennville, MO
+bats: Left
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Bloomer
+first: Charles
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: 1B
+
+meta
+height: 5' 11"
+weight: 160 lbs
+birth date: 1891-04-07
+birth place: O'Fallon, IL
+bats: Right
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: George
+nickname: Doc
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: P
+
+affiliation
+type: player
+year: 1910
+club: Seneca
+league: Eastern Kansas
+
+meta
+height: 5' 7"
+weight: 150 lbs
+birth date: 1888-03-02
+birth place: Big Horn, TX
+bats: Right
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Daniels
+first: Charles
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: P
+
+meta
+height: 6' 2"
+weight: 175 lbs
+birth date: 1888-09-04
+birth place: Bevier, MO
+bats: Left
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Akers
+first: William
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+position: P
+
+affiliation
+type: player
+year: 1910
+club: Kansas City
+caliber semi-pro
+
+meta
+height: 5' 9"
+weight: 157 lbs
+birth date: 1888-02-02
+birth place: Nevada, MO
+bats: Left
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--
+
+name
+last: Hulen
+first: V.E.
+
+affiliation
+type: player
+year: 1911
+club: Macon
+league: Missouri State
+positon: Fielder
+
+meta
+height: 5' 8"
+weight: 130 lbs
+birth date: 1890-05-30
+birth place: Clark, MO
+bats: Right
+throws: Right
+
+source: Macon Daily Chronicle 1911-05-15, page 3
+
+--

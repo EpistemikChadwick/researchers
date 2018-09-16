@@ -1,0 +1,310 @@
+name
+last: Feeney
+first: Thomas
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: 1B
+
+meta
+height: 5' 11"
+weight: 155 lbs
+age: 24
+
+residence
+place: US, RI, Central Falls
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Streeter
+first: Fred
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: OF
+
+meta
+height: 5' 5"
+weight: 142 lbs
+age: 22
+
+residence
+place: US, OH, Toledo
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Noah
+first: Charles
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: P
+
+meta
+height: 6' 1"
+weight: 180 lbs
+age: 22
+
+residence
+place: US, IA, Glenwood
+place: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Limric
+first: Joseph
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: P
+
+meta
+height: 5' 11"
+weight: 155 lbs
+age: 25
+
+residence
+place: US, IN, La Grange
+place: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Burke
+first: Frank
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: OF
+
+meta
+height: 5' 7"
+weight: 150 lbs
+age: 25
+
+residence
+place: US, OH, Toledo
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Bowers
+first: Dan
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: P
+
+meta
+height: 6' 2"
+weight: 170 lbs
+age: 22
+
+residence
+place: US, MD, Baltimore
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Hagen
+first: Ray
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: SS
+
+meta
+height: 5' 5"
+weight: 130 lbs
+
+residence
+place: US, PA, Philadelphia
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Hawk
+first:
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: P
+
+meta
+height: 5' 11"
+weight: 150 lbs
+age: 20
+
+residence
+place: US, PA, Butler County
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Heffner
+nickname: Paddy
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: 2B
+
+meta
+height: 5' 10"
+weight: 160 lbs
+age: 28
+
+residence
+place: US, PA, Pottsville
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Ernest
+first: Henry
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: OF
+
+meta
+height: 5' 7"
+weight: 156 lbs
+age: 22
+
+residence
+place: US, OH, Cleveland
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Schlatter
+first: Ed
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: 1B
+
+meta
+height: 6' 2"
+weight: 175 lbs
+age: 24
+
+residence
+place: US, OH, Toledo
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Smith
+first: Bill
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: Middle IF
+
+meta
+height: 5' 8 1/2"
+weight: 170 lbs
+residence: Toledo, OH
+age: 32
+
+residence
+place: US, OH, Toledo
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--
+
+name
+last: Murphy
+first: Ed
+
+affiliation
+type: player
+year: 1907
+club: New Castle
+league: Ohio-Pennsylvania
+position: C
+
+meta
+height: 5' 11"
+weight: 168 lbs
+age: 24
+
+residence
+place: US, PA, Johnstown
+date: 1907
+
+source: New Castle Herald 1907-04-27, page 2
+
+--

@@ -1,0 +1,308 @@
+name
+last: Moran
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: 2B
+
+affiliation
+type: manager
+year: 1924
+club: Emporia
+league: Southwestern
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Gains
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: 3B
+
+meta
+bats: Right
+trows: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Gillispie
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: 3B
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Johnson
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: SS
+
+meta
+bats: Left
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Fuchs
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: SS
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Fenton
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: 1B
+
+meta
+bats: Left
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Shoemaker
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: 1B
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Stevens
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: C, CF
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Gooch
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: C, CF
+
+meta
+bats: Right
+throws: Right
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Stanton
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: P, RF
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Loschke
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: P
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Petit
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: P
+
+meta
+bats: Left
+throws: Left
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Lawhorn
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: P
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Perkins
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: P
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Teichgraeber
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: P
+
+meta
+bats: Left
+throws: Left
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
+
+name
+last: Fahrenhorst
+first: 
+
+affiliation
+type: player
+year: 1924
+club: Emporia
+league: Southwestern
+position: LF
+
+meta
+bats: Right
+throws: Right
+
+source: The Emporia Gazette 1924-05-02, page 5
+
+--
