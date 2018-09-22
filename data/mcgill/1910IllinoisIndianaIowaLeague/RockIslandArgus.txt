@@ -1,0 +1,131 @@
+name
+last: Lakaff
+first: Frank
+
+affiliation
+type: player
+date: 1910
+club: Rock Island
+league: Three I
+
+meta
+bats: Left
+throws: Right
+
+residence
+date: 1910
+place: US, IA, Delmar
+
+source: The Rock Island Argus, 1910-03-26. page 11
+
+--
+
+name
+last: Vogel
+first: Otto
+
+affiliation
+type: player
+date: 1910
+club: Rock Island
+league: Three I
+
+meta
+bats: Right
+throws: Right
+
+residence
+date: 1910
+place: US, MO, St. Louis
+
+source: The Rock Island Argus, 1910-03-26. page 11
+
+--
+
+name
+last: Kelly
+first: Harry
+
+affiliation
+type: player
+date: 1910
+club: Rock Island
+league: Three I
+
+meta
+bats: Right
+throws: Right
+
+residence
+date: 1910
+place: US, NY, Buffalo
+
+source: The Rock Island Argus, 1910-03-26. page 11
+
+--
+
+name
+last: Queisser
+first: Walter
+
+affiliation
+type: player
+date: 1910
+club: Rock Island
+league: Three I
+
+meta
+bats: Right
+throws: Right
+
+residence
+date: 1910
+place: US, IN, Indianapolis
+
+source: The Rock Island Argus, 1910-03-26. page 11
+
+--
+
+name
+last: Kohl
+first: Eddie
+
+affiliation
+type: player
+date: 1910
+club: Rock Island
+league: Three I
+
+meta
+bats: Right
+throws: Right
+
+residence
+date: 1910
+place: US, MN, St. Paul
+
+source: The Rock Island Argus, 1910-03-26. page 11
+
+--
+
+name
+last: Ochs
+first: Fred
+
+affiliation
+type: player
+date: 1910
+club: Rock Island
+league: Three I
+
+meta
+bats: Right
+throws: Right
+
+residence
+date: 1910
+place: US, OH, Cincinnati
+
+source: The Rock Island Argus, 1910-03-26. page 11
+
+--

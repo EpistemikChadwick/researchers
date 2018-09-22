@@ -1,0 +1,257 @@
+name
+last: Murray
+first: Thomas
+
+affiliation
+type: manager
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+affiliation
+type: player
+date: 1890
+club: Dallas
+league: Texas
+
+affiliation
+type: player
+date: 1889
+club: Peoria
+league: Central Interstate
+
+affiliation
+type: player
+date: 1889
+club: Charleston
+league: Southern 
+
+affiliation
+type: manager
+date: 1888
+club: Lafayette
+league: Central Interstate
+
+affiliation
+type: player
+date: 1888
+club: Lafayette
+league: Central Interstate
+
+birth
+date: 1864-02-15
+place: US, IN, Indianapolis
+
+meta
+height: 69
+weight: 155
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Broderick
+first: Joseph
+middle: T.
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+position: CF
+
+birth
+date: 1864-06-07
+place: Ireland
+
+meta
+height: 69
+weight: 155
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Augustine
+first: William
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+affiliation
+type: player
+date: 1890
+club: Green Bay
+caliber: semi-pro
+
+birth
+place: US, IL, Chicago
+
+meta
+height: 66
+weight: 185
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Wallschlaeger
+first: Ed
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+birth
+date: 1871-05-04
+place: US, WI, Milwaukee
+
+meta
+height: 69
+weight: 150
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Boreland
+first: Ed
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+position: C
+
+birth
+date: 1897-02-06
+place: US, PA, Oil City
+
+meta
+height: 71
+weight: 186
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Mackey
+first: John
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+position: 2B
+
+affiliation
+type: player
+date: 1890
+league: Illinois-Iowa
+
+affiliation
+type: player
+date: 1890
+league: Colorado State
+
+meta
+height: 67.5
+weight: 160
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Donovan
+first: Edward
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+birth
+date: 1869-07-04
+
+note: cousin of Amos Rusie
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Berquin
+nickname: Nig
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+affiliation
+type: player
+date: 1890
+club: Ottowa
+league: Illinois-Iowa
+
+affiliation
+type: player
+date: 1889
+club: Springfield
+
+affiliation
+type: player
+date: 1888
+club: Peoria
+
+birth
+date: 1865-11-03
+place: US, IL, Peoria
+
+meta
+height: 67.5
+weight: 145
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--
+
+name
+last: Pearle
+first: Richard
+
+affiliation
+type: player
+date: 1891
+club: Green Bay
+league: Wisconsin State
+
+birth
+date: 1864-05-06
+place: US, IL, Danville
+
+source: Green Bay Press-Gazette, 1891-05-20, page 3
+
+--

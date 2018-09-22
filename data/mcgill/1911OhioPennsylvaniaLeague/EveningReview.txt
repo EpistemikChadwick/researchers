@@ -1,0 +1,117 @@
+name
+last: Silcox
+
+affiliation
+type: player
+date: 1911
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 69
+weight: 165
+age: 24
+bats: Right
+throws: Right
+
+residence
+date: 1911
+place; US, PA, Philadelphia
+
+source: The Evening Review, 1911-04-22, page 6
+
+--
+
+name
+last: Becknell
+
+affiliation
+type: player
+date: 1911
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 73.5
+weight: 192
+age: 21
+bats: Right
+throws: Right
+
+residence
+date: 1911
+place: US, OH, Minerva
+
+source: The Evening Review, 1911-04-22, page 6
+
+--
+
+name
+last: McAleese
+
+affiliation
+type: player
+date: 1911
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 70
+weight: 175
+age: 27
+bats: Right
+throws: Right
+
+residence
+date: 1911
+place: US, PA, Sharon
+
+source: The Evening Review, 1911-04-22, page 6
+
+--
+
+name
+last: Gray
+
+affiliation
+type: player
+date: 1911
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 69
+weight: 158
+age: 22
+bats: Left
+throws: Right
+
+residence
+date: 1911
+place: US, PA, Carnegie
+
+source: The Evening Review, 1911-04-22, page 6
+
+--
+
+name
+last: Cavanaugh
+
+affiliation
+type: player
+date: 1911
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 67
+weight: 170
+age: 23
+bats: Right
+throws: Right
+
+residence
+date: 1911
+place: US, WI, Beloit
+
+source: The Evening Review, 1911-04-22, page 6

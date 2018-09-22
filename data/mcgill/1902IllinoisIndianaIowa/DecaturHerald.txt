@@ -1,0 +1,195 @@
+name
+last: McGill
+first: C.
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 66
+weight: 185
+
+residence
+date: 1902
+place: US, KY, Louisville
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Hankey
+first: J.
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 68
+weight: 170
+
+residence
+date: 1902
+place: US, IL, Chicago
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Barr
+first: W.S.
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 66.5
+weight: 155
+
+residence
+date: 1902
+place: US, MO, Henry
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Burt
+first: D.
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 69
+weight: 170
+
+residence
+date: 1902
+place: US, OH, Toledo
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Bruce
+first: Jesse
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 70
+weight: 168
+
+residence
+date: 1902
+place: US, IN, Peru
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Dickey
+first: Guy
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 74
+weight: 185
+
+residence
+date: 1902
+place: US, IL, Chicago
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Schewbridge
+first: Jack
+
+affiliation
+type: player
+date: 1902
+club: Decatur
+league: Three I
+
+meta
+height: 69
+weight: 165
+
+residence
+date: 1902
+place: US, IL, Chicago
+
+source: The Decatur Herald, 1902-04-12, page 4
+
+--
+
+name
+last: Boyle
+first: Frank
+
+affiliation
+type: player
+date: 1902
+club: Rockford
+league: Three I
+
+source: The Decatur Herald, 1902-04-06, page 7
+
+--
+
+name
+last: Dugan
+first: A.
+
+affiliation
+type: player
+date: 1902
+club: Cedar Rapids
+league: Three I
+
+source: The Decatur Herald, 1902-04-06, page 7
+
+--
+
+name
+last: McCoy
+first: J.C.
+
+affiliation
+type: player
+date: 1902
+club: Terre Haute
+league: Three I
+
+source: The Decatur Herald, 1902-04-06, page 7
+
+--

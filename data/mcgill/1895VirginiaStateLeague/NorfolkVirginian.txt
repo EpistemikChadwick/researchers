@@ -1,0 +1,175 @@
+name
+last: Tenley
+first: Ray
+
+affiliation
+type: player
+date: 1895
+club: Norfolk
+league: Virginia State
+
+affiliation
+type: player
+date: 1894
+club: Georgetown
+league: Blue Grass
+
+affiliation
+type: player
+date: 1894
+club: Quincy
+league: Western Association
+
+meta
+height: 68
+age: 19
+
+source: The Norfolk Virginia, 1895-03-26, page 1
+
+--
+
+name
+last: Whaley
+first: Smith
+
+affiliation
+type: player
+date: 1895
+club: Norfolk
+league: Virginia State
+
+affiliation
+type: player
+date: 1894
+club: Reading
+league: Pennsylvania State
+
+meta
+height: 66
+weight: 150
+age: 23
+
+residence
+date: 1895
+place: US, PA, Uniontown
+
+source: The Norfolk Virginia, 1895-03-26, page 1
+
+--
+
+name
+last: Hoffman
+first: Fred
+
+affiliation
+type: player
+date: 1895
+club: Norfolk
+league: Virginia State
+
+meta
+height: 69.5
+age: 21
+
+residence
+date: 1895
+place: US, MD, Cumberland
+
+source: The Norfolk Virginia, 1895-03-26, page 1
+
+--
+
+name
+last: Rodgers
+first: John
+
+affiliation
+type: player
+date: 1895
+club: Norfolk
+league: Virginia State
+
+affiliation
+type: player
+date: 1885
+club: Poughkeepsie
+league: Hudson River
+
+affiliation
+type: manager
+date: 1888
+club: Auburn
+league: Central New York
+
+affiliation
+type: player
+date: 1889
+club: New Haven
+league: Atlantic
+
+affiliation
+type: player
+date: 1890
+club: Des Moines
+league: Western
+
+affiliation
+type: player
+date: 1890
+club: Hartford
+league: Connecticut State
+
+affiliation
+type: player
+date: 1890
+club: Albany
+league: New York State
+
+meta
+height: 70.5
+age: 29
+
+source: The Norfolk Virginia, 1895-03-26, page 1
+
+--
+
+name
+last: Hauptman
+first: Harry
+
+affiliation
+type: player
+date: 1895
+club: Norfolk
+league: Virginia State
+
+meta
+height: 68
+age: 26
+
+source: The Norfolk Virginia, 1895-03-26, page 1
+
+--
+
+name
+last: Hager
+first: Fred
+
+affiliation
+type: player
+date: 1895
+club: Norfolk
+league: Virginia State
+
+affiliation
+type: player
+date: 1894
+club: Norfolk
+league: Virginia
+
+meta
+height: 69
+age: 23
+
+source: The Norfolk Virginia, 1895-03-26, page 1
+

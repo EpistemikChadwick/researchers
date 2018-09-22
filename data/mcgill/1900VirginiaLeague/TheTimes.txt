@@ -1,0 +1,108 @@
+name
+last: Summers
+first: Oliver
+
+affiliation
+type: player
+date: 1900
+club: Richmond
+league: Virginia
+
+meta
+height: 71
+weight: 165
+bats: Right
+
+residence
+date: 1900
+place: US, PA, Philadelphia
+
+source: The Times, 1900-04-22, page 2
+
+--
+
+name
+last: Manner
+first: Henry
+
+affiliation
+type: player
+date: 1900
+club: Richmond
+league: Virginia
+
+meta
+height: 70
+weight: 155
+bats: Right
+age: 22
+
+residence
+date: 1900
+place: US, MD, Baltimore
+
+source: The Times, 1900-04-22, page 2
+
+--
+
+name
+last: Kelly
+first: B.
+
+affiliation
+type: player
+date: 1900
+club: Richmond
+league: Virginia
+
+affiliation
+type: player
+club: Holy Cross
+caliber: college
+
+affiliation
+type: player
+club: Tufts
+caliber: college
+
+meta
+height: 71
+weight: 170
+bats: Right
+age: 25
+
+residence
+date: 1900
+place: US, RI, Providence
+
+source: The Times, 1900-04-22, page 2
+
+--
+
+name
+last: Gilligan
+nickname: Red
+
+affiliation
+type: player
+date: 1900
+club: Richmond
+league: Virginia
+
+affiliation
+type: player
+club: Birmingham
+league: Southern
+
+meta
+height: 69.5
+weight: 150
+age: 22
+
+residence
+date: 1900
+place: US, WV, Wheeling
+
+source: The Times, 1900-04-22, page 2
+
+--

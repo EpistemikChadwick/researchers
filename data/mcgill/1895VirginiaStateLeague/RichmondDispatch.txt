@@ -1,0 +1,87 @@
+name
+last: Harris
+first: Charles
+
+affiliation
+type: player
+date: 1895
+club: Petersburg
+league: Virginia State
+
+source: Richmond Dispatch, 1895-03-17, page 1
+
+--
+
+name
+last: McClung
+first: C.P.
+
+affiliation
+type: player
+date: 1895
+club: Petersburg
+league: Virginia State
+position: C
+
+affiliation
+type: player
+date: 1894
+club: Asheville
+
+affiliation
+type: player
+date: 1892
+club: Chattanooga
+league: Southern
+
+meta
+height: 68.5
+weight: 170
+
+residence
+date: 1895
+place: US, VA, East Radford
+
+source: Richmond Dispatch, 1895-03-17, page 1
+
+--
+
+name
+last: Perry
+first: Sherman
+
+affiliation
+type: player
+date: 1895
+club: Petersburg
+league: Virginia State
+
+affiliation
+type: player
+date: 1894
+club: Indianapolis
+league: Western
+
+affiliation
+type: player
+date: 1893
+club: Topeka
+league: Western Association
+
+affiliation
+type: player
+date: 1892
+club: Topeka
+league: Western Association
+
+meta
+height: 69
+weight: 160
+
+residence
+date: 1895
+place: US, IN, Indianapolis
+
+source: Richmond Dispatch, 1895-03-17, page 1
+
+--

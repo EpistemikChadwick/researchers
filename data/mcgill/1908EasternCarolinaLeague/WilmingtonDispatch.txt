@@ -1,0 +1,39 @@
+name
+last: McDonald
+first: William
+
+affiliation
+type: player
+date: 1908
+club: Wilmington
+league: Eastern Carolina
+
+affiliation
+type: player
+date: 1908
+club: Spartanburg
+league: Carolina Association
+
+source: The Wilmington Dispatch, 1908-08-28, page 3
+
+--
+
+name
+last: Cooper
+first: John
+
+affiliation
+type: player
+date: 1908
+club: Wilmington
+league: Eastern Carolina
+
+affiliation
+type: player
+date: 1908
+club: Spartanburg
+league: Carolina Association
+
+source: The Wilmington Dispatch, 1908-08-28, page 3
+
+--

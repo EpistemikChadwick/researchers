@@ -1,0 +1,225 @@
+name
+last: Osborne
+first: Arch
+
+affiliation
+type: manager
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 71.75
+weight: 165
+
+residence
+date: 1909
+place: US, PA, Charleroi
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Raley
+first: John
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+bats: Both
+
+residence
+date: 1909
+place: US, MD, Bloomington
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Strayer
+first: Tom
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 70
+weight: 190
+
+residence
+date: 1909
+place: US, PA, Pennsylvania
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Strood
+first: Fred
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 69
+weight: 158
+bats: Right
+
+residence
+date: 1909
+place: US, OH, Akron
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Reagan
+first: Ed
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 69
+weight: 140
+bats: Right
+
+residence
+date: 1909
+place: US, GA, Atlanta
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Lattimore
+first: Ralph
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 68.5
+weight: 157
+bats: Right
+
+residence
+date: 1909
+place: US, OH, Akron
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: McGinley
+first: William
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 68
+weight: 160
+bats: Right
+
+residence
+date: 1909
+place: US, PA, Philadelphia
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Hinton
+first: Philip
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 68
+weight: 157
+bats: Both
+
+residence
+date: 1909
+place: US, MD, Baltimore
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Monahan
+first: Owen
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 66
+weight: 150
+bats: Right
+
+residence
+date: 1909
+place: US, IN, Elwood City
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
+
+name
+last: Cefalu
+first: Edwin
+
+affiliation
+type: player
+date: 1909
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+meta
+height: 70
+weight: 165
+bats: Right
+
+residence
+date: 1909
+place: US, OH< Cincinnati
+
+source: The Evening Review, 1909-05-05, page 6
+
+--
