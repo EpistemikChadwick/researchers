@@ -141,13 +141,13 @@ league: Wisconsin State
 position: C
 
 birth
-date: 1897-02-06
 place: US, PA, Oil City
 
 meta
 height: 71
 weight: 186
 
+note: Birth date listed as 1879-02-06, which can't be correct
 source: Green Bay Press-Gazette, 1891-05-20, page 3
 
 --
