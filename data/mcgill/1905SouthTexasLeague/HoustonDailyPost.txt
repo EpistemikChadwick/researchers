@@ -1,0 +1,186 @@
+name
+last: Moore
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 68
+weight: 180
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Begley
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 72
+weight: 170
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Truesdale
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 64
+weight: 150
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Markley
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 66
+weight: 150
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Mowry
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 60
+weight: 140
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Edmondson
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 66
+weight: 180
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Paulig
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 64
+weight: 180
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Nelson
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 64
+weight: 150
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Weber
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 66
+weight: 165
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Karger
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 72
+weight: 170
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
+
+name
+last: Sorrels
+
+affiliation
+type: player
+date: 1905
+team: Houston
+league: South Texas
+
+meta
+height: 68
+weight: 175
+
+source: Houston Daily Post, 1905-05-07, page 20
+
+--
