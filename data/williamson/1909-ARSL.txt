@@ -1,0 +1,759 @@
+---
+
+name
+last: Addington
+first: Max
+
+affiliation
+type: player
+date: 1907
+club: Monroe
+league: Gulf Coast
+position: 3b
+
+source: Arkansas Democrat 1908-02-06, page 2
+
+meta
+height: 70
+weight: 153
+source: Arkansas Gazette 1908-03-23, page 8
+
+residence
+place: US, OK, Yukon
+year: 1908
+source: Arkansas Gazette 1908-03-09, page 2
+
+affiliation
+type: prospect
+date: 1908
+club: Little Rock
+league: Southern Association
+position: 3b
+
+note: released by purchase to Monroe (with option)
+source: The Sporting News 1908-04-23, page 6
+
+affiliation
+type: player
+date: 1908
+club: Monroe
+league: Cotton States
+position: 3b
+
+note: option exercised by Little Rock
+source: Memphis Commercial Appeal 1908-08-12, page 11
+source: The Sporting News 1908-08-27, page 2
+
+affiliation
+type: prospect
+date: 1909
+club: Little Rock
+league: Southern Association
+position: 3b
+
+note: returned to Yukon home before 1909-04-08 and accepted position at local drug store
+source: Edmond (Oklahoma) Enterprise 1909-04-08, page 5
+note: asked by Little Rock manager Finn to join Fort Smith club (Finn had a financial interest in Fort Smith club at the time)
+source: Arkansas Gazette 1909-04-16, page 8
+source: Arkansas Gazette 1909-04-18, page 13
+
+affiliation
+type: player
+date: 1909
+club: Fort Smith
+league: Arkansas State
+position: 3b
+
+note: released 1909-05-19
+source: Fort Smith Times 1909-05-19, page 2
+
+---
+
+name
+last: Akey
+
+affiliation
+type: player
+date: 1909
+club: Monroe
+league: Arkansas State
+position: rf
+
+note: more common regional surname is Achee
+
+---
+
+name
+last: Anderson
+first: Wingo
+
+affiliation
+type: player
+date: 1909
+club: Shreveport
+league: Texas
+position: p
+
+meta:
+residence: Texas
+
+note: released by purchase to Alexandria (with option)
+source: The (Shreveport) Times 1909-05-30, page 6
+
+affiliation
+type: player
+date: 1909
+club: Alexandria
+league: Arkansas State
+position: p
+
+note: was with Alexandria club when franchise was dropped by league
+
+affiliation
+type: player
+date: 1909
+club: Longview (Texas)
+league: independent
+position: p
+
+source: The (Alexandria) Weekly Town Talk 1909-07-10, page 8
+source: The (Shreveport) Times 1909-08-08, page 6
+source: The (Shreveport) Times 1910-03-10, page 10
+
+affiliation
+type: player
+date: 1909
+club: Nacogdoches (Louisiana)
+league: independent
+position: p
+
+source: The (Shreveport) Times 1909-08-08, page 2
+
+affiliation
+type: player
+date: 1909
+club: El Paso
+league: Cactus
+position: p
+
+note: adjoining source is oldest article found to date identifying first name 'Wingo' and connecting pitcher to 1909 Shreveport club
+note: signed contract with Cincinnati 1909-10-xx
+source: The (Shreveport) Times 1909-10-27, page 10
+
+affiliation
+type: player
+date: 1910
+club: Cincinnati
+league: National
+position: p
+
+---
+
+name
+last: Averett
+first: Hooter
+given: John W.
+
+source: Monroe News-Star 1918-01-12, page 8
+
+affiliation
+type: player
+date: 1909
+club: Monroe
+league: Arkansas State
+position: p
+
+note: in try-out debut 1909-05-06, as 'an 18-year-old school boy of [Monroe]', Averett shuts out Fort Smith
+source: Arkansas Gazette 1909-05-07, page 8
+
+note: released 1909-05-23
+source: Shreveport Times 1909-05-24, page 6
+
+affiliation
+type: prospect
+date: 1912
+club: Fort Worth
+league: Texas
+position: p
+
+source: Fort Worth Star-Telegram 1911-11-08, page 10
+note: apparently released at end of spring training or just after beginning of season
+source: El Paso Herald 1912-05-11, page 25
+
+affiliation
+type: player
+date: 1912
+club: Guthrie
+league: Oklahoma State
+position: p
+
+source: Dallas Morning News 1912-04-29, page 13
+source: Muskogee Times-Democrat 1912-05-06, page 9
+source: Monroe News-Star 1912-07-16, page 8
+
+meta
+throws: Left
+
+source: Dallas Morning News 1912-04-29, page 13
+
+---
+
+name
+last: Avers
+first:
+
+affiliation
+type: player
+date: 1909
+club: Alexandria
+league: Arkansas State
+position: rf
+
+---
+
+name
+last: Bagwell
+first: O.
+
+affiliation
+type: player
+date: 1909
+club: Monroe
+league: Arkansas State
+position: p
+
+note: 1909 contract recorded
+source: The Sporting News 1909-05-06, page 7
+
+---
+
+name
+last: Baker
+
+affiliation
+type: player
+date: 1909
+club: Monroe
+league: Arkansas State
+position: c
+
+note: had 'arrived from Chattanooga' that day (1909-05-15), apparently played just the one game with Monroe
+source: The Shreveport Times 1909-05-16, page 10
+
+---
+
+name
+last: Baldwin
+first: Dan
+
+affiliation
+type: player
+date: 1909
+club: Newport-Batesville
+league: Arkansas State
+position: 2b
+
+meta
+residence: US, AR, Pine Bluff
+
+source: Pine Bluff Daily Graphic 1909-07-01, page 5
+source: Memphis Commercial Appeal 1909-07-02, page 13
+
+---
+
+name
+last: Bankhead
+first: Jack
+
+affiliation
+type: player
+date: 1904
+club: Corsicana
+league: Texas
+position: p
+
+note: as an amateur (regular job was clerk at the City National Bank of Paris), he shut out the Paris team on May 26
+source: Dallas Morning News 1904-05-27, page 10
+
+residence
+place: US, TX, Paris
+year: 1904
+source: Dallas Morning News 1904-05-27, page 10
+
+affiliation
+type: prospect
+date: 1908
+club: Houston
+league: Texas
+position: c
+
+source: The Houston Post 1908-03-15, page 18
+note: released by purchase (possibly with option) to Beaumont 1908-04-15
+source: Beaumont Enterprise 1908-04-16, page 3
+
+affiliation
+type: player
+date: 1908
+club: Beaumont
+league: Gulf Coast
+position: c
+
+note: was with Beaumont club when league folded
+note: Bankhead 'secured from the Houston club' by Texarkana March 1909
+source: The (Texarkana) Daily Texarkanian 1909-03-25, page 5
+
+affiliation
+type: player
+date: 1909
+club: Texarkana
+league: Arkansas State
+position: c
+
+note: was with Texarkana club when league folded
+
+---
+
+name
+last: Barnicle
+first: Fred
+
+affiliation
+type: player
+date: 1907
+club: Dean Academy
+caliber: college
+position: p
+
+meta
+height: 72
+weight: 185
+
+source: Boston Herald 1908-02-11, page 9
+
+affiliation
+type: prospect
+date: 1908
+club: Philadelphia
+league: American
+position: p
+
+note: was invited to spring training by manager Mack, was unable to do much because of bad arm, and left the club 1909-03-23 to return to Dean Academy (having retained amateur status)
+source: Philadelphia Inquirer 1908-03-24, page 10
+
+affiliation
+type: player
+date: 1908
+club: Dean Academy
+caliber: college
+position: p
+
+source: Boston Herald 1908-06-19, page 8
+
+affiliation
+type: player
+date: 1908
+club: Worcester
+league: New England
+position: p
+
+note: released 1908-07-10
+source: Boston Herald 1908-07-11, page 5
+
+affiliation
+type: prospect
+date: 1909
+club: Little Rock
+league: Southern Association
+position: p
+
+note: contract recorded February 1909
+source: Sporting News 1909-02-11, page 6
+note: manager Finn of Little Rock loaned Barnicle to Fort Smith club
+source: Arkansas Gazette 1909-04-14, page 8
+
+affiliation
+type: player
+date: 1909
+club: Fort Smith
+league: Arkansas State
+position: p
+
+note: manager Finn notified Barnicle to return to Little Rock 1909-04-26
+source: Arkansas Gazette 1909-04-27, page 12
+note: released by Little Rock 1909-04-29
+source: Arkansas Gazette 1909-04-29, page 6
+
+affiliation
+type: player
+date: 1909
+club: Holyoke
+league: Connecticut State
+position: p
+
+note: signs with Holyoke 1909-05-11
+source: Springfield (Massachusetts) Republican 1909-05-11, page 6
+nore: released 1909-06-01
+source: Springfield (Massachusetts) Republican 1909-06-02, page 6
+
+---
+
+name
+last: Bauer
+first: Eddie
+nickname: Polly
+
+affiliation
+type: player
+date: 1909
+club: Alexandria
+league: Arkansas State
+position: 2b, p
+
+note: signed by Alexandria club 1909-05-17
+source: The (Alexandria) Town Talk 1909-05-18, page 6
+note: was with Alexandria club when franchise was dropped by league
+
+---
+
+name
+last: Begley
+first: Jim
+alternate: Bill
+
+affiliation
+type: player
+date: 1908
+club: Helena
+league: Arkansas State
+position: 1b
+
+note: joined Helena club 1908-06-18
+source: Arkansas Gazette 1908-06-19, page 8
+note: 1909 contract recorded
+source: Sporting News 1909-05-13, page 4
+
+affiliation
+type: player
+date: 1909
+club: Helena
+league: Arkansas State
+position: 1b
+
+note: was with Helena club when league folded
+
+affiliation
+type: player
+date: 1909
+club: Zanesville
+league: Central
+position: cf
+
+note: signed before 1909-07-21
+source: The (Zanesville) Times Recorder 1909-07-21, page 6
+note: 'traded' to Steubenville 1909-08-13 (but Zanesville retained rights to Begley)
+source: The (Zanesville) Times Recorder 1909-08-14, page 6
+
+affiliation
+type: player
+date: 1909
+club: Steubenville
+league: Ohio-Pennsylvania
+position: 1b
+
+note: traded by Zanesville to Evansville 1909-10-19
+source: The (Zanesville) Times Recorder 1909-10-20, page 8
+
+meta
+residence: US, MO, St. Louis
+source: Evansville Press 1910-03-29, page 4
+
+affiliation
+type: player
+date: 1910
+club: Evansville
+league: Central
+position: 1b
+
+note: referenced in 1910 in some newspaper articles as 'Bill' Begley
+source: Evansville Press 1910-04-07, page 6
+note: released 1910-06-01 (roster pared down to 14)
+source: Indianapolis News 1910-06-04, page 9
+
+affiliation
+type: player
+date: 1910
+club: El Reno
+league: Western Association
+position:
+
+source: El Paso Herald 1910-07-15, page 8
+
+affiliation
+type: player
+date: 1910
+club: Oklahoma City
+league: Texas
+position:
+
+note: Evansville Press 1910-07-14, page 6
+
+affiliation
+type: player
+date: 1911
+club: Hyde Parks
+league: St. Louis Trolley
+caliber: semi-pro
+position: 1b
+
+source: St. Louis Post-Dispatch 1911-03-16, page 18
+
+---
+
+name
+last: Bell
+
+affiliation
+type: player
+date: 1909
+club: Fort Smith
+league: Arkansas State
+position: ss
+
+---
+
+name
+last: Benham
+first: Herbert
+
+affiliation
+type: player
+date: 1908
+club: Helena
+league: Arkansas State
+position: rf
+
+meta
+residence: US, TN, Memphis
+
+source: Arkansas Gazette 1908-04-27, page 6
+note: 1909 contract recorded
+source: The Sporting News 1909-05-13, page 4
+
+affiliation
+type: player
+date: 1909
+club: Helena
+league: Arkansas State
+position: rf
+
+note: was with Helena club when league folded
+
+affiliation
+type: player
+date: 1910
+club: El Reno
+league: Western
+position: cf
+
+source: Pittsburgh Daily Post 1910-03-26, page 10
+note: was with El Reno club when dropped by league
+note: signed with Carutherville 1910-08-02
+source: The (Caruthersville) Democrat-Argus 1910-08-05, page 1
+
+affiliation
+type: player
+date: 1910
+club: Caruthersville
+league: Northeast Arkansas
+position: of
+
+note: signed at Memphis home by manager Riggs of Fort Smith 1911-01-30
+source: Arkansas Democrat 1911-01-31, page 6
+note: 1911 contract recorded
+source: Muskogee Times-Democrat 1911-03-04, page 7
+
+affiliation
+type: prospect
+date: 1911
+club: Fort Smith
+league: Western Association
+
+note: Benham did not join Fort Smith club - new bride did not want Benham to continue professional baseball
+
+---
+
+name
+last: Berry
+first: Harry
+
+affiliation
+type: prospect
+date: 1908
+club: Decatur
+league: Three-I
+position: c
+
+note: released on or before 1908-04-05
+source: The Decatur Herald 1908-04-05, page 3
+
+affiliation
+type: player
+date: 1908
+club: Pine Bluff
+league: Arkansas State
+position: c
+
+note: signed by Pine Bluff 1908-05-11
+source: Arkansas Gazette 1908-05-12, page 8
+note: 1909 contract with Pine Bluff recorded
+source: The Sporting News 1909-03-11, page 6
+note: Pine Bluff franchise transferred to Alexandria
+note: Berry released by Alexandria 1909-04-03
+source: Pine Bluff Daily Graphic 1909-04-03, page 4
+note: Berry signed as player-manager by Hot Springs 1909-04-07
+source: Pine Bluff Daily Graphic 1909-04-08, page 7
+
+affiliation
+type: player
+date: 1909
+club: Hot Springs
+league: Arkansas State
+position: c
+
+note: was either released or claimed off waivers, signed with Helena on or before 1909-05-19
+source: Arkansas Gazette 1909-05-20, page 9
+
+affiliation
+type: player
+date: 1909
+club: Helena
+league: Arkansas State
+position: c
+
+note: was with Helena club when league folded
+
+affiliation
+type: player
+date: 1909
+club: Little Rock
+league: Southern Association
+position: c
+
+note: signed with Little Rock 1909-07-31
+source: Arkansas Gazette 1909-08-01, page 9
+note: was on reserve list when Little Rock franchise was transferred to Chattanooga
+source: Arkansas Democrat 1909-12-08, page 6
+
+affiliation
+type: player
+date: 1909
+club: Jonesboro
+league: Northeast Arkansas
+position: c
+
+note: joined Jonesboro club in last week of season
+source: Jonesboro Daily News 1909-09-23, page 3
+source: Jonesboro Daily News 1909-09-28, page 1
+
+---
+
+name
+last: Besse
+first: Otto
+
+affiliation
+type: player
+date: 1908
+club: Hot Springs
+league: Arkansas State
+position: rf
+
+note: 1908 contract recorded
+source: The Sporting News 1908-05-14, page 8
+note: 1909 contract with Hot Springs recorded
+source: The Sporting News 1909-03-11, page 6
+note: 1909 contract with Hot Springs voided, Besse signs with Shreveport at some time prior to season's start
+source: The Shreveport Times 1909-04-17, page 6
+source: The Sporting News 1909-05-20, page 8
+
+affiliation
+type: prospect
+date: 1909
+club: Shreveport
+league: Texas
+
+note: optioned to Texarkana 1909-04-16
+source: The Shreveport Times 1909-04-17, page 6
+source: The Sporting News 1909-07-22, page 8
+
+affiliation
+type: player
+date: 1909
+club: Texarkana
+league: Arkansas State
+position: 1b
+
+note: was with Texarkana club when league folded - Shreveport exercised option to recall
+
+affiliation
+type: player
+date: 1909
+club: Shreveport
+league: Texas
+position: lf
+
+note: released by Shreveport 1909-08-02
+source: The Houston Post 1909-08-03, page 3
+
+affiliation
+type: player
+date: 1909
+club: Muskogee
+league: Western Association
+position: of
+
+note: signed by Muskogee 1909-08-06
+source: Muskogee County Democrat 1909-08-06, page 6
+
+---
+
+name
+last: Beveridge
+first: Will
+
+affiliation
+type: player
+date: 1909
+club: Fort Smith
+league: Arkansas State
+position: p
+
+note: appeared in just the 1909-04-29 game
+source: The Fort Smith Times 1909-04-30, page 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
