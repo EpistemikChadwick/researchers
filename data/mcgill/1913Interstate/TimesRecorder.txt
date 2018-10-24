@@ -1,0 +1,29 @@
+name
+last: Schriner
+first: Dudley
+
+affiliation
+type: player
+date: 1913
+club: Zanesville
+league: Interstate
+
+source: The (Zanesville) Times-Recorder, 1913-06-04, page 6
+
+--
+
+name
+last: Scholl
+first: Henry
+
+affiliation
+type: player
+date: 1913
+club: Zanesville
+league: Interstate
+position: P
+
+source: The (Zanesville) Times-Recorder, 1913-06-04, page 6
+
+--
+

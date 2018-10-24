@@ -1,0 +1,23 @@
+name
+last: Jenkins
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1910
+club: Roanoke
+league: Virginia
+
+meta
+throws: Left
+
+note: joined team on Jul 18 from Roanoke
+
+source: Winston-Salem Journal, 1910-07-19, page 2
+
+--

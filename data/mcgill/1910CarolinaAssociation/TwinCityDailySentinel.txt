@@ -1,0 +1,246 @@
+name
+last: Guss
+first: Samuel M.
+
+affiliation
+type: player
+year: 1910
+club: Winston-Salem
+league: Carolina Association
+
+birth
+date: 1890
+
+residence
+place: US, PA, Reading
+date: 1910
+
+source: The Twin-City Daily Sentinel 1910-04-23, page 10
+
+--
+
+name
+last: Bennett
+first: Walter W.
+
+affiliation
+type: player
+year: 1910
+club: Winston-Salem
+league: Carolina Association
+
+affilition
+type: player
+year: 1905
+club: Kinston
+league: Hudson River
+
+affiliation
+type: player
+year: 1906-1907
+club: New Haven
+league: Connecticut State
+
+affiliation
+type: player
+year: 1908
+club: Gloversville
+league: New York State
+
+affiliation
+type: player
+year: 1909
+club: Winston-Salem
+league: Carolina Association
+
+residence
+place: US, NY, New York City
+date: 1910
+
+source: The Twin-City Daily Sentinel 1910-04-23, page 10
+
+--
+
+name
+last: Patrick
+first: Lawrence
+
+affiliation
+type: player
+year: 1910
+club: Winston-Salem
+league: Carolina Association
+
+residence
+place: US, MD, Baltimore
+date: 1910
+
+source: The Twin-City Daily Sentinel 1910-04-23, page 10
+
+--
+
+name
+last: Vance
+first: Thomas
+
+affiliation
+type: player
+year: 1910
+club: Winston-Salem
+league: Carolina Association
+
+residence
+place: US, WV
+date: 1910
+
+source: The Twin-City Daily Sentinel 1910-04-23, page 10
+
+--
+
+name
+last: Gilmore
+
+affiliation
+type: player
+year: 1910
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+year: 1909
+club: Wilson
+league: Eastern Carolina
+
+residence
+place: US, TN, Gallatin
+date: 1910
+
+source: The Twin-City Daily Sentinel 1910-04-23, page 10
+
+--
+
+name
+last: Holt
+first: J. Harvey
+
+affiliation
+type: player
+year: 1910
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+year: 1909
+club: Augusta
+league: South Atlantic
+
+affiliation
+type: player
+year: 1908
+club: Raleigh
+league: Eastern Carolina
+
+affiliation
+type: player
+year: 1907
+club: Washington
+league: Eastern Carolina
+
+affiliation
+type: player
+year: 1906
+club: Roanoke
+league: Virginia
+
+affiliation
+type: player
+year: 1906
+club: Knoxville
+league: Tennessee-Alabama
+
+affiliation
+type: player
+year: 1905
+club: Asheville
+league: Interstate
+
+residence
+place: US, TN, Oak Ridge
+date: 1910
+
+source: The Twin-City Daily Sentinel 1910-04-23, page 10
+
+--
+
+name
+last: Hale
+first: Frank
+
+affiliation
+type: player
+date: 1910
+club: Winston-Salem
+league: Carolina Association
+
+affiliation
+type: player
+date: 1910
+club: Richmond
+league: Eastern Carolina
+
+affiliation
+type: player
+date: 1909
+club: Richmond
+league: Eastern Carolina
+
+affiliation
+type: player
+date: 1909
+club: Roanoke
+league: Virginia
+
+source: Twin-City Daily Sentinel, 1910-06-22, page 6
+
+--
+
+name
+last: Handiboe
+first: Ed
+
+affiliation
+type: umpire
+date: 1910
+league: Carolina Association
+
+source: The Twin-City Daily Sentinel, 1910-01-27, page 6
+
+--
+
+name
+last: Rose
+first: Edward
+
+affiliation
+type: player
+date: 1910
+club: Winston-Salem
+league: Carolina Association
+
+
+source: The Twin-City Daily Sentinel, 1910-06-18, page 8
+
+--
+
+name
+last: Rose
+
+affiliation
+type: player
+date: 1910
+club: Spartanburg
+league: Carolina Association
+
+source: The Twin-City Daily Sentinel, 1910-07-04, page 6

@@ -1,0 +1,92 @@
+name
+last: Handiboe
+first: Ed
+
+affiliation
+type: umpire
+date: 1909
+league: Ohio State
+
+source: The Charlotte News, 1910-02-02, page 12
+
+--
+
+name
+last: Mackey
+first: W.J.
+
+affiliation
+type: umpire
+date: 1910
+league: Carolina Association
+
+affiliation
+type: umpire
+date: 1909
+league: Carolina Association
+
+source: The Charlotte News, 1910-04-14, page 7
+
+--
+
+name
+last: McCloskey
+first: Charles F.
+
+affiliation
+type: umpire
+date: 1910
+league: Carolina Association
+
+source: The Charlotte News, 1910-04-14, page 7
+
+--
+
+name
+last: Handiboe
+first: Ed
+
+name
+last: Handibo
+first: Mike
+
+relationship
+name1: Ed
+name2: Mike
+relationship-type: brother
+
+source: The Charlotte News, 1910-07-26, page 7
+
+--
+
+name
+last: Byrd
+first: R.D.
+
+affiliation
+type: player
+date: 1910
+club: Anderson
+league: Carolina Association
+
+source: The Charlotte News, 1910-06-17, page 3
+
+--
+
+name
+last: Rudisill
+first: Will
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1910
+club: King's Mountain
+claiber: semi-pro
+
+source: The Charlotte News, 1910-08-05, page 7

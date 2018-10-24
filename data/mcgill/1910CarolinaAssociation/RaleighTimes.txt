@@ -1,0 +1,20 @@
+name
+last: Lathrop
+
+affiliation
+type: player
+year: 1910
+club: Anderson
+league: Carolina Association
+
+affiliation
+type: player
+year: 1910
+club: Raleigh
+league: Eastern Carolina
+
+note: Mat Lothrop (f997eacf)
+
+source: The Raleigh Times, 1910-05-23, page 3
+
+--

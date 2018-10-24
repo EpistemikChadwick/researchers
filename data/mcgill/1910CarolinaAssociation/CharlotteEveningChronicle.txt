@@ -1,0 +1,34 @@
+name
+last: Spong
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+caliber: semi-pro
+
+source: Charlotte Evening Chronicle, 1910-09-02, page 3
+
+--
+
+name
+last: Garber
+
+affiliation
+type: player
+date: 1910
+club: Burlington
+
+affiliation
+type: player
+date: 1910
+club: Charlotte
+league: Carolina Association
+
+source: Charlotte Evening Chronicle, 1910-09-01, page 8
