@@ -1,0 +1,29 @@
+name
+last: Utley
+first: Phil
+
+affiliation
+type: player
+date: 1915
+club: Thomasville
+league: Florida-Alabama-Georgia
+
+affiliation
+type: player
+date: 1915
+club: Red Springs
+league: Eastern North Carolina
+caliber: semi-pro
+
+affiliation
+type: player
+club: Wake Forest University
+caliber: college
+
+source: Charlotte News 1915-08-04, page 6
+
+
+
+
+
+

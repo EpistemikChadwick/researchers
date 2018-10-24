@@ -1,0 +1,176 @@
+name
+last: Chambers
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: 1B
+
+affiliation
+type: player
+league: Georgia-Alabama
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Spitznagle
+first: Fred
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: 2B
+
+affiliation
+type: player
+league: Georgia-Alabama
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Jordan
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: 3B
+
+affiliation
+type: player
+league: Kentucky-Illinois-Tennessee
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Baker
+first: Oscar
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: P
+
+residence
+place: US, AL, Columbia
+date: 1915
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Hall
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Cordele
+league: Georgia State
+position: P
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Atridge
+first: Ollie
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: C
+
+residence
+place: US, FL, 
+date: 1915
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Paschal
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: LF
+
+residence
+place: US, AL, Enterprise 
+date: 1915
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Blackwell
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: RF
+
+residence
+place: US, AL, Columbia 
+date: 1915
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+---
+
+name
+last: Burress
+first: Perry
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: SS
+
+residence
+place: US, GA, Madison
+date: 1915
+
+source: Montgomery Advertiser 1915-04-22, page 9
+
+
+
+
+
+
+

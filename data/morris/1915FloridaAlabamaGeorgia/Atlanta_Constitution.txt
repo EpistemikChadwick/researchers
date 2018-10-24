@@ -1,0 +1,241 @@
+name
+last: Blackwell
+first: Frank
+
+affiliation
+type: player
+date: 1916
+club: Bainbridge
+league: Dixie
+
+source: Atlanta Constitution 1916-05-17, page 12
+
+---
+
+name
+last: Jordan
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Brunswick
+league: Florida-Alabama-Georgia
+
+source: Atlanta Constitution 1915-06-13, page 5
+
+---
+
+name
+last: Jordan
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Brunswick
+league: Florida-Alabama-Georgia
+position: C
+
+note: picture
+
+source: Atlanta Constitution 1915-04-11, page 5
+
+---
+
+name
+last: Weiler
+first: Charley
+
+affiliation
+type: player
+date: 1915
+club: Brunswick
+league: Florida-Alabama-Georgia
+position: SS
+
+note: picture
+
+source: Atlanta Constitution 1915-04-11, page 5
+
+---
+
+name
+last: Reynolds
+first: Wade
+
+affiliation
+type: player
+date: 1915
+club: Brunswick
+league: Florida-Alabama-Georgia
+position: RF
+
+note: picture
+
+source: Atlanta Constitution 1915-04-11, page 5
+
+---
+
+name
+last: Murphy
+first: Pat
+given: Herbert
+
+affiliation
+type: player
+date: 1913
+club: Thomasville
+league: Empire
+position: SS
+
+affiliation
+type: player
+date: 1914
+club: Jersey City
+league: International
+
+affiliation
+type: player
+date: 1915
+club: Portland
+league: Pacific Coast
+
+source: Atlanta Constitution 1915-02-04, page 9
+
+---
+
+name
+last: Perry
+first: Red
+
+affiliation
+type: player
+date: 1915
+club: Thomasville
+league: Florida-Alabama-Georgia
+position: SS
+
+residence
+place: US, MS, Meridian
+date: 1915
+
+source: Atlanta Constitution 1915-03-29, page 6
+
+---
+
+name
+last: Murch
+first: Red
+
+affiliation
+type: manager
+date: 1915
+club: Thomasville
+league: Florida-Alabama-Georgia
+
+source: Atlanta Constitution 1915-04-25, page 2
+
+---
+
+name
+last: Sample
+first: Guy
+
+affiliation
+type: manager
+date: 1915
+club: Valdosta
+league: Florida-Alabama-Georgia
+
+source: Atlanta Constitution 1915-04-25, page 2
+
+---
+
+name
+last: Reynolds
+first: Ham
+
+affiliation
+type: manager
+date: 1915
+club: Waycross
+league: Florida-Alabama-Georgia
+
+source: Atlanta Constitution 1915-04-25, page 2
+
+---
+
+name
+last: Utter
+
+affiliation
+type: player
+date: 1915
+club: Waycross
+league: Florida-Alabama-Georgia
+
+affiliation
+type: player
+date: 1914
+club: Americus
+league: Georgia State
+
+source: Atlanta Constitution 1915-04-18, page 5
+
+---
+
+name
+last: Dowling
+first: Bill
+
+affiliation
+type: player
+date: 1915
+club: Waycross
+league: Florida-Alabama-Georgia
+position: 3B
+
+residence
+place: US, GA, Blackshear
+date: 1915
+
+source: Atlanta Constitution 1915-04-18, page 5
+
+---
+
+name
+last: Jordan
+first: George
+
+affiliation
+type: player
+date: 1915
+club: Brunswick
+league: Rio Grande Association
+position: C 
+
+name
+last: Jordan
+first: Otto
+
+relationship
+name1: George
+name2: Otto
+relationship-type: brother
+
+source: Atlanta Constitution 1915-04-18, page 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+

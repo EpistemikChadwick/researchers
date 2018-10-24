@@ -1,0 +1,27 @@
+name
+last: Dickerson
+
+affiliation
+type: player
+date: 1915
+club: Americus
+caliber: Florida-Alabama-Georgia
+
+affiliation
+type: player
+date: 1915
+club: Macon
+caliber: South Atlantic
+
+source: Macon Telegraph 1915-05-04, page 9
+
+
+
+
+
+
+
+
+
+
+

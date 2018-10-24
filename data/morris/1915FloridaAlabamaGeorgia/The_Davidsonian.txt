@@ -1,0 +1,24 @@
+name
+last: Alford
+first: Leslie
+
+affiliation
+type: player
+date: 1913
+club: Davidson College
+caliber: college
+position: C
+
+residence
+place: US, FL, Chipley
+date: 1915
+
+source: The Davidsonian 1915-01-27, page 4
+
+---
+
+
+
+
+
+

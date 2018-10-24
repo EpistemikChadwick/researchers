@@ -1,0 +1,20 @@
+name
+last: Mitchell
+first: Felton
+
+affiliation
+type: umpire
+date: 1915
+caliber: Florida-Alabama-Georgia
+
+source: Sporting Life 1915-05-22, page 6
+
+
+
+
+
+
+
+
+
+

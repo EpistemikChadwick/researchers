@@ -1,0 +1,73 @@
+name
+last: Reagan
+first: Rip
+
+affiliation
+type: manager
+date: 1915
+club: Griffin
+league: Georgia-Alabama
+
+source: Brunswick (GA) News 1915-06-20, page 3
+
+---
+
+name
+last: Manchester
+
+affiliation
+type: player
+date: 1915
+club: Griffin
+league: Georgia-Alabama
+
+affiliation
+type: player
+date: 1915
+league: Florida-Alabama-Georgia
+
+source: Brunswick (GA) News 1915-06-20, page 3
+
+---
+
+name
+last: Brazier
+
+affiliation
+type: player
+date: 1915
+club: Griffin
+league: Georgia-Alabama
+
+affiliation
+type: player
+date: 1915
+league: Florida-Alabama-Georgia
+
+source: Brunswick (GA) News 1915-06-20, page 3
+
+---
+
+name
+last: Bowdoin
+
+affiliation
+type: player
+date: 1915
+club: Griffin
+league: Georgia-Alabama
+
+affiliation
+type: player
+date: 1915
+league: Florida-Alabama-Georgia
+
+source: Brunswick (GA) News 1915-06-20, page 3
+
+
+
+
+
+
+
+

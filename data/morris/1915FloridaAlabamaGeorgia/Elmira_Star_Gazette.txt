@@ -1,0 +1,24 @@
+name
+last: Dann
+first: Oran
+
+affiliation
+type: player
+date: 1915
+club: Hornell
+caliber: Interstate
+
+affiliation
+type: player
+club: Elmira
+caliber: New York State
+
+source: Elmira Star-Gazette 1915-05-05, page 8
+
+
+
+
+
+
+
+

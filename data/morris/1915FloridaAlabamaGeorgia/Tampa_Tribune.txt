@@ -1,0 +1,42 @@
+name
+last: Cabrera
+first: Tony
+
+affiliation
+type: player
+date: 1915
+club: Gainesville
+league: Florida-Alabama-Georgia
+
+affiliation
+type: player
+club: Tampa Eagles
+caliber: semi-pro
+
+note: also known as Doc Derby
+
+source: Tampa Tribune 1915-06-23, page 8
+
+---
+
+name
+last: Stegall
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Gainesville
+league: Florida-Alabama-Georgia
+
+affiliation
+type: player
+club: Tampa Eagles
+caliber: semi-pro
+
+source: Tampa Tribune 1915-06-23, page 8
+
+
+
+
+

@@ -1,0 +1,52 @@
+name
+last: Attridge
+first: Ollie
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+position: C
+
+source: Dothan Eagle 1915-04-27, page 4
+
+---
+
+name
+last: Blackwell
+first: Frank
+
+affiliation
+type: player
+date: 1915
+club: Dothan
+league: Florida-Alabama-Georgia
+
+source: Dothan Eagle 1915-05-03, page 4
+
+---
+
+name
+last: Askew
+
+affiliation
+type: player
+date: 1915
+club: Bainbridge
+league: Florida-Alabama-Georgia
+position: 1B
+
+residence
+place: US, AL, Birmingham
+date: 1915
+
+source: Dothan Eagle 1916-05-06, page 1
+
+
+
+
+
+
+
+

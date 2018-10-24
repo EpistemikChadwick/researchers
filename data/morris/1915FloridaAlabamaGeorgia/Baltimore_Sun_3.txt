@@ -1,0 +1,70 @@
+name
+last: Blunt
+first: Samuel
+
+affiliation
+type: player
+date: 1915
+club: Hagerstown
+league: Blue Ridge
+
+source: Baltimore Sun 1915-05-27, page 8
+
+---
+
+name
+last: Pearson
+first: Ben
+
+affiliation
+type: player
+date: 1915
+club: Hagerstown
+league: Blue Ridge
+position: P
+
+affiliation
+type: player
+date: 1914
+club: Petersburg
+league: Virginia
+position: P
+
+meta
+throws: Right
+
+residence
+place: US, PA, Philadelphia
+date: 1915
+
+source: Baltimore Sun 1915-05-27, page 8
+
+---
+
+name
+last: Cotter
+first: Harry
+
+affiliation
+type: player
+date: 1915
+club: Hagerstown
+league: Blue Ridge
+position: P
+
+meta
+throws: Left
+
+residence
+place: US, MD, Baltimore
+date: 1915
+
+source: Baltimore Sun 1915-05-27, page 8
+
+
+
+
+
+
+
+
