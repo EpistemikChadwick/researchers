@@ -1,0 +1,48 @@
+name
+last: Kelly
+first: George
+
+affiliation
+type: player
+date: 1908
+club: Cincinnati
+league: National
+position: IF
+
+affiliation
+type: player
+date: 1908
+club: University of Michigan
+caliber: college
+
+source: Cincinnati Enquirer 1908-07-25, page 4
+
+---
+
+name
+last: Kelly
+first: George
+
+affiliation
+type: player
+date: 1908
+club: Cincinnati
+league: National
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+
+source: Cincinnati Enquirer 1908-07-05, page 8
+
+
+
+
+
+
+
+
+
+

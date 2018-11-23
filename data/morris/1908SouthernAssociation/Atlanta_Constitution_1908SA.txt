@@ -1,0 +1,129 @@
+name
+last: Doyle
+first: Joe
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+
+affiliation
+type: player
+club: New York
+league: American
+
+source: Atlanta Constitution 1908-07-18, page 4
+
+---
+
+
+name
+last: Doyle
+first: Slow Joe
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+position: P
+
+source: Atlanta Constitution 1908-07-30, page 4
+
+---
+
+
+name
+last: Walsh
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+
+affiliation
+type: player
+date: 1908
+league: Texas
+
+source: Atlanta Constitution 1908-07-30, page 4
+
+---
+
+name
+last: Smith
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+position: C
+
+affiliation
+type: player
+league: Virginia
+
+affiliation
+type: player
+date: 1907
+club: Columbia
+league: South Atlantic
+
+meta
+throws: Right
+
+note: picture
+
+source: Atlanta Constitution 1908-07-25, page 4
+
+---
+
+name
+last: Kelley
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+position: IF
+
+affiliation
+type: player
+date: 1908
+club: University of Michigan
+caliber: college
+
+source: Atlanta Constitution 1908-07-25, page 4
+
+---
+
+name
+last: Morse
+first: Whitey
+
+affiliation
+type: player
+date: 1908
+club: Nashville
+league: Southern Association
+
+affiliation
+type: player
+club: Atlanta
+league: Southern Association
+
+source: Atlanta Constitution 1908-03-22, page 8
+
+
+
+
+
+
+
+
+
+

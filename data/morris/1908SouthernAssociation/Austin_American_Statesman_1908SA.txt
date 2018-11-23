@@ -1,0 +1,21 @@
+name
+last: Walsh
+first: Leo
+
+affiliation
+type: player
+date: 1908
+club: Atlanta
+league: Southern Association
+
+affiliation
+type: player
+date: 1908
+club: Austin
+league: Texas
+
+source: Austin American-Statesman 1908-05-02, page 3
+
+
+
+

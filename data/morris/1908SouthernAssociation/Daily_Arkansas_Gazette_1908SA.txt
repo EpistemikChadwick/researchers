@@ -1,0 +1,12 @@
+name
+last: Ragan
+first: Rip
+given: Arthur
+
+affiliation
+type: player
+date: 1908
+club: Little Rock
+league: Southern Association
+
+source: Daily Arkansas Gazette 1908-05-31, page 13

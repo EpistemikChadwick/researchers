@@ -1,0 +1,19 @@
+name
+last: Morse
+first: Whitey
+
+affiliation
+type: player
+date: 1908
+club: Nashville
+league: Southern Association
+
+affiliation
+type: player
+date: 1908
+club: Dayton
+league: Central
+
+source: Dayton Herald 1908-05-02, page 6
+
+

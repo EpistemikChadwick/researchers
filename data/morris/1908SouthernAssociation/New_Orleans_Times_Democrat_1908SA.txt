@@ -1,0 +1,45 @@
+name
+last: McClelland
+first: George
+
+affiliation
+type: player
+date: 1908
+club: New Orleans
+league: Southern Association
+
+
+affiliation
+type: player
+date: 1908
+club: East Liverpool
+league: Ohio-Pennsylvania
+
+source: New Orleans Times-Democrat 1908-04-26, page 14
+
+---
+
+
+name
+last: Preston
+first: Walter
+
+affiliation
+type: player
+date: 1908
+club: New Orleans
+league: Southern Association
+
+affiliation
+type: player
+date: 1908
+club: Memphis
+league: Southern Association
+
+source: New Orleans Times-Democrat 1908-02-09, page 11
+
+
+
+
+
+
